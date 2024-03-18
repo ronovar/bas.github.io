@@ -4,3 +4,7 @@
   margin-right: auto;
   width: 50%;
 }
+
+p.lead.text-center {
+  text-align: justify !important;
+}
