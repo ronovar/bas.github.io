@@ -15,7 +15,7 @@ paige:
 title: ".: Borina Amaterska Svaštara :."
 ---
 
-<p>{{% paige/image alt="Landscape" breakpoints=true class="object-fit-cover rounded-4" fetchpriority="high" loading="eager" process="webp" src="paige-home.png" %}}</p>
+<p>{{% paige/image alt="Landscape" breakpoints=true class="object-fit-cover rounded-4" fetchpriority="high" loading="eager" src="paige-home.png" %}}</p>
 
 <p class="display-5 fw-bold h2 text-center">Molim da pročitate pre nego što krenete na ostale stranice!!!</p>
 
