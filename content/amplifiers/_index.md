@@ -1,4 +1,4 @@
 ---
-description: "Demonstrations of Paige content."
-title: "Content"
+description: "Hi-Fi & Power Amplifier Pojačala"
+title: "Pojačala"
 ---
