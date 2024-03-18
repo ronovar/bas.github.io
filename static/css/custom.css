@@ -5,6 +5,10 @@
   width: 50%;
 }
 
+p#paige-description {
+  text-align: center !important;
+}
+
 p.lead.text-center {
   text-align: justify !important;
 }
