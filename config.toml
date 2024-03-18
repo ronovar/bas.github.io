@@ -7,6 +7,9 @@ theme = "paige"
 timezone = "America/Los_Angeles"
 titlecasestyle = "Go"
 
+[params]
+custom_css = ["assets/css/custom.css"]
+
 [languages.en]
 title = "Paige"
 weight = 10
@@ -119,6 +122,3 @@ author = "authors"
 category = "categories"
 series = "series"
 tag = "tags"
-
-[params]
-custom_css = ["assets/css/custom.css"]
