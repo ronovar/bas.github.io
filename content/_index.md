@@ -15,6 +15,7 @@ paige:
 title: ".: Borina Amaterska Svaštara :."
 ---
 {{ $image := resources.Get "images/paige-home.png" }}
+<p><img src="{{$image.Permalink}}"></p>
 
 <p>{{% paige/image alt="Landscape" breakpoints=true class="object-fit-cover rounded-4" fetchpriority="high" height="20rem" loading="eager" process="webp" src="{{ $image.RelPermalink }}" width="100%" %}}</p>
 
