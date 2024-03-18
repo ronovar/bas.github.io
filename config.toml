@@ -21,9 +21,9 @@ url = "/"
 weight = 10
 
 [[languages.en.menu.main]]
-identifier = "content"
-name = "Content"
-url = "/content/"
+identifier = "pojacala"
+name = "Pojacala"
+url = "/content/pojacala/"
 weight = 20
 
 [[languages.en.menu.main]]
