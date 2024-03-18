@@ -14,10 +14,8 @@ paige:
     }
 title: ".: Borina Amaterska Svaštara :."
 ---
-{{ $image := resources.Get "images/paige-home.png" }}
-{{ $img := $image.Resize "x200 webp" }}
 
-<p>{{% paige/image alt="Landscape" breakpoints=true class="object-fit-cover rounded-4" fetchpriority="high" height="20rem" loading="eager" process="webp" src="{{ $img.RelPermalink }}" width="100%" %}}</p>
+<p>{{% paige/image alt="Landscape" breakpoints=true class="object-fit-cover rounded-4" fetchpriority="high" height="20rem" loading="eager" process="webp" $image := resources.Get "images/paige-home.png" $img := $image.Resize "x200 webp" src="{{ $img.RelPermalink }}" width="100%" %}}</p>
 
 <p class="display-5 fw-bold h2 text-center">Molim da pročitate pre nego što krenete na ostale stranice!!!</p>
 
