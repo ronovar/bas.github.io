@@ -22,8 +22,8 @@ weight = 10
 
 [[languages.en.menu.main]]
 identifier = "pojacala"
-name = "Pojacala"
-url = "/content/pojacala/"
+name = "Pojačala"
+url = "/amplifiers/"
 weight = 20
 
 [[languages.en.menu.main]]
