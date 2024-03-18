@@ -13,7 +13,7 @@ p#paige-description {
   text-align: center !important;
 }
 
-p.lead.text-center {
+p.lead.text-center, div#paige-content ul {
   text-align: justify !important;
 }
 
