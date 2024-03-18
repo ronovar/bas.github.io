@@ -1,5 +1,5 @@
 ---
-description: "Audio, primenjene elektronike "
+description: "Audio Primenjene Elektronike"
 paige:
   search:
     hide_page: true
@@ -15,7 +15,7 @@ paige:
 title: ".: Borina Amaterska Svaštara :."
 ---
 
-<p>{{% paige/image alt="Landscape" breakpoints=true class="object-fit-cover rounded-4" fetchpriority="high" height="20rem" loading="eager" process="webp" src="https://images.unsplash.com/photo-1490604001847-b712b0c2f967?w=1296" width="100%" %}}</p>
+<p>{{% paige/image alt="Landscape" breakpoints=true class="object-fit-cover rounded-4" fetchpriority="high" height="20rem" loading="eager" process="webp" src="../images/paige-home.png" width="100%" %}}</p>
 
 <p class="display-5 fw-bold h2 text-center">Molim da pročitate pre nego što krenete na ostale stranice!!!</p>
 
