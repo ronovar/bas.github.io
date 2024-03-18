@@ -1,3 +1,27 @@
 baseURL = "https://ronovar.github.io/bas.github.io/"
 languageCode = "en-us"
 theme = "paige"
+
+[languages.en]
+weight = 10
+
+[[languages.en.menu.main]]
+identifier = "home"
+name = "Home"
+url = "/"
+weight = 10
+
+[[languages.en.menu.main]]
+identifier = "blog"
+name = "Blog"
+url = "/blog/"
+weight = 20
+
+[languages.en.menu.main.params.paige]
+divider_below = true
+
+[[languages.en.menu.main]]
+identifier = "search"
+name = "Search"
+url = "/search/"
+weight = 40
