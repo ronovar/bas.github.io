@@ -17,7 +17,7 @@ p.lead.text-center {
   text-align: justify !important;
 }
 
-div#paige-content h2 {
+div#paige-content h2, div#paige-content h3 {
     text-align: center !important;
     text-transform: uppercase;
 }
