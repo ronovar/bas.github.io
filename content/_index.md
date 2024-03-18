@@ -23,6 +23,7 @@ title: ".: Borina Amaterska Svaštara :."
     <div class="justify-content-center row">
         <div class="col col-auto col-lg-7 px-0">
             <p class="lead text-center">Generalno uzevši, što se tiče mojih projekata (ovde mislim na audio projekte), svi su do sad urađeni barem u nekoliko primeraka, a dobar deo je bio godinama u proizvodnom programu nekoliko firmi u svetu (u kojima sam radio kao dizajner po ugovoru) i urađeni su u stotinama pa i hiljadama primeraka. Mojim izlaskom iz tih kompanija, prestala je (po ugovoru) i njihova proizvodnja pa sam sada slobodan da ih javno publikujem budući da su moje intelektualno vlasnistvo.</p>
+            <p class="lead text-center">U koliko se odlučite da gradite neki od mojih projekata, molim da projekat postavite na forum uz par slika te kratak opis. U koliko se pojavi veći broj istih ili sličnih problema sa nekim projektom, pokusaću da rešenja dodam na sajtu uz taj projekat. Uz dovoljno znanja, pažnje i kvalitetne komponente, verujem da niko ne bi trebalo da ima problema sa bilo kojim od mojih projekata.</p>
         </div>
     </div>
 </div>
