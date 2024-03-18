@@ -1,5 +1,5 @@
 ---
-description: "<a href="https://forum.yu3ma.net/" target="_blank">FORUM</a>"
+description: "Audio Elektronika"
 paige:
   search:
     hide_page: true
