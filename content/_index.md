@@ -1,5 +1,5 @@
 ---
-description: "Powerful, pliable pixel perfection."
+description: ".::Borina Amaterska Svaštara::."
 paige:
   search:
     hide_page: true
@@ -12,7 +12,7 @@ paige:
     #paige-title {
         font-size: 5rem;
     }
-title: "Paige"
+title: "BAS"
 ---
 
 <p>{{% paige/image alt="Landscape" breakpoints=true class="object-fit-cover rounded-4" fetchpriority="high" height="20rem" loading="eager" process="webp" src="https://images.unsplash.com/photo-1490604001847-b712b0c2f967?w=1296" width="100%" %}}</p>
