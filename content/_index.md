@@ -17,7 +17,7 @@ title: ".: Borina Amaterska Svaštara :."
 
 <p>{{% paige/image alt="Landscape" breakpoints=true class="object-center rounded-4" fetchpriority="high" loading="eager" src="images/paige-home.png" %}}</p>
 
-<p style="color: red" class="display-6 fw-bold h2 text-center">Molim da pročitate pre nego što krenete na ostale stranice!!!</p>
+<p style="color: #ff0000" class="display-7 fw-bold h2 text-center">Molim da pročitate pre nego što krenete na ostale stranice!!!</p>
 
 <div class="container-fluid">
     <div class="justify-content-center row">
