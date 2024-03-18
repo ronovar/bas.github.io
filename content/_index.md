@@ -28,13 +28,10 @@ title: ".: Borina Amaterska Svaštara :."
 
 <p style="color: #ff0000" class="display-7 fw-bold h2 text-center">PAŽNJA! PAŽNJA! PAŽNJA!</p>
            <p class="lead text-center">Sve što je dato na ovom sajtu je moj dar od srca i poklon prijateljima i drugarima audio entuzijastima-samograditeljima i elektroničarima, sve dotle dok to koriste <span style="color: #ff0000; font-weight: bold;"> SAMO I ISKLJUČIVO ZA LIČNE POTREBE.</span> Sve šeme i dizajni na ovom sajtu su <span style="color: #ff0000; font-weight: bold;">MOJE INTELEKTUALNO VLASNIŠTVO</span> i kao takve zaštićene i našim i internacionalnim zakonom o intelektualnom vlasništvu i <span style="color: #ff0000; font-weight: bold;">NE SMEJU SE KORISTITI BEZ MOG PRISTANKA</span> u komercijalne svrhe u bilo kom smislu ili za sticanje <span style="color: #ff0000; font-weight: bold;">BILO KAKVE</span> materijalne dobiti !!! Na svaku zloupotrebu u ovom smislu za koju saznam, reagovaću bez ustezanja i u okviru svojih zakonskih prava.</p>
+           <p class="lead text-center"><span style="color: #ff0000; font-weight: bold;">Copyright Notice.</span> Everything on this WEB-site is the intellectual property of Dr Borivoje Jagodic. Reproduction or re-publication by any means whatsoever, whether electronic, mechanical or electro- mechanical, is strictly prohibited under International Copyright laws. The author (Dr Borivoje Jagodic) grants the reader the right to use this information for personal use only, and further allows that one (1) copy may be made for reference. Commercial use is prohibited without express written authorisation from Dr Borivoje Jagodić.</p>
         </div>
     </div>
 </div>
-
-<p class="text-center">
-    <a class="lead" href="https://github.com/willfaught/paige">Install it now.</a>
-</p>
 
 <div class="column-gap-3 d-flex display-6 justify-content-center mb-3">
     {{< paige/icon class="bi bi-github" title="GitHub" url="https://github.com/willfaught/paige" >}}
