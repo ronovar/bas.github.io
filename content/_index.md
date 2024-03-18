@@ -22,7 +22,7 @@ title: ".: Borina Amaterska Svaštara :."
 <div class="container-fluid">
     <div class="justify-content-center row">
         <div class="col col-auto col-lg-7 px-0">
-            <p class="lead text-center">Paige is designed to put your content front and center, avoiding the typical clutter. The look is seamless and smooth, scalable and readable, portable and efficient. The layout is minimal and responsive, using verticality and white space to focus and delineate parts of the page. The implementation is flexible and extensible. It’s a versatile canvas that serves most web needs.</p>
+            <p class="lead text-center">Generalno uzevši, što se tiče mojih projekata (ovde mislim na audio projekte), svi su do sad urađeni barem u nekoliko primeraka, a dobar deo je bio godinama u proizvodnom programu nekoliko firmi u svetu (u kojima sam radio kao dizajner po ugovoru) i urađeni su u stotinama pa i hiljadama primeraka. Mojim izlaskom iz tih kompanija, prestala je (po ugovoru) i njihova proizvodnja pa sam sada slobodan da ih javno publikujem budući da su moje intelektualno vlasnistvo.</p>
         </div>
     </div>
 </div>
