@@ -7,6 +7,9 @@ theme = "paige"
 timezone = "America/Los_Angeles"
 titlecasestyle = "Go"
 
+[markup.goldmark.renderer]
+unsafe = true
+
 [languages.en]
 title = "Paige"
 weight = 10
