@@ -83,7 +83,7 @@ ordered = true
 startlevel = 2
 
 [[module.imports]]
-path = "github.com/willfaught/paige"
+path = "../themes/paige"
 
 [outputs]
 home = ["atom", "html", "json", "rss"]
