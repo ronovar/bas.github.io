@@ -119,3 +119,6 @@ author = "authors"
 category = "categories"
 series = "series"
 tag = "tags"
+
+[params]
+custom_css = ["assets/css/custom.css"]
