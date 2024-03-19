@@ -3,7 +3,7 @@ copyright = "© Will Faught"
 enablerobotstxt = true
 languagecode = "en-us"
 paginate = 50
-theme = ["hugo-shortcode-gallery"]
+theme = ["paige", "hugo-shortcode-gallery"]
 timezone = "America/Los_Angeles"
 titlecasestyle = "Go"
 
