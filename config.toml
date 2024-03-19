@@ -9,7 +9,6 @@ titlecasestyle = "Go"
 
 [params]
 custom_css = ["css/custom.css", "plugins/PhotoSwipe/dist/photoswipe.css"]
-custom_js = ["plugins/PhotoSwipe/dist/photoswipe.esm.js", "plugins/PhotoSwipe/dist/photoswipe-lightbox.esm.js"]
 
 [languages.en]
 title = "Paige"
