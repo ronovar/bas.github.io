@@ -3,6 +3,6 @@ copyright = "© Dr Borivoje Jagodić"
 enablerobotstxt = true
 languagecode = "en-us"
 paginate = 50
-theme = ["hugo-theme-gallery"]
+theme = ["paige", "hugo-theme-gallery"]
 timezone = "America/Los_Angeles"
 titlecasestyle = "Go"
