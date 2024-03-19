@@ -1,14 +1,16 @@
 {{ with .Get "title" }}
   <h4>{{ . }}</h4>
 {{ end }}
-  <div class="pswp-gallery pswp-gallery--single-column" id="gallery--getting-started">
+  <div class="gallery" itemscope itemtype="http://schema.org/ImageGallery">
   {{- range (.Page.Resources.Match (printf "%s*" (.Get "folder"))) }}
   {{ $thumbnail := .Resize "320x" }}
-    <a href="{{ .Permalink }}" 
-      data-pswp-width="1669" 
-      data-pswp-height="2500" 
-      target="_blank">
-      <img src="{{ $thumbnail.Permalink }}" alt="" />
+    <figure itemscope itemtype="http://schema.org/ImageObject" class="image gallery-item">
+    <a href="{{ .Permalink }}" itemprop="contentUrl" data-size="{{ .Width }}x{{ .Height }}" >
+      <img src="{{ $thumbnail.Permalink }}" itemprop="thumbnail" alt="galleryImage" class="galleryImage" />
     </a>
-    <script>initPhotoSwipeFromDOM('.gallery');</script>
+    <figcaption itemprop="caption description">
+      <span itemprop="copyrightHolder"></span>
+    </figcaption>
+    </figure> 
   {{ end }}
+  </div>
