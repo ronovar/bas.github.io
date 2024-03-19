@@ -5,3 +5,7 @@ timezone = "America/Los_Angeles"
 
 [[module.imports]]
 path = "../themes/hugo-theme-gallery"
+
+[module]
+[[module.imports]]
+path = "../themes/paige"
