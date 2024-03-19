@@ -5,15 +5,8 @@ description: "Integrisano stereo pojačalo"
 draft: false
 tags: ["HF 2006"]
 weight: 10
-featured_image: azzedine-rouichi-ZS_XuDZmxpM-unsplash.jpg
-menus: "main"
-sort_by: Name # Exif.Date
-sort_order: desc
-#type: gallery
-weight: 3
-params:
-  theme: dark
 ---
+{{< gallery match="gallery/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true loadJQuery=true >}}
 
 ## Integrisano Stereo Pojačalo
 
