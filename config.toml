@@ -8,8 +8,8 @@ timezone = "America/Los_Angeles"
 titlecasestyle = "Go"
 
 [params]
-custom_css = ["css/custom.css", "static/plugins/PhotoSwipe/dist/photoswipe.css"]
-custom_js = ["static/plugins/PhotoSwipe/dist/photoswipe-lightbox.esm.min.js"]
+custom_css = ["css/custom.css", "plugins/PhotoSwipe/dist/photoswipe.css"]
+custom_js = ["plugins/PhotoSwipe/dist/photoswipe-lightbox.esm.min.js"]
 
 [languages.en]
 title = "Paige"
