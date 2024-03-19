@@ -21,3 +21,9 @@ div#paige-content h2, div#paige-content h3 {
     text-align: center !important;
     text-transform: uppercase;
 }
+
+figure {
+    padding-right: 119px;
+    padding-left: 34px;
+    display: inline-table;
+}
