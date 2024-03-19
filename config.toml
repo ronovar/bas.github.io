@@ -84,10 +84,9 @@ noclasses = false
 endlevel = 6
 ordered = true
 startlevel = 2
-
+    
 [[module.imports]]
-path = "../themes/paige"
-path = "github.com/nicokaiser/hugo-theme-gallery/v4"
+path = ["../themes/paige", "github.com/nicokaiser/hugo-theme-gallery/v4"]
 
 [outputs]
 home = ["atom", "html", "json", "rss"]
