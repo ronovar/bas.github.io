@@ -90,9 +90,6 @@ startlevel = 2
 [[module.imports]]
 path = "../themes/paige"
 
-[[module.imports]]
-path = "../themes/gallery"
-
 [outputs]
 home = ["atom", "html", "json", "rss"]
 section = ["atom", "html", "rss"]
