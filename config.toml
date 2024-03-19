@@ -90,9 +90,6 @@ startlevel = 2
 path = "../themes/paige"
 
 [[module.imports]]
-path = "../themes/hugo-shortcode-gallery"
-
-[[module.imports]]
 path = "../themes/hugo-theme-gallery"
 
 [outputs]
