@@ -25,3 +25,8 @@ div#paige-content h2, div#paige-content h3 {
 div img {
     border-radius: 6px;
 }
+
+figure {
+    display: flex;
+    justify-content: center;
+}
