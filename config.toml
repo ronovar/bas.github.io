@@ -8,7 +8,7 @@ timezone = "America/Los_Angeles"
 titlecasestyle = "Go"
 
 [params]
-custom_css = ["css/custom.css", "plugins/photoswipe/photoswipe/photoswipe.css", "plugins/photoswipe/photoswipe/default-skin.css"]
+custom_css = ["css/custom.css", "plugins/photoswipe/photoswipe.css", "plugins/photoswipe/default-skin.css"]
 custom_js = ["plugins/photoswipe/photoswipe.min.js", "plugins/photoswipe/photoswipe-ui-default.min.js", "plugins/photoswipe/initphotoswipe.js"]
 
 [languages.en]
