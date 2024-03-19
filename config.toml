@@ -27,9 +27,9 @@ url = "/amplifiers/"
 weight = 20
 
 [[languages.en.menu.main]]
-identifier = "layouts"
-name = "Layouts"
-url = "/layouts/"
+identifier = "pretpojacala"
+name = "pretpojačala"
+url = "/preamplifiers/"
 weight = 30
 
 [[languages.en.menu.main]]
