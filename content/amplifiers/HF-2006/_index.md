@@ -10,6 +10,7 @@ weight: 10
 
 {{< gallery match="gallery/*" sortOrder="asc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true loadJQuery=true >}}
 
+
 *Samogradnja* **audio pojačala** je najčešće, i od strane većine onih koje zanima audio tehnika, smatrana za previše težak i verovatno neisplativ poduhvat. Uz to, odavno je duboko usađeno uverenje da ništa što je "pravljeno" ne može da valja niti da bude makar i blizu fabričkog.
 
 Ni jedna od tih tvrdnji nije tačna, a da je to tako, pokušaćemo da dokažemo ovim uslovno rečeno, *"uvodnim"* projektom na kraju koga ćete uz užitak i ponos da ste to sami napravili, moći da se pohvalite i sa dosta novostečenog znanja, a što je najvažnije... dobićete jedno sasvim kvalitetno kućno stereo pojačalo koje će po svojim karakteristikama dosta lako nadmašiti većinu fabričkih MINI i MIDI linija!
@@ -89,4 +90,4 @@ Uključite napajanje i trebalo bi da u tim prvim momentima ne čujete baš NIŠT
 
 Ako ste došli do ove tačke i sve se ponaša normalno i u skladu sa opisom koji sam dao, Vaš uredjaj je potpuno gotov i spreman za rad!
 
-Prvi primerak-prototip ovog dizajna napravio je Gdin Miodrag Lutovac iz Berana (CG) i to izuzetno uredno i lepo što i nije čudno znajući njegovo iskustvo i veštinu. Uredjaj je najnormalnije proradio već na prvom uključenju. Tako će se ponašati i svaki drugi sklopljen primerak ako su korišćene ispravne i originalne komponente i ako tokom gradnje nije napravljena nekakva greška u postavljanju komponenata ili lemljenju ili povezivanju. Evo i slika tog prototipa...
+Prvi primerak-prototip ovog dizajna napravio je Gdin Miodrag Lutovac iz Berana (CG) i to izuzetno uredno i lepo što i nije čudno znajući njegovo iskustvo i veštinu. Uredjaj je najnormalnije proradio već na prvom uključenju. Tako će se ponašati i svaki drugi sklopljen primerak ako su korišćene ispravne i originalne komponente i ako tokom gradnje nije napravljena nekakva greška u postavljanju komponenata ili lemljenju ili povezivanju.
