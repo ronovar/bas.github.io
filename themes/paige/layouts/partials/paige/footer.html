@@ -22,7 +22,7 @@
     {{ end }}
 
     {{ with $copyright }}
-        <img src = "{{.Site.BaseURL}}/images/ome audio.svg" alt="OME Audio"/>
+        <img src = "{{ .site.BaseURL | markdownify }}/images/ome audio.svg" alt="OME Audio"/>
         <p class="mb-0 text-center text-secondary" id="paige-copyright">{{ . }}</p>
     {{ end }}
 
