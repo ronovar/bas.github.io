@@ -32,6 +32,7 @@ Da bi se *obezbedilo* da većini zainteresovanih čitalaca projekat bude što la
 
 Takođe sam se trudio da vodim računa i o konstrukcionoj fleksibilnosti uređaja. Zato je dizajn zamišljen tako da dozvoljava mnoge kasnije eventualne izmene, prepravke ili poboljšanja kao i prilagođavanje ličnim potrebama graditelja. Neki podsklopovi se mogu u potpunosti izostaviti ili premostiti i tako isključiti iz funkcije, promenama nekih komponenti se uređaj može prilagoditi ostatku postojećeg sistema, čak se pri dizajnu pločice išlo dotle da je predviđena mogućnost da se delovi pločice iseku i koriste kao odvojeni moduli!
 
+<hr>
 ### Kako to radi?
 <hr>
 
@@ -51,6 +52,7 @@ U osnovi, svaki takav snažan audio integralac možete posmatrati funkcionalno k
 
 Napajanje oba izlazna stepena je zajedničko i izvedeno je sasvim klasično. Nije korišćena nikakva stabilizacija jer smatram da za ovakav "uvodni" tj. početni dizajn nije neophodna, ali se svakome ostavlja mogućnost da to kasnije dogradi kao interesantno poboljšanje. Korišćeni transformator je toroidnog tipa i ima jedan bifilarno motani sekundar od 2x24V/4A, i jedan manji takodje bifilarno namotan sekundar od 2x15V/200-250mA. Sa takvim naponima sekundara i uz punotalasno mostno ispravljanje dobiće se na glavnim elektrolitskim kondenzatorima (po 3x4700uF u svakoj grani napajanja) jednosmerni napon od oko +/- 35V. To je optimalan napon napajanja za ovo kolo da se obezbedi zadovoljavajuća snaga a da se pri tom ne ide do granica njegovih mogućnosti a time i rizika od pregorevanja i otkaza. Kolo može da radi i na +/- 40V i tada daje čak i nešto više snage, ali je to maksimalan napon koji se sme na njega dovesti i u principu se za kvalitetan i pouzdan rad sklopa ne preporučuje.
 
+<hr>
 ### A kako sada sve to sklopiti?
 <hr>
 
