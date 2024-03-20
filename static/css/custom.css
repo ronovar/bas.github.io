@@ -30,3 +30,8 @@ figure {
     display: flex;
     justify-content: center;
 }
+
+.gallery {
+    max-width: -webkit-fill-available;
+    display: flex;
+}
