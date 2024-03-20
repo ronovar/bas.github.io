@@ -6,8 +6,7 @@ draft: false
 tags: ["HF-2006"]
 weight: 10
 ---
-## Integrisano Stereo Pojačalo
-<hr>
+## Integrisano Stereo Pojačalo<hr>
 
 {{< load-photoswipe >}}
 {{< gallery caption-effect="fade" >}}
@@ -15,7 +14,7 @@ weight: 10
   {{< figure src="./gallery/HF-2006/HF-2006 - Prednja Strana.jpg" caption="HF-2006 - Prednja Strana" >}}
   {{< figure src="./gallery/HF-2006/HF-2006 - Tonske Kontrole.jpg" caption="HF-2006 - Tonske Kontrole" >}}
   {{< figure src="./gallery/HF-2006/HF-2006 - Zadnja Strana.jpg" caption="HF-2006 - Zadnja Strana" >}}
-{{< /gallery >}}
+{{< /gallery >}}<hr>
 
 *Samogradnja* **audio pojačala** je najčešće, i od strane većine onih koje zanima audio tehnika, smatrana za previše težak i verovatno neisplativ poduhvat. Uz to, odavno je duboko usađeno uverenje da ništa što je "pravljeno" ne može da valja niti da bude makar i blizu fabričkog.
 
