@@ -7,6 +7,6 @@ tags: ["CALOR-Gold"]
 weight: 10
 ---
 ## Vrhunsko pojačalo u A-klasi
-
-{{< gallery dir="/gallery/CALOR-Gold/" />}}
 {{< load-photoswipe >}}
+{{< gallery dir="/gallery/CALOR-Gold/" />}}
+
