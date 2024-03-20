@@ -10,10 +10,10 @@ weight: 10
 
 {{< load-photoswipe >}}
 {{< gallery caption-effect="fade" >}}
-  {{< figure src="/gallery/HF-2006/HF-2006 - Pločica i Torusni Transformator.jpg" caption="HF-2006 - Pločica i Torusni Transformator" >}}
-  {{< figure src="/gallery/HF-2006/HF-2006 - Prednja Strana.jpg" caption="HF-2006 - Prednja Strana" >}}
-  {{< figure src="/gallery/HF-2006/HF-2006 - Tonske Kontrole.jpg" caption="HF-2006 - Tonske Kontrole" >}}
-  {{< figure src="/gallery/HF-2006/HF-2006 - Zadnja Strana.jpg" caption="HF-2006 - Zadnja Strana" >}}
+  {{< figure src="./gallery/HF-2006/HF-2006 - Pločica i Torusni Transformator.jpg" caption="HF-2006 - Pločica i Torusni Transformator" >}}
+  {{< figure src="./gallery/HF-2006/HF-2006 - Prednja Strana.jpg" caption="HF-2006 - Prednja Strana" >}}
+  {{< figure src="./gallery/HF-2006/HF-2006 - Tonske Kontrole.jpg" caption="HF-2006 - Tonske Kontrole" >}}
+  {{< figure src="./gallery/HF-2006/HF-2006 - Zadnja Strana.jpg" caption="HF-2006 - Zadnja Strana" >}}
 {{< /gallery >}}
 
 *Samogradnja* **audio pojačala** je najčešće, i od strane većine onih koje zanima audio tehnika, smatrana za previše težak i verovatno neisplativ poduhvat. Uz to, odavno je duboko usađeno uverenje da ništa što je "pravljeno" ne može da valja niti da bude makar i blizu fabričkog.
