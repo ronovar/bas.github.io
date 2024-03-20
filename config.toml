@@ -5,11 +5,11 @@ languagecode = "en-us"
 paginate = 50
 theme = ["paige"]
 timezone = "America/Los_Angeles"
+
+[params]
 titlecasestyle = "Go"
 copystart = "2024"
 name = "OME Audio"
-
-[params]
 custom_css = ["css/custom.css"]
 
 [languages.en]
