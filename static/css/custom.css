@@ -32,6 +32,6 @@ figure {
 }
 
 .gallery {
-    max-width: -webkit-fill-available;
+    max-width: -webkit-fill-available !important;
     display: flex;
 }
