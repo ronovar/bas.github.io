@@ -1,7 +1,6 @@
 {{ $page := . }}
 
 {{ $copyright := site.Copyright | markdownify }}
-{{ $href := site.baseURL | markdownify }}
 {{ $linkcontent := $page.Param "paige.file_link.content" | markdownify }}
 {{ $linkurl := $page.Param "paige.file_link.url" }}
 {{ $target := partial "paige/target.html" (dict "page" $page "url" $href) }}
@@ -22,7 +21,6 @@
     {{ end }}
 
     {{ with $copyright }}
-        <img src = "{{ $href }}/images/ome audio.svg" alt="OME Audio"/>
         <p class="mb-0 text-center text-secondary" id="paige-copyright">{{ . }}</p>
     {{ end }}
 
