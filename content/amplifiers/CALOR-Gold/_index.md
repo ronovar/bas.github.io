@@ -9,3 +9,4 @@ weight: 10
 ## Vrhunsko pojačalo u A-klasi
 
 {{< gallery dir="/gallery/CALOR-Gold/" />}}
+{{< load-photoswipe >}}
