@@ -8,7 +8,6 @@ timezone = "America/Los_Angeles"
 titlecasestyle = "Go"
 
 [params]
-baseURL = "https://ronovar.github.io/bas.github.io/"
 copystart = "2016"
 name = "OME Audio"
 custom_css = ["css/custom.css"]
