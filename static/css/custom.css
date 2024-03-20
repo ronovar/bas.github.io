@@ -21,7 +21,7 @@ p#paige-description {
   text-align: center !important;
 }
 
-.container-fluid p.lead.text-center, div#paige-content ul, div#paige-content p {
+p.lead.text-center, div#paige-content ul, .container-fluid p {
   text-align: justify !important;
 }
 
