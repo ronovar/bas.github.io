@@ -3,7 +3,7 @@ copyright = "© Dr Borivoje Jagodić"
 enablerobotstxt = true
 languagecode = "en-us"
 paginate = 50
-theme = ["paige", "hugo-shortcode-gallery"]
+theme = ["paige"]
 timezone = "America/Los_Angeles"
 titlecasestyle = "Go"
 
@@ -88,9 +88,6 @@ startlevel = 2
 [module]
 [[module.imports]]
 path = "../themes/paige"
-
-[[module.imports]]
-path = "../themes/hugo-shortcode-gallery"
 
 [outputs]
 home = ["atom", "html", "json", "rss"]
