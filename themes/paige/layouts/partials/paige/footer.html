@@ -5,8 +5,6 @@
 {{ $linkcontent := $page.Param "paige.file_link.content" | markdownify }}
 {{ $linkurl := $page.Param "paige.file_link.url" }}
 {{ $target := partial "paige/target.html" (dict "page" $page "url" $href) }}
-{{ $copystart := .Params.Copystart }}
-{{ $sitename := .Params.Name }}
 
 {{ if and $linkurl $page.File }}
     {{ $linkurl = printf $linkurl $page.File.Path | safeURL }}
@@ -26,7 +24,7 @@
     {{ with $copyright }}
         <img src = "https://ronovar.github.io/bas.github.io/images/ome audio.svg" alt="OME Audio"/>
         <p class="mb-0 text-center text-secondary" id="paige-copyright">{{ . }}</p>
-        <p class="copyright">Copyright &copy; {{ $copystart }}-{{ dateFormat "2006" now }}, {{ $sitename }}.</p>
+        <p class="copyright">Copyright &copy; {{ .Params.copystart }}-{{ dateFormat "2006" now }}, {{ .Params.name }}.</p>
     {{ end }}
 
     <p class="mb-0 text-center" id="paige-credit">
