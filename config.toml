@@ -105,9 +105,9 @@ url = "https://willfaught.com/paige"
 commit_url = "https://github.com/willfaught/paige/commit/%s"
 
 [[params.paige.feed.atom.authors]]
-email = "will.faught@example.com"
-name = "Will Faught"
-url = "https://willfaught.com/paige"
+email = "kia_ora@ptt.yu"
+name = "Dr. Borivoje Jagodić"
+url = "https://ronovar.github.io/bas.github.io/"
 
 [params.paige.feed.rss]
 managing_editor = "will.faught@example.com (Will Faught)"
