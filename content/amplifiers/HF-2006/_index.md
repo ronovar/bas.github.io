@@ -8,6 +8,8 @@ weight: 10
 ---
 ## Integrisano Stereo Pojačalo
 
+{{< load-photoswipe >}}
+{{< gallery dir="/gallery/HF-2006/" />}}
 
 *Samogradnja* **audio pojačala** je najčešće, i od strane većine onih koje zanima audio tehnika, smatrana za previše težak i verovatno neisplativ poduhvat. Uz to, odavno je duboko usađeno uverenje da ništa što je "pravljeno" ne može da valja niti da bude makar i blizu fabričkog.
 
