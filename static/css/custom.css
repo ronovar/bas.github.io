@@ -35,3 +35,7 @@ figure {
     max-width: -webkit-fill-available !important;
     display: flex;
 }
+
+.gallery figure {
+    border-radius: 4px;
+}
