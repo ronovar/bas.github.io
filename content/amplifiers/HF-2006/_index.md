@@ -67,8 +67,8 @@ Proces sklapanja započnite od detaljnog razgledanja same pločice i crteža na 
 - Mada to u audio elektronici nije baš poželjna praksa, ipak vas kod vaše prve samogradnje savetujemo da za integralna kola u pretpojacalu koristite podnožja tj. da ih ne lemite direktno na pločicu. Kada već moraju da budu podnožja onda barem neka budu što kvalitetnija, pa vas savetujemo da nabavite takozvana niskoprofilna "precizna" tj. "mašinski urađena" podnožja sa pozlaćenim kontaktima, dakle NE ONA čiji su kontakti urađeni sa elastičnim percima. Izgled jednog "preciznog" podnožja je dat na slici-2. Postavite podnožja na njihova mesta pazeći da ih tačno okrenete a za to će vam pomoći oznake za nožicu broj 1 koje su na rasporedu elemenata označene kao crvene tačke na integralnim kolima NE5534AN. Kada postavite sva podnožja **NEMOJTE ZA SADA** u njih *stavljati* integralna kola!!!
 
 {{< paige/gallery align="center" >}}
-{{< paige/image src="./images/ICsocket.png" >}}
-{{< paige/image src="./images/TDA.png" >}}
+{{< paige/image alt="IC Socket" src="./images/ICsocket.png" >}}
+{{< paige/image alt="TDA 7294V" src="./images/TDA.png" >}}
 {{< /paige/gallery >}}
 
 - Izlazni integralci TDA7294 nemaju podnožja i leme se direktno na pločicu. Kako da njih pravilno okrenete i postavite, vidi se na crtežu rasporeda elemenata na kome se jasno vidi oznaka za nožicu broj 1 koja je na samom kolu prva sa leve strane kako je to dato na slici-3.
