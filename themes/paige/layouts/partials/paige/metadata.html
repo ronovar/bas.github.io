@@ -11,6 +11,7 @@
 {{ $series := $page.Params.series }}
 {{ $tags := $page.Params.tags | default slice | uniq }}
 {{ $title := $page.Title | markdownify }}
+{{ $href := site.BaseURL }}
 
 {{ if and ($page.Param "paige.git.commit_url") $page.GitInfo }}
     {{ $commiturl = printf ($page.Param "paige.git.commit_url") $page.GitInfo.Hash }}
@@ -23,7 +24,7 @@
 
     {{ with $description }}
         <p class="lead text-center" id="paige-description">{{ . }}</p>
-        <img src = "{{.Site.BaseURL}}/images/ome audio.svg" alt="OME Audio"/>
+        <img src = "{{ $href }}/images/ome audio.svg" alt="OME Audio"/>
     {{ end }}
 
     {{ if or $categories $tags }}
