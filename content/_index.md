@@ -1,5 +1,5 @@
 ---
-description: "Audio Elektronika"
+description: "Audio Primenjene Elektronike"
 paige:
   search:
     hide_page: true
