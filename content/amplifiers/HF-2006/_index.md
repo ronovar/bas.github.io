@@ -7,6 +7,7 @@ tags: ["HF-2006"]
 weight: 10
 ---
 ## Integrisano Stereo Pojačalo
+<hr>
 
 {{< load-photoswipe >}}
 {{< gallery caption-effect="fade" >}}
