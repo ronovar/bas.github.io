@@ -32,9 +32,7 @@ Da bi se *obezbedilo* da većini zainteresovanih čitalaca projekat bude što la
 
 Takođe sam se trudio da vodim računa i o konstrukcionoj fleksibilnosti uređaja. Zato je dizajn zamišljen tako da dozvoljava mnoge kasnije eventualne izmene, prepravke ili poboljšanja kao i prilagođavanje ličnim potrebama graditelja. Neki podsklopovi se mogu u potpunosti izostaviti ili premostiti i tako isključiti iz funkcije, promenama nekih komponenti se uređaj može prilagoditi ostatku postojećeg sistema, čak se pri dizajnu pločice išlo dotle da je predviđena mogućnost da se delovi pločice iseku i koriste kao odvojeni moduli!
 
-<hr>
 ### Kako to radi?
-<hr>
 
 *U osnovi*, ovaj deo audio lanca se kod gotovo svih uređaja te vrste sastoji iz dva osnovna podsklopa: pretpojačala i izlaznog pojačala snage. Oni mogu biti urađeni kao dva potpuno zasebna uređaja u zasebnim kutijama ali i kao jedan integrisani sistem kao što je to slučaj sa HF2006. Pod pojmom "integrisani sistem" ili "integrisano pojačalo" u audio tehnici se podrazumeva da su pretpojačalo i izlazno pojačalo ugrađeni u jednu kutiju kao jedan uređaj i taj izraz ne treba mešati sa pojmom integralnih kola. I jedan i drugi sklop istina mogu biti u celosti izvedeni uz pomoć integralnih kola ali njihov naziv "integrisano" ne potiče iz tog razloga.
 
@@ -52,9 +50,7 @@ U osnovi, svaki takav snažan audio integralac možete posmatrati funkcionalno k
 
 Napajanje oba izlazna stepena je zajedničko i izvedeno je sasvim klasično. Nije korišćena nikakva stabilizacija jer smatram da za ovakav "uvodni" tj. početni dizajn nije neophodna, ali se svakome ostavlja mogućnost da to kasnije dogradi kao interesantno poboljšanje. Korišćeni transformator je toroidnog tipa i ima jedan bifilarno motani sekundar od 2x24V/4A, i jedan manji takodje bifilarno namotan sekundar od 2x15V/200-250mA. Sa takvim naponima sekundara i uz punotalasno mostno ispravljanje dobiće se na glavnim elektrolitskim kondenzatorima (po 3x4700uF u svakoj grani napajanja) jednosmerni napon od oko +/- 35V. To je optimalan napon napajanja za ovo kolo da se obezbedi zadovoljavajuća snaga a da se pri tom ne ide do granica njegovih mogućnosti a time i rizika od pregorevanja i otkaza. Kolo može da radi i na +/- 40V i tada daje čak i nešto više snage, ali je to maksimalan napon koji se sme na njega dovesti i u principu se za kvalitetan i pouzdan rad sklopa ne preporučuje.
 
-<hr>
 ### A kako sada sve to sklopiti?
-<hr>
 
 Da bi vam što više *olakšao* proces izrade, dizajnirana je pločica na kojoj se nalaze i kompletno stereo pretpojačalo i stereo pojačalo kao i napajanja za oba dela sistema. Pretpostavljam da oni koji se upuštaju u ovakvu gradnju znaju da prepoznaju i "čitaju" komponente i njihove vrednosti. U koliko to još niste savladali, savetujem da to svakako učinite pre početka gradnje jer su u protivnom greške, problemi i razočarenje skoro sigurni, a velike su šanse da i vaši troškovi budu mnogo veći nego sto je neophodno.
 
@@ -72,8 +68,8 @@ Proces sklapanja započnite od detaljnog razgledanja same pločice i crteža na 
 - Mada to u audio elektronici nije baš poželjna praksa, ipak vas kod vaše prve samogradnje savetujemo da za integralna kola u pretpojacalu koristite podnožja tj. da ih ne lemite direktno na pločicu. Kada već moraju da budu podnožja onda barem neka budu što kvalitetnija, pa vas savetujemo da nabavite takozvana niskoprofilna "precizna" tj. "mašinski urađena" podnožja sa pozlaćenim kontaktima, dakle NE ONA čiji su kontakti urađeni sa elastičnim percima. Izgled jednog "preciznog" podnožja je dat na slici-2. Postavite podnožja na njihova mesta pazeći da ih tačno okrenete a za to će vam pomoći oznake za nožicu broj 1 koje su na rasporedu elemenata označene kao crvene tačke na integralnim kolima NE5534AN. Kada postavite sva podnožja **NEMOJTE ZA SADA** u njih *stavljati* integralna kola!!!
 
 {{< paige/gallery align="center" >}}
-{{< paige/image alt="IC Socket" src="./images/ICsocket.png" >}}
-{{< paige/image alt="TDA 7294V" src="./images/TDA.png" >}}
+{{< paige/image alt="IC Socket" title="IC Socket" src="./images/ICsocket.png" >}}
+{{< paige/image alt="TDA 7294V" title="TDA 7294V" src="./images/TDA.png" >}}
 {{< /paige/gallery >}}
 
 - Izlazni integralci TDA7294 nemaju podnožja i leme se direktno na pločicu. Kako da njih pravilno okrenete i postavite, vidi se na crtežu rasporeda elemenata na kome se jasno vidi oznaka za nožicu broj 1 koja je na samom kolu prva sa leve strane kako je to dato na slici-3.
