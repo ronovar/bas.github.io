@@ -47,3 +47,7 @@ figure {
 .gallery figure {
     border-radius: 4px;
 }
+
+.pswp__caption__center {
+    text-align: center !important;
+}
