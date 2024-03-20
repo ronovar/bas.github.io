@@ -56,7 +56,7 @@ figure {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 12%;
+    width: 65%;
     opacity: 0.6;
     margin-bottom: 4px;
     filter: invert(0.6) sepia(0.5) saturate(8) hue-rotate(175deg);
