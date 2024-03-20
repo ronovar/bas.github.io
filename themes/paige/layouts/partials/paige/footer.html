@@ -24,11 +24,10 @@
     {{ with $copyright }}
         <img src = "https://ronovar.github.io/bas.github.io/images/ome audio.svg" alt="OME Audio"/>
         <p class="mb-0 text-center text-secondary" id="paige-copyright">{{ . }}</p>
-        <p class="copyright">Copyright &copy; {{ site.Params.copystart }}-{{ dateFormat "2006" now }}, {{ site.Params.name }}.</p>
     {{ end }}
 
     <p class="mb-0 text-center" id="paige-credit">
-        <a class="link-secondary text-decoration-none" href="{{ $href }}" {{ with $target }} target="{{ . }}" {{ end }}>OME Audio</a>
+        <a class="link-secondary text-decoration-none" href="{{ $href }}" {{ with $target }} target="{{ . }}" {{ end }}>Copyright &copy; {{ site.Params.copystart }}-{{ dateFormat "2006" now }}, {{ site.Params.name }}</a>
     </p>
 
     {{ if templates.Exists "partials/paige/footer-last.html" }}
