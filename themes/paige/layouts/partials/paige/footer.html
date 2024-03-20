@@ -5,8 +5,8 @@
 {{ $linkcontent := $page.Param "paige.file_link.content" | markdownify }}
 {{ $linkurl := $page.Param "paige.file_link.url" }}
 {{ $target := partial "paige/target.html" (dict "page" $page "url" $href) }}
-{{ $copystart := site.Copystart | markdownify }}
-{{ $sitename := site.Name | markdownify }}
+{{ $copystart := .Params.Copystart | markdownify }}
+{{ $sitename := .Params.Name | markdownify }}
 
 {{ if and $linkurl $page.File }}
     {{ $linkurl = printf $linkurl $page.File.Path | safeURL }}
