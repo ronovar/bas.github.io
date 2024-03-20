@@ -27,7 +27,7 @@
     {{ end }}
 
     <p class="mb-0 text-center" id="paige-credit">
-        <a class="link-secondary text-decoration-none" href="{{ $href }}" {{ with $target }} target="{{ . }}" {{ end }}>Copyright &copy; {{ site.Params.copystart }}-{{ dateFormat "2006" now }}, {{ site.Params.name }}</a>
+        <a class="link-secondary text-decoration-none" href="{{ $href }}" {{ with $target }} target="{{ . }}" {{ end }}>Copyright &copy; {{ site.Params.copystart }} - {{ dateFormat "2006" now }} {{ site.Params.name }}®. All rights reserved.</a>
     </p>
 
     {{ if templates.Exists "partials/paige/footer-last.html" }}
