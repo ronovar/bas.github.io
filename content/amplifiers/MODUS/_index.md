@@ -29,7 +29,7 @@ Predpojačalo koje sam najčešće koristio uz Modus ćete naći u odeljku *"Pre
 {{< /paige/quote >}}
 
 {{< paige/quote >}}
-7Hz - 84kHz<br>(pri 85% snage i izobličenjima ispod 0.01%)<br>***Frekventni opseg snage***
+7Hz - 84kHz<br>(pri 85% snage i THD ispod 0.01%)<br>***Frekventni opseg snage***
 {{< /paige/quote >}}
 
 {{< paige/quote >}}
