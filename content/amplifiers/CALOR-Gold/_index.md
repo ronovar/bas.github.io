@@ -20,7 +20,7 @@ weight: 10
 
 *CALOR-Gold* je izlazno pojačalo snage najvišeg kvaliteta dizajnirano tako da zadovolji i najrafiniranije ukuse audiofila. Pojačalo radi u takozvanoj **"klasi A"** i ova snažnija verzija "Gold" proizvodi 40W snage na opterećenju od 8 oma. CALOR-Gold je apsolutno uporediv po osobinama sa gotovo bilo kojim drugim pojačalom HiEnd klase te snage. Da bi se postigle te osobine, a imajući na umu prirodu rada pojačala u klasi A, od presudne važnosti je da se za CALOR-Gold obezbedi odgovarajući izvor napajanja kao i dovoljno efikasno hlađenje. O tim potrebama ćemo govoriti kasnije u ovom uputstvu.
 
-### Sklapanje Modula
+### Sklapanje modula
 
 Počnite sklapanje tako što će te se prvo dobro upoznati sa šemom, pločicom i rasporedom na njoj. To je veoma važno iako na prvi pogled može izgledati trivijalno, a to posebno važi za manje iskusne graditelje jer dobro poznavanje rasporeda na pločici bitno smanjuje mogućnost greške. Pri tom podrazumevamo da ste već dovoljno vešti u prepoznavanju i “čitanju” vrednosti elemenata. Za postavljanje elemenata koristite i strogo se pridržavajte rasporeda prikazanog na slici rasporeda elemenata. Ona je prikazana onako kako se to vidi gledano sa strane komponenata.
 
@@ -48,7 +48,7 @@ Sada je preostalo da se na pločicu postave i veliki elektrolitski kondenzatori 
 
 Ta sledeća faza je sklapanje male pomoćne pločice koja sadrži samo četiri komponente, te bi ovaj deo posla trebao biti sasvim jednostavan. Jedino što će tražiti malo više pažnje i veštine je motanje izlazne zavojnice. Ona ima 17 navoja bakarnom lak-žicom prečnika 1,8mm i unutrašnji prečnik od 16mm. To je takozvana "vazdušna" zavojnica jer se u njenoj unutrašnjosti ne nalazi nikakvo jezgro ili drugi materijal. Sama žica je dovoljno debela i kruta tako da će zavojnica ostati čvrsta sama po sebi i bez ikakve dodatne potpore. Najlakše ćete zavojnicu namotati tako što ćete uzeti neki valjkasti predmet (telo nekog markera ili burgiju) prečnika 15mm i na njemu pažljivo, navoj do navoja namotate 18 navoja. Kada pustite žicu ona će se malo opustiti i vratiti (kao feder) ali se navoji neće međusobno razmaći već će se malo povećati obim zavojnice, taman toliko koliko nam treba jer će sada biti unutrašnji prečnik oko 16mm. Sada ponovo prebrojte broj navoja i formirajte krajeve tako da bude tačno 17 navoja. Odsecite višak žice tako da svaki kraj zavojnice ima ravni deo žice u dužini od oko 10mm. Na oba kraja uklonite lak izolaciju u dužini od 5mm. Provucite krajeve zavojnice kroz predviđene rupe na štampi i postavite zavojnicu tako da je od površine pločice udaljena oko 5mm. tada će i na strani za lemljenje krajevi viriti još nekih 3mm i tada je zalemite. Postavite i ostale tri komponente na malu pločicu i ona je takođe spremna.
 
-### Montaža i Povezivanje
+### Montaža i povezivanje
 
 Sledeći korak je označavanje mesta za rupe za pričvršćenje izlaznih FET-ova i same pločice. Vratite za tu svrhu pločicu na hladnjak i pozicionirajte je tako da se četiri izlazna FET-a nalaze simetrično i ravnomerno udaljeni od ivica hladnjaka. Predvidite da će vam hladnjak montiran na kutiju stajati tako da su mu rebra u vertikalnom pravcu - NIKAKO u horizontalnom! Ako ste pravilno postavili, sama pločica NEĆE u odnosu na površinu hladnjaka stajati ni centralno ni simetrično. Tako i treba, bitno je da izlazni MOSFET-i stoje kako treba. Ne pomerajući pločicu iz tog željenog položaja, kroz postojeće rupe na FET-ovima precizno oštrim šiljkom označite mesta za rupe. PROVERITE VIŠE PUTA DA STE SVE TAČNO OZNAČILI!!! Najbolje bi bilo da se u ravnoj ploči baze hladnjaka izbuše rupe tako da ne prođu skroz na drugu stranu, već do dubine od najviše 80-90% debljine baze. Tada u tim rupama treba urezati navoj za šraf za pričvršćenje. Ako to ne umete sami da uradite (a to istina traži malo veštine i iskustva!) odnesite hladnjak kod nekog majstora koji će to profesionalno uraditi. Te usluge nisu skupe. Ovaj način možda izgleda teži ali je i bolji a i estetski prihvatljiviji. Svakako da se mogu izbušiti i kompletne rupe ali tada treba da pazite da budu označene i izbušene tako da na strani gde su rebra izađu između rebara! Kada su te četiri rupe spremne, privremeno pričvrstite FET-ove i označite mesta za rupe za šrafove na uglovima pločice te i njih uradite na isti način.
 
@@ -100,9 +100,9 @@ Vaše pojačalo je ovim potpuno završeno i spremno je za rad!
 
 ### Specifikacije
 
-> Prosečna izlazna snaga ----------- 40W/8 oma (bez izlaska iz klase A!)
-> Frekventni opseg snage ----------- 11Hz - 235kHz
-> THD ------------------------------ <0.008% (20Hz-20KHz/80%snage)
-> Fazni pomak ---------------------- do 2,5° u granicama 20Hz-20kHz
-> Slew rate ------------------------ 85V/μS
-> Damping faktor ------------------- >750
+> - Prosečna izlazna snaga ----------- 40W/8 oma (bez izlaska iz klase A!)
+> - Frekventni opseg snage ----------- 11Hz - 235kHz
+> - THD ------------------------------ <0.008% (20Hz-20KHz/80%snage)
+> - Fazni pomak ---------------------- do 2,5° u granicama 20Hz-20kHz
+> - Slew rate ------------------------ 85V/μS
+> - Damping faktor ------------------- >750
