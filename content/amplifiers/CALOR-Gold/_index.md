@@ -33,3 +33,11 @@ Predviđeno je da se veliki izlazni MOSFET-ovi nalaze ispod nivoa pločice pa se
 Prvo je potrebno da pažljivo savijete njihove (prilično krute) izvode pod uglom od 90 u stranu na kojoj su oznake elementa tj. suprotnu od one na kojoj je metalna pločica koja ide prema hladnjaku. Postoji nešto širi deo izvodnih nožica odmah po njihovom izlasku iz plastičnog kućišta i u tom delu ne bi trebalo savijati već to treba učiniti odmah na početku suženog dela nožica kao na sledećoj slici.
 
 <p>{{< paige/image alt="Legs" class="rounded-2" src="./images/Legs.png" title="Legs" >}}</p>
+
+> Budući da su lemne tačke nožica izlaznih MOSFET-ova fizički nedostupne kada su i oni a i pločica pričvršćeni na hladnjak, neophodno je da se njihovo lemljenje obavi pre toga. Mora se paziti na nekoliko stvari istovremeno:
+- zadnje strane MOSFET-ova, na kojima je metalna površina, moraju biti sve međusobno paralelne i pri tom u isto vreme paralelne i sa površinom pločice
+- udaljenost te zadnje površine MOSFET-ova od donje površine plocice na kojoj su bakarni vodovi treba da je 10mm zato što ćete kod montaže pločice koristiti na njenim uglovima odstojnike koji su upravo dužine 10mm
+
+Da bi ovo izveli što tačnije i jednostavnije, pomoći će sami MOSFET-ovi. Kako? Vrlo je zgodno što je njihova debljina upravo 5mm (IRFP FET-ovi) te ako stavite dva jedan na drugi, dobićete obe stvari od jednom: i paralelnost sa pločicom (a samim tim i međusobno!) i tačnu distancu do pločice. U ovoj fazi ne žurite već to odradite precizno. Biće jasnije ako pogledate sledeću sliku:
+
+<p>{{< paige/image alt="Legs PCB" class="rounded-2" src="./images/LegsPCB.png" title="Legs PCB" >}}</p>
