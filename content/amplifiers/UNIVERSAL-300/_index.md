@@ -13,7 +13,7 @@ Ovo je jedan klasičan izlazni stepen prilično univerzalne namene i dosta dobri
 ### Specifikacije
 <hr>
 {{< paige/quote >}}
-50 - 350W RMS/4-8Ω<br>(zavisi od vrste i broja izl. fetova, kao i napajanja)<br>***Prosečna izlazna snaga***
+50 - 350W RMS/4-8Ω<br>(zavisi od vrste i broja izl. fetova, kao i psu)<br>***Prosečna izlazna snaga***
 {{< /paige/quote >}}
 
 {{< paige/quote >}}
