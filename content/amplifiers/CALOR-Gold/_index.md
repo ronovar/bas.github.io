@@ -48,7 +48,7 @@ Sada je preostalo da se na pločicu postave i veliki elektrolitski kondenzatori 
 
 Ta sledeća faza je sklapanje male pomoćne pločice koja sadrži samo četiri komponente, te bi ovaj deo posla trebao biti sasvim jednostavan. Jedino što će tražiti malo više pažnje i veštine je motanje izlazne zavojnice. Ona ima 17 navoja bakarnom lak-žicom prečnika 1,8mm i unutrašnji prečnik od 16mm. To je takozvana "vazdušna" zavojnica jer se u njenoj unutrašnjosti ne nalazi nikakvo jezgro ili drugi materijal. Sama žica je dovoljno debela i kruta tako da će zavojnica ostati čvrsta sama po sebi i bez ikakve dodatne potpore. Najlakše ćete zavojnicu namotati tako što ćete uzeti neki valjkasti predmet (telo nekog markera ili burgiju) prečnika 15mm i na njemu pažljivo, navoj do navoja namotate 18 navoja. Kada pustite žicu ona će se malo opustiti i vratiti (kao feder) ali se navoji neće međusobno razmaći već će se malo povećati obim zavojnice, taman toliko koliko nam treba jer će sada biti unutrašnji prečnik oko 16mm. Sada ponovo prebrojte broj navoja i formirajte krajeve tako da bude tačno 17 navoja. Odsecite višak žice tako da svaki kraj zavojnice ima ravni deo žice u dužini od oko 10mm. Na oba kraja uklonite lak izolaciju u dužini od 5mm. Provucite krajeve zavojnice kroz predviđene rupe na štampi i postavite zavojnicu tako da je od površine pločice udaljena oko 5mm. tada će i na strani za lemljenje krajevi viriti još nekih 3mm i tada je zalemite. Postavite i ostale tri komponente na malu pločicu i ona je takođe spremna.
 
-## Montaža i Povezivanje
+### Montaža i Povezivanje
 
 Sledeći korak je označavanje mesta za rupe za pričvršćenje izlaznih FET-ova i same pločice. Vratite za tu svrhu pločicu na hladnjak i pozicionirajte je tako da se četiri izlazna FET-a nalaze simetrično i ravnomerno udaljeni od ivica hladnjaka. Predvidite da će vam hladnjak montiran na kutiju stajati tako da su mu rebra u vertikalnom pravcu - NIKAKO u horizontalnom! Ako ste pravilno postavili, sama pločica NEĆE u odnosu na površinu hladnjaka stajati ni centralno ni simetrično. Tako i treba, bitno je da izlazni MOSFET-i stoje kako treba. Ne pomerajući pločicu iz tog željenog položaja, kroz postojeće rupe na FET-ovima precizno oštrim šiljkom označite mesta za rupe. PROVERITE VIŠE PUTA DA STE SVE TAČNO OZNAČILI!!! Najbolje bi bilo da se u ravnoj ploči baze hladnjaka izbuše rupe tako da ne prođu skroz na drugu stranu, već do dubine od najviše 80-90% debljine baze. Tada u tim rupama treba urezati navoj za šraf za pričvršćenje. Ako to ne umete sami da uradite (a to istina traži malo veštine i iskustva!) odnesite hladnjak kod nekog majstora koji će to profesionalno uraditi. Te usluge nisu skupe. Ovaj način možda izgleda teži ali je i bolji a i estetski prihvatljiviji. Svakako da se mogu izbušiti i kompletne rupe ali tada treba da pazite da budu označene i izbušene tako da na strani gde su rebra izađu između rebara! Kada su te četiri rupe spremne, privremeno pričvrstite FET-ove i označite mesta za rupe za šrafove na uglovima pločice te i njih uradite na isti način.
 
@@ -65,7 +65,7 @@ Pošto ste zalemili sve kablove, vreme je da pločicu zajedno sa izlaznim FET-ov
 
 Savetujemo da povezivanje izlaznog (ili izlaznih - u slučaju stereo izvedbe) modula obavite prema priloženim crtežima na slikama 1 i 2 kako bi izbegli moguće probleme u radu celokupnog projekta.
 
-## Šta je još potrebno?
+### Šta je još potrebno?
 
 Na samom početku je napomenuto da je za pune i vrhunske performanse ovog pojačala neophodno obezbediti i odgovarajući sistem napajanja kao i adekvatno hlađenje izlaznih MOSFET-ova.
 
@@ -86,7 +86,7 @@ Da se dobije deklarisana efikasnost hlađenja, hladnjaci se moraju nalaziti van 
 
 <p>{{< paige/image alt="Krell KSA-100S" class="rounded-2" src="./images/Krell.png" title="Krell KSA-100S" >}}</p>
 
-## Puštanje u rad i podešavanje
+### Puštanje u rad i podešavanje
 
 Uz pretpostavku da ste pre povezivanja proverili da sklop za napajanje radi ispravno i daje potrebne napone od +30V i -30V, sada možete pristupiti prvom uključenju. Za taj proces bi bilo poželjno da imate na raspolaganju dva merna instrumenta (multimetra) jer je jedan potrebno postaviti između izlaza za zvučnik na pločici i mase (tačke C i D na šemi), i treba ga podesiti za merenje jednosmernog naponana na opsegu 20V, a drugi vezati na krajeve od sors otpornika jednog od gornjih MOSFET-ova (tačke A i B na šemi) i podesiti ga takođe za merenje jednosmernog napona ali sada na opsegu 0,5V. Kontakte na ulaznom CINCH priključku pojačala treba kratkospojiti, a na izlaz za zvučnik se za sada ne vezuje NIŠTA osim mernog instrumenta! Pre nego što prvi put uključite napajanje treba da znate šta u tom prvom momentu treba da očekujete da vidite na mernim instrumentima. Instrument vezan na izlazu treba da pokaže što manji jednosmerni napon - idealno 0V - ali je u prvom momentu budući da je sve još nepodešeno, sasvim prihvatljivo da instrument pokaže i 2..3V bilo pozitivnih ili negativnih. Drugi instrument između tačaka A i B bi trebalo da pokaže u idealnom slučaju oko 180...220mV ali je zbog nepodešenosti sasvim moguće da pokaže i svih 500mV tj. 0,5V.
 
@@ -98,7 +98,7 @@ Za kraj je još ostalo da na izlazne terminale za zvučnik zalemite malu pomoćn
 
 Vaše pojačalo je ovim potpuno završeno i spremno je za rad!
 
-## Specifikacije
+### Specifikacije
 
 > Prosečna izlazna snaga ----------- 40W/8 oma (bez izlaska iz klase A!)
 > Frekventni opseg snage ----------- 11Hz - 235kHz
