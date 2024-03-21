@@ -20,19 +20,19 @@ Ovo je jedno vrlo *jednostavno* ali i više nego dovoljno **kvalitetno** predpoj
 ### Specifikacije
 <hr>
 {{< paige/quote >}}
-TONE mode...24Hz-21kHz(1dB)<br>(BYPASS mode...22Hz-36kHz (-1dB))<br>***Frekventni opseg***
+BYPASS mode...22Hz-36kHz (-1dB)<br>TONE mode...24Hz-21kHz(1dB)<br>***Frekventni opseg***
 {{< /paige/quote >}}
 
 {{< paige/quote >}}
-TONE mode...<0.012%<br>(BYPASS mode...<0.008%)<br>***THD (20KHz, tipično opterećenje, 1V rms)***
+BYPASS mode...<0.008%<br>TONE mode...<0.012%<br>***THD (20KHz, tipično opterećenje, 1V rms)***
 {{< /paige/quote >}}
 
 {{< paige/quote >}}
-TREBLE...15dB na 10KHz<br>(BAS...15dB na 50Hz)<br>***TONSKA KONTROLA***
+BAS...15dB na 50Hz<br>TREBLE...15dB na 10kHz<br>***TONSKA KONTROLA***
 {{< /paige/quote >}}
 
 {{< paige/quote >}}
-TONE mode...-88dB<br>(BYPASS mode...-96dB)<br>***ODNOS SIGNAL/ŠUM***
+BYPASS mode...-96dB<br>TONE mode...-88dB<br>***ODNOS SIGNAL/ŠUM***
 {{< /paige/quote >}}
 <hr>
 
