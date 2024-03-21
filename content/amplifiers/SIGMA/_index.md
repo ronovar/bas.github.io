@@ -14,7 +14,7 @@ weight: 10
   {{< figure src="./gallery/SIGMA/SIGMA - Pločica (viktor1986).jpg" caption="SIGMA - Pločica (viktor1986)" >}}
   {{< figure src="./gallery/SIGMA/SIGMA - Kućište (viktor1986).jpg" caption="SIGMA - Kućište (viktor1986)" >}}
   {{< figure src="./gallery/SIGMA/SIGMA - Pločica (vksamel).jpg" caption="SIGMA - Pločica (vksamel)" >}}
-  {{< figure src="./gallery/SIGMA/SIGMA - Donja Strana Pločica (vksamel)" caption="SIGMA - Donja Strana Pločica (vksamel)" >}}
+  {{< figure src="./gallery/SIGMA/SIGMA - Donja Strana Pločica (vksamel).jpg" caption="SIGMA - Donja Strana Pločica (vksamel)" >}}
   {{< figure src="./gallery/SIGMA/SIGMA - Kučište (nonick).jpg" caption="SIGMA - Kučište (nonick)" >}}
   {{< figure src="./gallery/SIGMA/SIGMA - Pločica TO-3 (nonick).jpg" caption="SIGMA - Pločica TO-3 (nonick).jpg" >}}
   {{< figure src="./gallery/SIGMA/SIGMA - Kučište TO-3 (nonick).jpg" caption="SIGMA - Kučište TO-3 (nonick).jpg" >}}
