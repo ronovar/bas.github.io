@@ -25,15 +25,23 @@ Drugi funkcionalni primjerak (ustvari prvi napravljeni) je kod mene, a u konačn
 ### Specifikacije
 <hr>
 {{< paige/quote >}}
-100W RMS/8Ω<br>(pri 80% izlazne snage)<br>***Prosečna izlazna snaga***
+70W - 80W RMS/8Ω<br>(pri 80% izlazne snage)<br>***Prosečna izlazna snaga***
 {{< /paige/quote >}}
 
 {{< paige/quote >}}
-*********<br>(pri 85% snage)<br>***Frekventni opseg snage***
+10Hz - 115kHz<br>(za pad od -3dB i sa THD<0.02% pri 50W)<br>***Frekventni opseg snage***
 {{< /paige/quote >}}
 
 {{< paige/quote >}}
-*********<br>(20Hz-20kHz/80%snage)<br>***THD***
+<0.002%<br>(na 70W RMS/8Ω na 1kHz)<br>***THD***
+{{< /paige/quote >}}
+
+{{< paige/quote >}}
+230V/μS<br>(pri 80% izlazne snage)<br>***Slew rate***
+{{< /paige/quote >}}
+
+{{< paige/quote >}}
+&#62;750<br>(na 50W RMS/8Ω 1kHz)<br>***Damping faktor***
 {{< /paige/quote >}}
 <hr>
 
