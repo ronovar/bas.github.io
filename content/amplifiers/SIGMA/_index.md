@@ -36,10 +36,6 @@ Podešavanje je veoma jednostavno i praktično se svodi na proveru simetrije tj.
 {{< /paige/quote >}}
 
 {{< paige/quote >}}
-180W RMS/8Ω, 220W RMS/4Ω<br>(pri 80% izlazne snage)<br>***Muzicka snaga (IHF)***
-{{< /paige/quote >}}
-
-{{< paige/quote >}}
 10Hz - 105kHz<br>(za pad od -3dB, THD ispod 0.005%)<br>***Frekventni opseg snage***
 {{< /paige/quote >}}
 
