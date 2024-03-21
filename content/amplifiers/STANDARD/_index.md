@@ -10,11 +10,11 @@ weight: 10
 <hr>
 {{< load-photoswipe >}}
 {{< gallery caption-effect="fade" >}}
-  {{< figure src="./gallery/STANDARD/STANDARD - Pločica (hifistor).jpg" caption="STANDARD - Pločica (hifistor)" >}}
-  {{< figure src="./gallery/STANDARD/STANDARD - Testiranje (hifistor).jpg" caption="STANDARD - Testiranje (hifistor)" >}}
-  {{< figure src="./gallery/STANDARD/STANDARD - Pločica (maxwell007).jpg" caption="STANDARD - Pločica (maxwell007)" >}}
-  {{< figure src="./gallery/STANDARD/STANDARD - Ugradnja (maxwell007).jpg" caption="STANDARD - Ugradnja (maxwell007)" >}}
-  {{< figure src="./gallery/STANDARD/STANDARD - Kućište (maxwell007).jpg" caption="STANDARD - Kućište (maxwell007)" >}}
+  {{< figure src="./gallery/STANDARD/STANDARD - Pločica (nonick).jpg" caption="STANDARD - Pločica (nonick)" >}}
+  {{< figure src="./gallery/STANDARD/STANDARD - Ugradnja (nonick).jpg" caption="STANDARD - Ugradnja (nonick)" >}}
+  {{< figure src="./gallery/STANDARD/STANDARD - Kućište (nonick).jpg" caption="STANDARD - Kućište (nonick)" >}}
+  {{< figure src="./gallery/STANDARD/STANDARD - Prednja Strana (nonick).jpg" caption="STANDARD - Prednja Strana (nonick)" >}}
+  {{< figure src="./gallery/STANDARD/STANDARD - Zadnja Strana (nonick).jpg" caption="STANDARD - Zadnja Strana (nonick)" >}}
 {{< /gallery >}}
 <hr>
 
