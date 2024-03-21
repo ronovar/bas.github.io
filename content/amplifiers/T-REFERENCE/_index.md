@@ -32,11 +32,11 @@ Svi ovde dati rezultati su produkt simulacije jer se rezultati stvarnih praktič
 {{< /paige/quote >}}
 
 {{< paige/quote >}}
-<0.0051%%<br>(pri 80-90% snage na osnovu simulacije)<br>***THD***
+<0.0051%%<br>(pri 80-90% snage na osnovu sim)<br>***THD***
 {{< /paige/quote >}}
 
 {{< paige/quote >}}
-<0.0035%<br>(pri 80-90% snage na osnovu simulacije)<br>***TIM***
+<0.0035%<br>(pri 80-90% snage na osnovu sim)<br>***TIM***
 {{< /paige/quote >}}
 
 {{< paige/quote >}}
