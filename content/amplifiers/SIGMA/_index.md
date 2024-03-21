@@ -48,14 +48,6 @@ Podešavanje je veoma jednostavno i praktično se svodi na proveru simetrije tj.
 {{< /paige/quote >}}
 
 {{< paige/quote >}}
-<0.008%<br>(130W RMS/8Ω)<br>***THD***
-{{< /paige/quote >}}
-
-{{< paige/quote >}}
-<0.005%<br>(100W RMS/8Ω (50Hz/7KHz 4:1))<br>***TIM***
-{{< /paige/quote >}}
-
-{{< paige/quote >}}
 &#62;100dB<br>(u odnosu na 100W RMS)<br>***Odnos signal/šum***
 {{< /paige/quote >}}
 
