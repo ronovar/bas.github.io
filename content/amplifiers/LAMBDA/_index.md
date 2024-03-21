@@ -31,7 +31,7 @@ Lambda zvuči vrhunski i ako joj date dobar i dovoljan hladnjak kao i kvalitetan
 {{< /paige/quote >}}
 
 {{< paige/quote >}}
-5Hz - 275KHz<br>(pri 50% snage i izobličenjima ispod 0.1%)<br>***Frekventni opseg snage***
+5Hz - 275kHz<br>(pri 50% snage i izobličenjima ispod 0.1%)<br>***Frekventni opseg snage***
 {{< /paige/quote >}}
 
 {{< paige/quote >}}
