@@ -27,7 +27,7 @@ Lambda zvuči vrhunski i ako joj date dobar i dovoljan hladnjak kao i kvalitetan
 ### Specifikacije
 <hr>
 {{< paige/quote >}}
-100W RMS/8Ω<br>(bez izlaska iz klase A!)<br>***Prosečna izlazna snaga***
+100W RMS/8Ω<br>(pri 80% izlazne snage)<br>***Prosečna izlazna snaga***
 {{< /paige/quote >}}
 
 {{< paige/quote >}}
@@ -44,5 +44,4 @@ Lambda zvuči vrhunski i ako joj date dobar i dovoljan hladnjak kao i kvalitetan
 <hr>
 
 <p style="color: red;" class="text-center">Detaljnija merenja ostalih parametara nisu izvršena zbog nedostatka adekvatnih instrumenata!</p>
-
 <p style="color: red;" class="text-center">Ako ste manje iskusni u gradnji audio uređaja, preporučujem da pogledate neka uputstva u TUTORIJALIMA.</p>
