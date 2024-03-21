@@ -12,7 +12,7 @@ weight: 10
 {{< load-photoswipe >}}
 {{< gallery caption-effect="fade" >}}
   {{< figure src="./gallery/MODUS/MODUS - Pločica (ziki).jpg" caption="MODUS - Pločica (ziki)" >}}
-  {{< figure src="./gallery/MODUS/MODUS - Ugradnja (ziki).jpg" caption="MODUS - Ugradnja (ziki)" >}}
+  {{< figure src="./gallery/MODUS/MODUS - Kućište (ziki).jpg" caption="MODUS - Kućište (ziki)" >}}
   {{< figure src="./gallery/MODUS/MODUS - Prednja Strana (ziki).jpg" caption="MODUS - Prednja Strana (ziki)" >}}
   {{< figure src="./gallery/MODUS/MODUS - Zadnja Strana (ziki).jpg" caption="MODUS - Zadnja Strana (ziki)" >}}
 {{< /gallery >}}
