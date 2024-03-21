@@ -12,6 +12,7 @@ weight: 10
 {{< load-photoswipe >}}
 {{< gallery caption-effect="fade" >}}
   {{< figure src="./gallery/FlatBT/FlatBT - Pločica (viktor1986).jpg" caption="FlatBT - Pločica (viktor1986)" >}}
+  {{< figure src="./gallery/FlatBT/FlatBT - Testiranje (ronovar).jpg" caption="FlatBT - Testiranje (ronovar)" >}}
 {{< /gallery >}}
 <hr>
 
