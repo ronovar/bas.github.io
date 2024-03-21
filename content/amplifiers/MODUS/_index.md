@@ -20,7 +20,7 @@ weight: 10
 
 *Jednostavnost* i **klasičan** dizajn pre bi mogle biti prednosti ovog izlaznog stepena nego njegove mane. Modus (stari naziv TECHNO) zvuči vrlo precizno i definisano čak i sa zahtevnijim muzičkim materijalom kao što je moderna tehno muzika (odatle i naziv). Modus nije previše snažno pojačalo ali ima dosta rezerve snage za dinamičnije pikove, i u većini situacija u kojima mu se dodeli uloga kvalitetnijeg kućnog Hi-Fi sistema, više će nego zadovoljiti, a verujem, i dosta vise od toga.
 
-Predpojačalo koje sam najčešće koristio uz Modus čete naći u odeljku "Predpojačala" pod imenom "Standard", ali kao i uvek, nije neophodno da se koristi baš to predpojačalo jer će i mnoga druga zadovoljiti ako su dovoljno kvalitetna.
+Predpojačalo koje sam najčešće koristio uz Modus ćete naći u odeljku *"Predpojačala"* pod imenom *"Standard"*, ali kao i uvek, nije neophodno da se koristi baš to predpojačalo jer će i mnoga druga zadovoljiti ako su dovoljno kvalitetna.
 
 ### Specifikacije
 <hr>
