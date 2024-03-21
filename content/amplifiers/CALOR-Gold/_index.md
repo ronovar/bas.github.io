@@ -121,5 +121,5 @@ do 2,5° u granicama 20Hz-20kHz<br>***Fazni pomak***
 {{< /paige/quote >}}
 
 {{< paige/quote >}}
->>750<br>***Damping faktor***
+&#61;750<br>***Damping faktor***
 {{< /paige/quote >}}
