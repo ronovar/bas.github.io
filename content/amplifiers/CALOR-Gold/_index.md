@@ -113,7 +113,7 @@ Vaše pojačalo je ovim potpuno završeno i spremno je za rad!
 {{< /paige/quote >}}
 
 {{< paige/quote >}}
-do 2,5° u granicama 20Hz-20kHz<br>***Fazni pomak***
+do 2,5°<br>u granicama 20Hz-20kHz<br>***Fazni pomak***
 {{< /paige/quote >}}
 
 {{< paige/quote >}}
