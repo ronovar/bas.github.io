@@ -32,7 +32,7 @@ Ovu novu verziju StudioSE do danas (08April2008) još niko nije praktično sklop
 ### Specifikacije
 <hr>
 {{< paige/quote >}}
-85W/8Ω<br>(bez izlaska iz klase A!)<br>***Prosečna izlazna snaga***
+85W/8Ω<br>(pri 80% izlazne snage)<br>***Prosečna izlazna snaga***
 {{< /paige/quote >}}
 
 {{< paige/quote >}}
@@ -40,7 +40,7 @@ Ovu novu verziju StudioSE do danas (08April2008) još niko nije praktično sklop
 {{< /paige/quote >}}
 
 {{< paige/quote >}}
-<0.003%<br>(20Hz-16KHz)...0.008% na 20KHz<br>***THD***
+<0.003%<br>(20Hz-16KHz), 0.008% na 20KHz<br>***THD***
 {{< /paige/quote >}}
 
 {{< paige/quote >}}
