@@ -17,7 +17,7 @@ Ako imate *potrebe* za **snažnijim** izlaznim stepenom, kao recimo, za srednje 
 {{< /paige/quote >}}
 
 {{< paige/quote >}}
-18Hz - 52kHz<br>(pri 80-90% snage, THD ispod 0.17%)<br>***Frekventni opseg snage***
+18Hz - 52kHz<br>(pri 80% snage, THD ispod 0.17%)<br>***Frekventni opseg snage***
 {{< /paige/quote >}}
 
 {{< paige/quote >}}
