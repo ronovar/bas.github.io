@@ -109,7 +109,7 @@ Vaše pojačalo je ovim potpuno završeno i spremno je za rad!
 {{< /paige/quote >}}
 
 {{< paige/quote >}}
-<0.008% (20Hz-20KHz/80%snage)<br>***THD***
+<0.008%<br>(20Hz-20KHz/80%snage)<br>***THD***
 {{< /paige/quote >}}
 
 {{< paige/quote >}}
