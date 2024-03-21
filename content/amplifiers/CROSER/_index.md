@@ -48,10 +48,6 @@ Za CroSer pojačalo je vezan još jedan kuriozitet: Iako sam ja dizajner, ja ga 
 
 Za one druge koje ocenu na sluh zanima i tehnička strana, evo nekoliko snimaka rezultata na osciloskopu za vreme inicijalnih merenja. Korišćeni Sig Generator je bio sa XR2206 koji na žalost nije davao baš najčistiji signal posebno na visokim frekvencama. Srećom, "micro" je uradio tako da su na ekranu osciloskopa prisutni i ulazni i izlazni signal jedan ispod drugog tako da se vizuelno može lepo pratiti eventualno odstupanje oblika izlaznog signala ako postoji.
 
-<p style="color: red;" class="text-center">Detaljnija merenja ostalih parametara nisu izvršena zbog nedostatka adekvatnih instrumenata!</p>
-
-<p style="color: red;" class="text-center">Ako ste manje iskusni u gradnji audio uređaja, preporučujem da pogledate neka uputstva u TUTORIJALIMA.</p>
-
 ### Specifikacije
 <hr>
 {{< paige/quote >}}
@@ -67,3 +63,6 @@ Za one druge koje ocenu na sluh zanima i tehnička strana, evo nekoliko snimaka 
 {{< /paige/quote >}}
 <hr>
 
+<p style="color: red;" class="text-center">Detaljnija merenja ostalih parametara nisu izvršena zbog nedostatka adekvatnih instrumenata!</p>
+
+<p style="color: red;" class="text-center">Ako ste manje iskusni u gradnji audio uređaja, preporučujem da pogledate neka uputstva u TUTORIJALIMA.</p>
