@@ -65,6 +65,7 @@ figure {
 blockquote.blockquote {
     max-width: fit-content;
     text-align: center;
+    font-size: medium;
 }
 
 .paige-quote {
