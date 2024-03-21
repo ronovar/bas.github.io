@@ -1,12 +1,12 @@
 ---
 title: "BYTHOS"
 date: 2024-03-18
-description: "High-Class audio pojačalo"
+description: "High-Class audio pojačalo (u fazi prototipa)"
 draft: false
 tags: ["BYTHOS"]
 weight: 10
 ---
-## Kvalitetno audio pojačalo
+## High-Class audio pojačalo (u fazi prototipa)
 
 <hr>
 {{< load-photoswipe >}}
