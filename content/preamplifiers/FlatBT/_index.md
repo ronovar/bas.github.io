@@ -39,7 +39,9 @@ PRILAGOĐAVANJE ovog pretpojačala je lako izvodljivo i treba ga uraditi kada za
 
 SKLOP ZA NAPAJANJE nije deo ovog  KIT-a i moraćete ga sami napraviti. Kvalitet sklopa za napajanje igra veoma značajnu ulogu u postizanju ultimativnih rezultata kod bilo kog HiEnd audio uređaja. Zbog toga Vam savetujemo da koristite najbolje rešenje koje možete sebi priuštiti, jer pravi izbor napajanja može značiti razliku između vrlo dobrog i vrhunskog preampa. Ako planirate da koristite naponske stabilizatore, savetujemo da koristite neku vrstu paralelnog regulatora (shunt regulator) tipa "Salaš" ili slično. Neki audiofili više vole da nemaju nikakvu stabilizaciju već samo osnovni tip napajanja... samo transformator, Grec i elektroliti. To bi bilo ono što se na Slici 1 nalazi levo od tačaka A i B. Obratite pažnju da ako radite ovu varijantu napajanja, transformator mora imati sekundarne namotaje za 2x17..18V a ne kako je napisano na šemi! Neki drugi na tu osnovnu konfiguraciju dodaju samo dva jednostavna stabilizatora sa po jednim tranzistorom koji ima Zener diodu od baze ka masi. Ta varijanta je u celosti data na Slici 1. Ako se odlučite za punu i kvalitetnu stabilizaciju onda radite "Salaš shunt stabilizator" kakav je prikazan na Slici 2.  Konačna odluka je na Vama, pa iako sklop za napajanje nije deo ovog KIT-a, u želji da Vam pomognemo, dajemo i slike 1&2 sa mogućim rešenjima. Ako koristite stabilizaciju tada transformator treba da bude sa sekundarom kako je naznačeno na Slici 1. Takođe je važno da napomenemo da morate obezbediti hlađenje za BD239/240 kao i za IRF530/9530 HEXFET-s ako se odlučite za neku od tih varijanti.
 
-
-
+{{< paige/gallery align="center" >}}
+{{< paige/image alt="FlatBT-Series PSU" title="FlatBT-Series PSU" src="./images/FlatBT-Series PSU.jpg" >}}
+{{< paige/image alt="FlatBT-Parallel PSU" title="FlatBT-Parallel PSU" src="./images/FlatBT-Parallel PSU.jpg" >}}
+{{< /paige/gallery >}}
 
 <p style="color: red;" class="text-center">Ako ste manje iskusni u gradnji audio uređaja, preporučujem da pogledate neka uputstva u TUTORIJALIMA.</p>
