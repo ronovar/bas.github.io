@@ -100,7 +100,7 @@ Vaše pojačalo je ovim potpuno završeno i spremno je za rad!
 
 ### Specifikacije
 
-> Prosečna izlazna snaga:<br>                                  
+> Prosečna izlazna snaga:                                  
 >  — <cite>40W/8Ω (bez izlaska iz klase A!)</cite><br>
 > Frekventni opseg snage:<br>
 >  — <cite>11Hz - 235kHz</cite><br>
