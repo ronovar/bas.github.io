@@ -68,6 +68,10 @@ blockquote.blockquote {
     font-size: medium;
 }
 
+blockquote.blockquote strong {
+    color: lightcoral;
+}
+
 .paige-quote {
     display: inline-block;
     padding-left: 12px;
