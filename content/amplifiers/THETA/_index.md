@@ -19,7 +19,7 @@ weight: 10
 <hr>
 
 Theta je prototipno pojačalo napravljeno u dva potpuno funkcionalna primjerka. Bora je u svom zadnjem periodu za to pojačalo izradio i cijeli support sklop DC zaštite, paljenja, temperaturne zaštite, display itd. bazirano na njegovom OMNI protektoru.
-Pojačalo se bazira na *Hawksford Feedforward Error Correction* topologiji koju je u svoje  pojačalo 1984 godine prvi implementirao Bob Cordell.Theta se od pojačala ovog tipa razlikuje po tome što u izlaznom stupnju koristi bipolarne tranzistore umjesto uobičajeno upotrijebljenih mosfet tranzistora.
+Pojačalo se bazira na *Hawksford Feedforward Error Correction* topologiji koju je u svoje  pojačalo 1984 godine prvi implementirao Bob Cordell. Theta se od pojačala ovog tipa razlikuje po tome što u izlaznom stupnju koristi bipolarne tranzistore umjesto uobičajeno upotrijebljenih mosfet tranzistora.
 Drugi funkcionalni primjerak (ustvari prvi napravljeni) je kod mene, a u konačnoj varijanti predstavljen je na Triode festivalu u Šibeniku 2013. godine. Pojačalo je u stalnoj upotrebi sve do danas.
 
 ### Specifikacije
