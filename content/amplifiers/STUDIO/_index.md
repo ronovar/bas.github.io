@@ -20,7 +20,7 @@ weight: 10
 
 Ovo je *jedan* **visoko** kvalitetan izlazni stepen izuzetne dinamike i vrlo ubedljiv u svim delovima frekventnog opsega. Najčešće je korišćen kao master pojačalo za kućni studio ali i kao master monitor za profesionalna studija. Fantastično zvuči sa Tannoy-Monitorima, ali je i vrlo "definisan" sa večinom drugih zvucnika.
 
-Dizajn je prilično standardan, i ako poštujete specifikaciju materijala sa šeme, imačete jedno stvarno dobro pojačalo sa kojim se nečete postideti sem uz bas vrhunske High-End mašine.
+Dizajn je prilično standardan, i ako poštujete specifikaciju materijala sa šeme, imaćete jedno stvarno dobro pojačalo sa kojim se nećete postideti sem uz bas vrhunske High-End mašine.
 
 Odgovarajuće predpojačalo sa tonskom kontrolom čete naci u odeljku "PREDPOJAČALA" pod imenom "PreStudio". Svakako da će i mnoga druga predpojačala (ako su dovoljno kvalitetna) završiti posao kako treba.
 
