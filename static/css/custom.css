@@ -61,3 +61,8 @@ figure {
     margin-bottom: 4px;
     filter: invert(0.6) sepia(0.5) saturate(8) hue-rotate(175deg);
 }
+
+blockquote.blockquote {
+    max-width: fit-content;
+    text-align: center;
+}
