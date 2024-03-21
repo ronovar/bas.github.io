@@ -13,7 +13,7 @@ weight: 10
   {{< figure src="./gallery/CALOR-Gold/CALOR-Gold - Pločica (hifistor).jpg" caption="CALOR-Gold - Pločica (hifistor)" >}}
   {{< figure src="./gallery/CALOR-Gold/CALOR-Gold - Testiranje (hifistor).jpg" caption="CALOR-Gold - Testiranje (hifistor)" >}}
   {{< figure src="./gallery/CALOR-Gold/CALOR-Gold - Pločica (maxwell007).jpg" caption="CALOR-Gold - Pločica (maxwell007)" >}}
-  {{< figure src="./gallery/CALOR-Gold/CALOR-Gold - Ugradnja(maxwell007).jpg" caption="CALOR-Gold - Ugradnja(maxwell007)" >}}
+  {{< figure src="./gallery/CALOR-Gold/CALOR-Gold - Ugradnja (maxwell007).jpg" caption="CALOR-Gold - Ugradnja (maxwell007)" >}}
   {{< figure src="./gallery/CALOR-Gold/CALOR-Gold - Kućište (maxwell007).jpg" caption="CALOR-Gold - Kućište (maxwell007)" >}}
 {{< /gallery >}}
 <hr>
