@@ -101,7 +101,6 @@ Vaše pojačalo je ovim potpuno završeno i spremno je za rad!
 ### Specifikacije
 
 {{< paige/figure caption="Prosečna izlazna snaga" >}}
-40W/8Ω<br>(bez izlaska iz klase A!)
 {{< paige/quote >}}
 40W/8Ω<br>(bez izlaska iz klase A!)
 {{< /paige/quote >}}
