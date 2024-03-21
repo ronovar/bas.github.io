@@ -100,9 +100,5 @@ Vaše pojačalo je ovim potpuno završeno i spremno je za rad!
 
 ### Specifikacije
 
-> - Prosečna izlazna snaga ----------- 40W/8 oma (bez izlaska iz klase A!)
-> - Frekventni opseg snage ----------- 11Hz - 235kHz
-> - THD ------------------------------ <0.008% (20Hz-20KHz/80%snage)
-> - Fazni pomak ---------------------- do 2,5° u granicama 20Hz-20kHz
-> - Slew rate ------------------------ 85V/μS
-> - Damping faktor ------------------- >750
+> Prosečna izlazna snaga:<br>
+> <cite>40W/8 oma (bez izlaska iz klase A!)</cite>
