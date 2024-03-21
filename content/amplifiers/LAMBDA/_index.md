@@ -24,3 +24,25 @@ Sklop za BIAS je nešto drugačiji i to je moja varijanta jednog poznatog klasi�
 
 Lambda zvuči vrhunski i ako joj date dobar i dovoljan hladnjak kao i kvalitetan i moćan PSU, dobićete pojačalo vrlo visoke klase koje karakteriše visoka dinamika, savršena neutralnost i obilje snage gotovo kao da je tri puta jače nego što stvarno jeste.
 
+### Specifikacije
+<hr>
+{{< paige/quote >}}
+100W RMS/8Ω<br>(bez izlaska iz klase A!)<br>***Prosečna izlazna snaga***
+{{< /paige/quote >}}
+
+{{< paige/quote >}}
+5Hz - 275KHz<br>(pri 50% snage i izobličenjima ispod 0.1%)<br>***Frekventni opseg snage***
+{{< /paige/quote >}}
+
+{{< paige/quote >}}
+<0.008%<br>(12Hz-24KHz i u opsegu do 80% izlazne snage)<br>***THD***
+{{< /paige/quote >}}
+
+{{< paige/quote >}}
+<0.02%<br>(20Hz-220KHz i u opsegu do 50% izlazne snage)<br>***THD***
+{{< /paige/quote >}}
+<hr>
+
+<p style="color: red;" class="text-center">Detaljnija merenja ostalih parametara nisu izvršena zbog nedostatka adekvatnih instrumenata!</p>
+
+<p style="color: red;" class="text-center">Ako ste manje iskusni u gradnji audio uređaja, preporučujem da pogledate neka uputstva u TUTORIJALIMA.</p>
