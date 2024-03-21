@@ -27,15 +27,15 @@ Pojačalo je stvarno jednostavno za izradu i sasvim nekritično kad je u pitanju
 ### Specifikacije
 <hr>
 {{< paige/quote >}}
-50-60W RMS/8Ω<br>(pri 80% izlazne snage)<br>***Prosečna izlazna snaga***
+50 - 60W RMS/8Ω<br>(pri 80% izlazne snage)<br>***Prosečna izlazna snaga***
 {{< /paige/quote >}}
 
 {{< paige/quote >}}
-500-600mV<br>(za punu snagu)<br>***Ulazna osetljivost***
+500 - 600mV<br>(za punu snagu)<br>***Ulazna osetljivost***
 {{< /paige/quote >}}
   
 {{< paige/quote >}}
-15Hz-45KHz<br>(pri 80% izlazne snage)<br>***Frekventni opseg snage***
+15Hz - 45KHz<br>(pri 80% izlazne snage)<br>***Frekventni opseg snage***
 {{< /paige/quote >}}
 
 {{< paige/quote >}}
