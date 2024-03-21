@@ -13,8 +13,6 @@ weight: 10
   {{< figure src="./gallery/LEGEND/LEGEND - Pločica (nonick).jpg" caption="LEGEND - Pločica (nonick)" >}}
   {{< figure src="./gallery/LEGEND/LEGEND - Ugradnja (nonick).jpg" caption="LEGEND - Ugradnja (nonick)" >}}
   {{< figure src="./gallery/LEGEND/LEGEND - Kućište (d.veljko83).jpg" caption="LEGEND - Kućište (d.veljko83)" >}}
-  {{< figure src="./gallery/LEGEND/LEGEND - Stage Master MK2 (prototip) - Pločica (nonick).jpg" caption="LEGEND - Stage Master MK2 (prototip) - Pločica (nonick)" >}}
-  {{< figure src="./gallery/LEGEND/LEGEND - Quasor - Pločica (nonick).jpg" caption="LEGEND - Quasor - Pločica (nonick)" >}}
 {{< /gallery >}}
 <hr>
 
@@ -72,6 +70,12 @@ oko 50mA<br>(po izlaznom paru)<br>***BIAS***
 
 ## LEGEND - Stage Master MK2 (prototip)
 
+<hr>
+{{< gallery caption-effect="fade" >}}
+  {{< figure src="./gallery/LEGEND/LEGEND - Stage Master MK2 (prototip) - Pločica (nonick).jpg" caption="LEGEND - Stage Master MK2 (prototip) - Pločica (nonick)" >}}
+{{< /gallery >}}
+<hr>
+
 Za postizanje još veće snage, a za šta su bili često zainteresovani mlađi drugari, razvijena je jos jača verzija sposobna da proizvede punih i pravih 500W RMS na 8 oma. Kod tako velikih snaga se moralo pribeći radikalno drugačijim rešenjima nekih stepena što je dodatno povećalo pouzdanost u radu ali je povećalo i kompleksnost pločice tako da je za ovu verziju nemoguće koristiti istu pločicu kao za dva prethodna slabija modela.
 
 ### Specifikacije
@@ -98,6 +102,12 @@ oko 25mA<br>(po izlaznom paru)<br>***BIAS***
 <hr>
 
 ## LEGEND - Quasor
+
+<hr>
+{{< gallery caption-effect="fade" >}}
+  {{< figure src="./gallery/LEGEND/LEGEND - Quasor - Pločica (nonick).jpg" caption="LEGEND - Quasor - Pločica (nonick)" >}}
+{{< /gallery >}}
+<hr>
 
 Za one kojima treba još više snage, urađene su dodatne modifikacije i stvorena ova 1000W-tna verzija koju sam nazvao QUASOR. Ona je predviđena za rad sa opterećenjima od 4 oma jer je sa naponima napajanja do 100V po grani a bez BRIDGE spoja nemoguće tu snagu postići na 8 oma. Većina standardno nabavljivih elektrolita većeg kapaciteta i razumne cene je rađena za nominalni napon do 100V, pa je napajanje trebalo drzati nešto ispod te granice. Slično razmišljanje važi i za izlazne MOSFET-ove jer je ono što je kod nas nabavljivo uglavnom za oko 200V ili 250V tako da je 95V od prilike neki maksimum koji bi se u praksi mogao koristiti a da sve zajedno još ostane u granicama jednostavnog, pristupačnog i izvodljivog. Svakako da postoje rešenja sa višestrukim naponima napajanja za velike snage, ali ona po mom mišljenju nisu za prosečnog samograditelja kod nas, znajući naše prosečne finansijske mogućnosti, nivo opremljenosti potrebnim instrumentima i prosećan nivo znanja i iskustva samograditelja.
 
