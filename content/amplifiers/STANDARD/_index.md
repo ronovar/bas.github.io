@@ -22,7 +22,7 @@ weight: 10
 
 Pojačalo je stvarno jednostavno za izradu i sasvim nekritično kad je u pitanju izbor delova, ali je kao i uvek, preporučljivo da što manje odstupate od specifikacije! Mirnu struju izlaznih tranzistora treba podesiti trimerom od 500 oma na oko 50-55mA. Osigurači su za 1,8 do 2Ampera. Napon napajanja se može podići do +/-42..43V (MAKSIMALNO!!!)bez promena komponenata pa je tada moguće koristiti mrežni trafo sa 2x30V AC na sekundaru što je jedna od standardnih vrednosti. Takođe se bez izmena ostatka šeme može paralelno postojećem izlaznom paru dodati još jedan par. Tada se i baze i kolektori vezuju direktno na postojeće tranzistore ali emiteri dodatnog para moraju imati svoje zasebne otpornike od 0,47 oma pa dakle treba još 4 takva otpornika. Snaga ce svakako biti veća (ali ne duplo kako bi se očekivalo!) a dobija se i mogućnost postizanja značajno veće snage na opterećenju od 4 oma.
 
-<p style="color: red;">Ako ste manje iskusni u gradnji audio uređaja, preporučujem da pogledate neke od TUTORIJALA na početnoj stranici Audio Projekata!!!</p>
+<p style="color: red;" class="text-center">Ako ste manje iskusni u gradnji audio uređaja, preporučujem da pogledate neke od TUTORIJALA na početnoj stranici Audio Projekata!!!</p>
 
 ### Specifikacije
 <hr>
