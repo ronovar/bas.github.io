@@ -1,6 +1,6 @@
 ---
 title: "CALOR-Gold"
-date: 2024-03-17
+date: 2024-03-18
 description: "Vrhunsko pojačalo u A-klasi"
 draft: false
 tags: ["CALOR-Gold"]
@@ -20,7 +20,7 @@ weight: 10
 
 *CALOR-Gold* je izlazno pojačalo snage najvišeg kvaliteta dizajnirano tako da zadovolji i najrafiniranije ukuse audiofila. Pojačalo radi u takozvanoj **"klasi A"** i ova snažnija verzija "Gold" proizvodi 40W snage na opterećenju od 8 oma. CALOR-Gold je apsolutno uporediv po osobinama sa gotovo bilo kojim drugim pojačalom HiEnd klase te snage. Da bi se postigle te osobine, a imajući na umu prirodu rada pojačala u klasi A, od presudne važnosti je da se za CALOR-Gold obezbedi odgovarajući izvor napajanja kao i dovoljno efikasno hlađenje. O tim potrebama ćemo govoriti kasnije u ovom uputstvu.
 
-### SKLAPANJE MODULA
+### Sklapanje Modula
 
 Počnite sklapanje tako što će te se prvo dobro upoznati sa šemom, pločicom i rasporedom na njoj. To je veoma važno iako na prvi pogled može izgledati trivijalno, a to posebno važi za manje iskusne graditelje jer dobro poznavanje rasporeda na pločici bitno smanjuje mogućnost greške. Pri tom podrazumevamo da ste već dovoljno vešti u prepoznavanju i “čitanju” vrednosti elemenata. Za postavljanje elemenata koristite i strogo se pridržavajte rasporeda prikazanog na slici rasporeda elemenata. Ona je prikazana onako kako se to vidi gledano sa strane komponenata.
 
@@ -32,4 +32,4 @@ Predviđeno je da se veliki izlazni MOSFET-ovi nalaze ispod nivoa pločice pa se
 
 Prvo je potrebno da pažljivo savijete njihove (prilično krute) izvode pod uglom od 90 u stranu na kojoj su oznake elementa tj. suprotnu od one na kojoj je metalna pločica koja ide prema hladnjaku. Postoji nešto širi deo izvodnih nožica odmah po njihovom izlasku iz plastičnog kućišta i u tom delu ne bi trebalo savijati već to treba učiniti odmah na početku suženog dela nožica kao na sledećoj slici.
 
-<p>{{< paige/image alt="Legs" class="rounded-2" src="./images/legs.png" title="Legs" >}}</p>
+<p>{{< paige/image alt="Legs" class="rounded-2" src="./images/Legs.png" title="Legs" >}}</p>
