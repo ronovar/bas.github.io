@@ -101,11 +101,5 @@ Vaše pojačalo je ovim potpuno završeno i spremno je za rad!
 ### Specifikacije
 
 {{< paige/quote >}}
-40W/8Ω<br>(bez izlaska iz klase A!)<br>Prosečna izlazna snaga
+40W/8Ω<br>(bez izlaska iz klase A!)<br>***Prosečna izlazna snaga***
 {{< /paige/quote >}}
-
-{{< paige/figure caption="Frekventni opseg snage" >}}
-{{< paige/quote >}}
-11Hz - 235kHz
-{{< /paige/quote >}}
-{{< /paige/figure >}}
