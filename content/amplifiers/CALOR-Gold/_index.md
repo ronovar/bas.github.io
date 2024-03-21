@@ -105,5 +105,21 @@ Vaše pojačalo je ovim potpuno završeno i spremno je za rad!
 {{< /paige/quote >}}
 
 {{< paige/quote >}}
-11Hz - 235kHz<br>(bez izlaska iz klase A!)<br>***Frekventni opseg snage***
+11Hz - 235kHz<br>***Frekventni opseg snage***
+{{< /paige/quote >}}
+
+{{< paige/quote >}}
+<0.008% (20Hz-20KHz/80%snage)<br>***THD***
+{{< /paige/quote >}}
+
+{{< paige/quote >}}
+do 2,5° u granicama 20Hz-20kHz<br>***Fazni pomak***
+{{< /paige/quote >}}
+
+{{< paige/quote >}}
+85V/μS<br>***Slew rate***
+{{< /paige/quote >}}
+
+{{< paige/quote >}}
+>750<br>***Damping faktor***
 {{< /paige/quote >}}
