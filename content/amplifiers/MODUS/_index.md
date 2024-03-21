@@ -45,6 +45,49 @@ Predpojačalo koje sam najčešće koristio uz Modus ćete naći u odeljku *"Pre
 {{< /paige/quote >}}
 
 {{< paige/quote >}}
-&#60;400<br>(pri 80% izlazne snage)<br>***Damping faktor***
+&#62;400<br>(pri 80% izlazne snage)<br>***Damping faktor***
 {{< /paige/quote >}}
 <hr>
+
+## Techno
+
+<hr>
+{{< load-photoswipe >}}
+{{< gallery caption-effect="fade" >}}
+  {{< figure src="./gallery/MODUS/TECHNO - Pločica (nonick).jpg" caption="TECHNO - Pločica (nonick)" >}}
+  {{< figure src="./gallery/MODUS/TECHNO - Prednja Strana (vksamael).jpg" caption="TECHNO - Prednja Strana (vksamael)" >}}
+  {{< figure src="./gallery/MODUS/TECHNO - Zadnja Strana (vksamael).jpg" caption="TECHNO - Zadnja Strana (vksamael)" >}}
+  {{< figure src="./gallery/MODUS/TECHNO - Kućište (zbotic).jpg" caption="TECHNO - Kućište (zbotic)" >}}
+{{< /gallery >}}
+<hr>
+
+Vremenom se pokazala potreba za jačom verzijom MODUS-M-a. Tako je nastala ova verzija nazvana TECHNO koja se u osnovi ne razlikuje mnogo od manjeg brata MODUS-M-a. Dodani je još jedan izlazni par kako bi se ostvarila jača snaga.
+
+### Specifikacije
+<hr>
+{{< paige/quote >}}
+100W RMS/8Ω<br>(pri 80% izlazne snage)<br>***Prosečna izlazna snaga***
+{{< /paige/quote >}}
+
+{{< paige/quote >}}
+7Hz - 84kHz<br>(pri 85% snage i izobličenjima ispod 0.01%)<br>***Frekventni opseg snage***
+{{< /paige/quote >}}
+
+{{< paige/quote >}}
+<0.004%<br>(20Hz-20kHz/80%snage)<br>***THD***
+{{< /paige/quote >}}
+
+{{< paige/quote >}}
+<0.002%<br>(20Hz-20kHz/80%snage)<br>***TIM***
+{{< /paige/quote >}}
+
+{{< paige/quote >}}
+62V/μS<br>(pri 80% izlazne snage)<br>***Slew rate***
+{{< /paige/quote >}}
+
+{{< paige/quote >}}
+&#62;400<br>(pri 80% izlazne snage)<br>***Damping faktor***
+{{< /paige/quote >}}
+<hr>
+
+<p style="color: red;" class="text-center">Ako ste manje iskusni u gradnji audio uređaja, preporučujem da pogledate neka uputstva u TUTORIJALIMA.</p>
