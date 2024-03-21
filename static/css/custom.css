@@ -72,3 +72,7 @@ blockquote.blockquote {
     display: inline-block;
     padding-left: 12px;
 }
+
+div#paige-content :last-child > hr {
+    margin-top: 0px;
+}
