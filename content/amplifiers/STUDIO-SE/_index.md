@@ -36,7 +36,7 @@ Ovu novu verziju StudioSE do danas (08April2008) još niko nije praktično sklop
 {{< /paige/quote >}}
 
 {{< paige/quote >}}
-4Hz - 73kHz<br>(pri 80-90% snage i THD ispod 0.02%)<br>***Frekventni opseg snage***
+4Hz - 73kHz<br>(pri 80-90% snage, THD ispod 0.02%)<br>***Frekventni opseg snage***
 {{< /paige/quote >}}
 
 {{< paige/quote >}}
