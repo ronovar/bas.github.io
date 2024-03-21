@@ -58,5 +58,8 @@ Sve ove kablove treba direktno zalemiti na predviđenim mestima na pločici, jer
 
 Pošto ste zalemili sve kablove, vreme je da pločicu zajedno sa izlaznim FET-ovima definitivno pričvrstite na hladnjak. Izlazni FET-ovi se ne smeju pričvrstiti direktno na metal hladnjaka već se ispod njih stavljaju liskunske izolatorske podloške koje ste dobili u kompletu delova. Postupajte sa njima pažljivo i bez savijanja jer su vrlo krte i lako ih je oštetiti grubim rukovanjem. Ispod svakog FET-a ide po jedna podloška... ostale koje ste dobili su rezervne u slučaju da neku oštetite. Na jednu stranu svake od četiri podloške nanesite u tankom sloju silikonsku termo-pastu i tom namazanom stranom ih priljubite na hladnjak na mesta na kojima će biti izlazni FET-ovi. Pažljivo i uz vrlo blag pritisak namestite ih tako da se rupa na liskunu poklopi sa rupom na hladnjaku. Sada na zadnje-metalne površine sva četiri FET-a takođe nanesite tanak sloj termo-paste i sve pažljivo spustite na hladnjak tako da se rupe na FET-ovima poklope sa rupama na hladnjaku. Prišrafite svaki FET vrlo snažno koristeći šrafove sa metalnim šajbnama-podloškama da bi se sila ravnomernije prenela na što veću površinu FET-ova. Višak termo-paste će usled pritiska izaći ispod liskuna i FET-ova i treba ga pažljivo ukloniti nekom krpom. Savetujemo da ovo manipulisanje termo-pastom radite sa rukama zaštićenim tankim Latex rukavicama za jednokratnu upotrebu, jer se pasta teško uklanja sa zamazane odeće i ruku!
 
-<p>{{< paige/image style="-webkit-transform: rotate(270deg);" alt="Calor-GOLD Montage" class="rounded-2" src="./images/CalorGOLDMontage.png" title="Calor-GOLD Montage" >}}</p>
+{{< paige/gallery align="center" >}}
+{{< paige/image alt="Calor-GOLD Montage 1" title="Calor-GOLD Montage 1" src="./images/CalorGOLDMontage1.png" >}}
+{{< paige/image alt="Calor-GOLD Montage 2" title="Calor-GOLD Montage 2" src="./images/CalorGOLDMontage2.png" >}}
+{{< /paige/gallery >}}
 
