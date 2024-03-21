@@ -99,7 +99,7 @@ Za kraj je još ostalo da na izlazne terminale za zvučnik zalemite malu pomoćn
 Vaše pojačalo je ovim potpuno završeno i spremno je za rad!
 
 ### Specifikacije
-
+<hr>
 {{< paige/quote >}}
 40W/8Ω<br>(bez izlaska iz klase A!)<br>***Prosečna izlazna snaga***
 {{< /paige/quote >}}
@@ -123,3 +123,4 @@ do 2,5°<br>u granicama 20Hz-20kHz<br>***Fazni pomak***
 {{< paige/quote >}}
 &#62;750<br>(pri 80% izlazne snage)<br>***Damping faktor***
 {{< /paige/quote >}}
+<hr>
