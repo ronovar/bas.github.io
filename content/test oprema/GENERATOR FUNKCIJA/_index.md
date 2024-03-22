@@ -7,6 +7,14 @@ tags: ["GENERATOR FUNKCIJA"]
 weight: 10
 ---
 ## Jednostavan generator sinusoide, trougla i četvrtke
+<hr>
+{{< load-photoswipe >}}
+{{< gallery caption-effect="fade" >}}
+  {{< figure src="./gallery/GENERATOR FUNKCIJA/GENERATOR FUNKCIJA - Pločica (Dackotronic).jpg" caption="GENERATOR FUNKCIJA - Pločica (Dackotronic)" >}}
+  {{< figure src="./gallery/GENERATOR FUNKCIJA/GENERATOR FUNKCIJA - Ugradnja (Dackotronic).jpg" caption="GENERATOR FUNKCIJA - Ugradnja (Dackotronic)" >}}
+  {{< figure src="./gallery/GENERATOR FUNKCIJA/GENERATOR FUNKCIJA - Kućište (Dackotronic).jpg" caption="GENERATOR FUNKCIJA - Kućište (Dackotronic)" >}}
+{{< /gallery >}}
+<hr>
 
 *Jednostavan* **generator funkcija** koji sam uradio pre dosta godina, bio je prvenstveno razvijen za tehničke laboratorije u koleđima i tehničkim školama ali i za brzo svakodnevno testiranje u audio servisima. Kasnije je ovaj dizajn bio prihvaćen i od strane jedne firme za popularnu elektroniku koja ga je prodavala u kitu i to dosta uspešno.
 
