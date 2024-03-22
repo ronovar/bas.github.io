@@ -53,27 +53,27 @@ url = "/zvučnici/"
 weight = 60
 
 [[languages.en.menu.main]]
-identifier = "series"
-name = "Series"
-url = "/series/"
+identifier = "tutorijali"
+name = "Tutorijali"
+url = "/tutorijali/"
 weight = 70
 
 [[languages.en.menu.main]]
-identifier = "categories"
-name = "Categories"
-url = "/categories/"
+identifier = "biografija"
+name = "Biografija"
+url = "/biografija/"
 weight = 80
 
 [[languages.en.menu.main]]
-identifier = "tags"
-name = "Tags"
-url = "/tags/"
+identifier = "tagovi"
+name = "Tagovi"
+url = "/tagovi/"
 weight = 90
 
 [[languages.en.menu.main]]
-identifier = "search"
-name = "Search"
-url = "/search/"
+identifier = "tražilica"
+name = "Tražilica"
+url = "/tražilica/"
 weight = 100
 
 [markup.goldmark.renderer]
