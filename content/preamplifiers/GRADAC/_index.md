@@ -11,7 +11,7 @@ weight: 10
 <hr>
 {{< load-photoswipe >}}
 {{< gallery caption-effect="fade" >}}
-  {{< figure src="./gallery/GRADAC/GRADAC - Pločica (viktor1986).jpg" caption="BUFFER - Pločica (viktor1986)" >}}
+  {{< figure src="./gallery/GRADAC/GRADAC - Pločica (viktor1986).jpg" caption="GRADAC - Pločica (viktor1986)" >}}
 {{< /gallery >}}
 <hr>
 
