@@ -45,7 +45,7 @@ $$
 <p class="text-center">Još jedan parametar je bitan kod određivanja izlaznih tranzistora a to je disipacija. Ona se računa ovako:</p>
 
 $$
- P_{Dis} = 0,1 * \frac{U_B^2} {R_Z} = 0,1 * \frac{36^2} {8} + 16,2W
+ P_{Dis} = 0,1 * \frac{U_B^2} {R_Z} = 0,1 * \frac{36^2} {8} = 16,2W
 $$
 
 i to je disipacija po jednom tranzistoru. Ne sme se zaboraviti da zbog rada u AB klasi kroz tranzistor protiče i mirna struja, pa pošto je ona retko kada preko 100mA i uz napon od 36V dobijamo dodatnu disipaciju pri mirnoj struji od nekih 3,6W koju treba dodati na 16,2W pa možemo zbir zaokružiti na oko 20W disipacije po tranzistoru. Uz veliki izbor tranzistora koji danas stoje na raspolaganju, nebi trebalo da bude teško da se nađe odgovarajući par.
