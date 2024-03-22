@@ -42,10 +42,10 @@ $$
 
 <p class="text-center">Za sigurnost treba ovoj vrednosti dodati barem još 30%, pa dakle treba odabrati tranzistore kojima je Uce barem 90V.</p>
 
-<p class="text-center">Još jedan parametar je bitan kog određivanja izlaznih tranzistora a to je disipacija. Ona se računa ovako:</p>
+<p class="text-center">Još jedan parametar je bitan kod određivanja izlaznih tranzistora a to je disipacija. Ona se računa ovako:</p>
 
 $$
- P_{Dis} = 0,1 * \frac U_B^2 R_Z = 0,1 * \frac 36^2 8 = 16,2W
+ P_{Dis} = 0,1 * 
 $$
 
 
