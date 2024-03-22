@@ -25,8 +25,8 @@ Ova vrsta ekvilajzera je najčešće dosta kompleksnija i nešto teža za gradnj
 Predpostavljam da će za većinu graditelja najveći problem biti kako da reše potenciometre. Najbolje je da se odgovarajući potenciometri levog i desnog kanala kontrolišu na jednom mestu tj. istim dugmetom na prednjoj ploči, ali to nije apsolutno neophodno. Mogu levi i desni kanal imati odvojene dugmadi ali to prednju ploču čini dvaput većom a i broj dugmadi postaje dvostruk, mada je mehanički to jednostavnije rešenje. Druga mogućnost je da se urade posebni "kuplunzi" za sinhronizovan rad potenciometra i predlažem vam dva rešenja data na sledećim slikama:
 
 {{< paige/gallery align="center" >}}
-{{< paige/image alt="Tandem Pots 1" title="Tandem Pots 1" src="./images/Tandem-Pots1.png" width="550px" height="579px" >}}
-{{< paige/image alt="Tandem Pots 2" title="Tandem Pots 2" src="./images/Tandem-Pots2.png" width="550px" height="579px" >}}
+{{< paige/image alt="Tandem Pots 1" title="Tandem Pots 1" src="./images/Tandem-Pots1.png" height="338px" >}}
+{{< paige/image alt="Tandem Pots 2" title="Tandem Pots 2" src="./images/Tandem-Pots2.png" >}}
 {{< /paige/gallery >}}
 
 Ovo drugo rešenje sam ja koristio za jednog naručioca i izvrsno je završilo posao ako je lepo napravljeno.
