@@ -58,3 +58,6 @@ $$
 
 pa za sigurnost treba uzeti tranzistore sa barem dva puta većom strujom, dakle recimo 250mA, a još bolje je odabrati i nešto višu vrednost što neće biti problem za moderne drajverske tranzistore. Za maksimalni napon kolektor-emiter treba i za drajvere odabrati isti kao i za izlazne tranzistore, dakle oko 90V. Pošto rade na praktično istom naponu kao i izlazni, njihova će disipacija biti onoliko manja koliko je manja nihova struja od struje izlaznih tranzistora tj. umanjena za strujno pojačanje " β " izlaznih tranzistora. Dakle:
 
+$$
+ PD_{dr} = \frac{PD_{iz}} {β_iz} = \frac{20} {30} = 0,66W
+$$
