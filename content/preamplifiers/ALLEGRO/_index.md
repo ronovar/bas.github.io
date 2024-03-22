@@ -8,6 +8,15 @@ weight: 10
 ---
 ## Visoka klasa pretpojačala
 
+<hr>
+{{< load-photoswipe >}}
+{{< gallery caption-effect="fade" >}}
+  {{< figure src="./gallery/ALLEGRO/ALLEGRO - Pločica (HomeMadeAudioProject).jpg" caption="ALLEGRO - Pločica (HomeMadeAudioProject)" >}}
+  {{< figure src="./gallery/ALLEGRO/ALLEGRO - Ugradnja (HomeMadeAudioProject).jpg" caption="ALLEGRO - Ugradnja (HomeMadeAudioProject)" >}}
+  {{< figure src="./gallery/ALLEGRO/ALLEGRO - Kućište (HomeMadeAudioProject).jpg" caption="ALLEGRO - Kućište (HomeMadeAudioProject)" >}}
+{{< /gallery >}}
+<hr>
+
 *Allegro* spada u **vrlo visoku klasu** predpojačala izvanrednih karakteristika, i bez stida će biti deo bilo kog audio sistema, izuzev možda apsolutne High-End klase. Ako do kraja poštujete specifikaciju materijala sa šeme, kvalitetno uradite pločicu i sve pažljivo sklopite, uspeh neće izostati. Kutija i prednja ploča ostaju na vama da ih rešite po sopstvenom ukusu i sposobnostima.
 
 U ispravljaču koristite ISKLJUČIVO toroidni transformator, i gledajte da ga ipak namestite što dalje od svih pločica. Raspored u kutiji je i inače jedan od kritičnijih momenata u dizajnu audio uređaja a to posebno i najviše važi upravo za predpojačala jer ona uvek imaju najveća pojačanja u celom sistemu a i rade sa malim nivoima signala pa su i vrlo slaba rasipna polja transformatora (sopstvenog ali i od najbližih uređaja) dovoljna da naprave probleme i praktično upropaste sav trud i jako degradiraju osobine inače kvalitetnog uređaja. Pločice su međusobno povezane pljosnatim višepolnim "ribbon" kablovima kakvi se najčešće koriste u kompjuterima, a na krajevima imaju IDC konektore. Ovo rešenje ima mnogo prednosti i što se tiče jednostavnosti izrade i pouzdanosti ali i karakteristika jer je svaka druga žica u "ribbon"-u vezana za masu pa su i preslušavanja i međusobni uticaji minimalni.
