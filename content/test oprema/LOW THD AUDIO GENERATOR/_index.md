@@ -14,7 +14,6 @@ weight: 10
   {{< figure src="./gallery/LOW THD AUDIO GENERATOR/LOW THD AUDIO GENERATOR - Ugradnja (HomeMadeAudioProject).jpg" caption="LOW THD AUDIO GENERATOR - Ugradnja (HomeMadeAudioProject)" >}}
   {{< figure src="./gallery/LOW THD AUDIO GENERATOR/LOW THD AUDIO GENERATOR - Prednja Strana (HomeMadeAudioProject).jpg" caption="LOW THD AUDIO GENERATOR - Prednja Strana (HomeMadeAudioProject)" >}}
   {{< figure src="./gallery/LOW THD AUDIO GENERATOR/LOW THD AUDIO GENERATOR - Zadnja Strana (HomeMadeAudioProject).jpg" caption="LOW THD AUDIO GENERATOR - Zadnja Strana (HomeMadeAudioProject)" >}}
-  {{< figure src="./gallery/LOW THD AUDIO GENERATOR/LOW THD AUDIO GENERATOR - Kućište (HomeMadeAudioProject).jpg" caption="CALOR-Gold - Kućište (maxwell007)" >}}
 {{< /gallery >}}
 <hr>
 
