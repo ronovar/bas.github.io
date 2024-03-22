@@ -41,9 +41,9 @@ url = "/pomoćni uređaji/"
 weight = 40
 
 [[languages.en.menu.main]]
-identifier = "customization"
-name = "Customization"
-url = "/customization/"
+identifier = "test oprema"
+name = "Test Oprema"
+url = "/test oprema/"
 weight = 50
 
 [[languages.en.menu.main]]
