@@ -61,3 +61,23 @@ pa za sigurnost treba uzeti tranzistore sa barem dva puta većom strujom, dakle 
 $$
  P_{Ddr} = \frac{P_{Diz}} {β_{iz}} = \frac{20} {30} = 0,66W
 $$
+
+Realna, i u praksi vrlo česta prosečna vrednost strujnog pojačanja drajverskih tranzistora je 50, pa se uz pomoć tog podatka dolazi do struja baza T3 i T4 koja iznosi:
+
+$$
+ IB_{dr} = \frac{Ic_{dr}} {β_{dr}} = \frac{116} {50} = 2,32mA (\approx2,3mA)
+$$
+
+Ovaj nam podatak omogućava da odredimo kolektorsku struju tranzistora T5 koji ima funkciju linearnog naponskog pojačavačkog stepena koji radi u klasi A. Klasa u kojoj radi nam diriguje da mu postavimo takvu kolektorsku struju da se uvek nalazi u linearnom režimu. Da bi to obezbedili, a imajući u vidu struje baza T3 i T4 uzećemo radi sigurnosti vrednost 2-5 puta veću od struje baza dakle recimo 10mA. Ova "zaliha" je potrebna iz više razloga a posebno zbog činjenice da drajveri i izlazni tranzistori, zajedno kao sistem, ne predstavljaju konstantno opterećenje za ovaj stepen budući da se strujna pojačanja tih tranzistora menjaju sa promenom struja kroz njih, što se u toku rada pojačala sve vreme i događa.
+
+Kolektorsku struju T5 "obezbeđuje" izvor konstantne struje sa tranzistorom T6, i pošto ona prolazi kroz spoj kolektor-emiter tog tranzistora mora proći i kroz njegov emiterski otpornik R2 i uzećemo da na njemu stvara pad napona od 1,5V pa ćemo za njegovu vrednost dobiti:
+
+$$
+ R_{2} = \frac{U_{R2}} {IC_{T5}} = \frac{1,5V} {0,01A} = 150Ω
+$$
+
+Da bi T6 radio kao izvor konstantne struje moramo mu bazu držati na konstantnom naponu koji neće zavisiti od varijacija odnosno padova napona napajanja Ub, i to postižemo zener diodom u njegovoj bazi. Napon ove zener diode mora biti za napon baza-emiter T6 viši od napona na R2 pa se računa kao:
+
+$$
+ U_{z} = U_{R2} + UBE_{T6} = 1,5V + 0,6V = 2,1V
+$$
