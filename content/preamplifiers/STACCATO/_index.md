@@ -21,15 +21,15 @@ Ovo je jedno vrlo jednostavno ali i vrlo kvalitetno predpojačalo za većinu pri
 ### Specifikacije
 <hr>
 {{< paige/quote >}}
-***<br>***<br>***Frekventni opseg***
+**<br>**<br>***Frekventni opseg***
 {{< /paige/quote >}}
 
 {{< paige/quote >}}
-***<br>***<br>***THD***
+**<br>**<br>***THD***
 {{< /paige/quote >}}
 
 {{< paige/quote >}}
-***<br>***<br>***Fazni pomak***
+**<br>**<br>***Fazni pomak***
 {{< /paige/quote >}}
 <hr>
 
