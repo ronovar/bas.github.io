@@ -6,7 +6,7 @@ draft: false
 tags: ["AUDIO MILIVOLTMETAR"]
 weight: 10
 ---
-## Predpojačalo
+## Instrument za mjerenje naizmjeničnog audio signala
 
 *Audio-milivoltmetar* je jedan od onih pratećih ali **nezamenjljivih** instrumenata u laboratoriji svakog iole ozbiljnijeg samograditelja. Istina, većina današnjih boljih "digitalnih univerzalaca" je vrlo sposobna da vrši slična merenja naizmeničnog signala u gotovo celom audio opsegu, a posebno su za tu svrhu rađeni takozvani "True RMS" tipovi instrumenata. Ako ipak nemate takav, dobro će poslužiti i jedan napravljen po ovoj šemi koju sam uradio još dosta davno i takvim se instrumentom koristio godinama. Upoređivan je u više navrata sa fabričkim laboratorijskim instrumentima istog tipa i nije nikada pravio grešku veću od 2-2,5%, a ako ga pažljivo uradite poštujući vrednosti na šemi i logičan raspored, zadovoljiće sve vaše potrebe za merenjem audio signala sve do nekih 100KHz, što je za amaterske potrebe više nego dovoljno.
 
