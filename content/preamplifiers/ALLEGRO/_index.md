@@ -31,7 +31,7 @@ BAS...12dB na 50Hz<br>TREBLE...12dB na 10kHz<br>***TONSKA KONTROLA***
 {{< /paige/quote >}}
 
 {{< paige/quote >}}
-BYPASS mode...-105dB<br>TONE mode...-100dB (ili bolje, zavisi od položaja kontrola)<br>***ODNOS SIGNAL/ŠUM***
+BYPASS mode...-105dB<br>TONE mode...-100dB (zavisi od položaja kontrola)<br>***ODNOS SIGNAL/ŠUM***
 {{< /paige/quote >}}
 <hr>
 
