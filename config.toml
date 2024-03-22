@@ -23,19 +23,19 @@ url = "/"
 weight = 10
 
 [[languages.en.menu.main]]
-identifier = "pojacala"
+identifier = "pojačala"
 name = "Pojačala"
 url = "/amplifiers/"
 weight = 20
 
 [[languages.en.menu.main]]
-identifier = "pretpojacala"
+identifier = "pretpojačala"
 name = "Pretpojačala"
 url = "/preamplifiers/"
 weight = 30
 
 [[languages.en.menu.main]]
-identifier = "pomocni uredaji"
+identifier = "pomoćni uređaji"
 name = "Pomoćni Uređaji"
 url = "/pomoćni uređaji/"
 weight = 40
