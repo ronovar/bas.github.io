@@ -47,9 +47,9 @@ url = "/test oprema/"
 weight = 50
 
 [[languages.en.menu.main]]
-identifier = "authors"
-name = "Authors"
-url = "/authors/"
+identifier = "zvučnici"
+name = "Zvučnici"
+url = "/zvučnici/"
 weight = 60
 
 [[languages.en.menu.main]]
