@@ -33,3 +33,15 @@ $$
 $$
 
 <p class="text-center">pa će nam isto toliko trebati i u pozitivnoj grani, što znači da ispravljač na svom izlazu treba da obezbedi +- 36V jednosmernog napona bez opterećenja.</p>
+
+Uzimajući u obzir sve što smo do sada izračunali, možemo odabrati odgovarajuće izlazne tranzistore. Znajući da je vršna vrednost kolektorske struje 3,5A odabraćemo za sigurnost tranzistore kojima je dozvoljena vršna struja barem dva puta veća, pa će odgovarati svi kojima je taj parametar 7...10A. Maksimalan napon između kolektora i emitera izlaznog tranzistora je u momentu kada njemu komplementarni tranzistor ima punu pobudu, i taj napon je tada
+
+$$
+ Uo_{peak} + U_B = 28,2 + 36 = 64,2V
+$$
+
+Za sigurnost treba ovoj vrednosti dodati barem još 30%, pa dakle treba odabrati tranzistore kojima je Uce barem 90V.
+
+Još jedan parametar je bitan kog određivanja izlaznih tranzistora a to je disipacija. Ona se računa ovako:
+
+
