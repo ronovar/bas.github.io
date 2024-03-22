@@ -21,15 +21,15 @@ Ovo je jedno vrlo jednostavno ali i vrlo kvalitetno predpojačalo za većinu pri
 ### Specifikacije
 <hr>
 {{< paige/quote >}}
-2Hz - 28MHz<br>***<br>***Frekventni opseg***
+***<br>***<br>***Frekventni opseg***
 {{< /paige/quote >}}
 
 {{< paige/quote >}}
-0.002%<br>(pri ul. sign. 2Vpp)<br>***THD***
+***<br>***<br>***THD***
 {{< /paige/quote >}}
 
 {{< paige/quote >}}
-+/-1%<br>(8Hz - 4MHz)<br>***Fazni pomak***
+***<br>***<br>***Fazni pomak***
 {{< /paige/quote >}}
 <hr>
 
