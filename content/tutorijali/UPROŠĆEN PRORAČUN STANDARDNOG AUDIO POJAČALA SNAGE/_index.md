@@ -17,7 +17,7 @@ Ovaj *vrlo* **uprošćen** opis rada i proračun jednog (uslovno rečeno) standa
 Možda to nekome neće izgledati logično, ali po meni je najbolje u proces krenuti od izlaza prema ulazu. Neke stvari ćemo u startu morati da predpostavimo ili postavimo kao unapred zadate, pa ćemo recimo odlučiti da gradimo pojačalo koje radi u klasi AB i treba da postigne 50W RMS na opterećenju od 8 oma. Potrebno je da prvo odredimo vršnu vrednost napona na izlazu odnosno na zvučniku i to računamo kao:
 
 $$
- Uo_peak = \sqrt2 * \sqrt50 * 8 = 28,2V
+ Uo_p_e_a_k = \sqrt2 * \sqrt50 * 8 = 28,2V
 $$
 
 $$
