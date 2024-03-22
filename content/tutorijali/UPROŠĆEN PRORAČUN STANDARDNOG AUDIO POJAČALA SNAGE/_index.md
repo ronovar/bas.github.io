@@ -45,7 +45,7 @@ $$
 <p class="text-center">Još jedan parametar je bitan kod određivanja izlaznih tranzistora a to je disipacija. Ona se računa ovako:</p>
 
 $$
- P_{Dis} = 0,1 * \frac {U_{B}^{2} d}
+ P_{Dis} = 0,1 * \frac{U_B^2} {R_Z} = 0,1 * \frac{36^2} {8} + 16,2W
 $$
 
 
