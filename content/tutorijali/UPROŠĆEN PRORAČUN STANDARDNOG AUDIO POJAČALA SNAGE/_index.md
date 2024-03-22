@@ -2,6 +2,8 @@
 title: "UPROŠĆEN PRORAČUN STANDARDNOG AUDIO POJAČALA SNAGE"
 date: 2024-03-18
 description: "Tutorijal"
+paige:
+  math: true
 draft: false
 tags: ["Tutorijal"]
 weight: 10
