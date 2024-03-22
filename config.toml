@@ -35,9 +35,9 @@ url = "/preamplifiers/"
 weight = 30
 
 [[languages.en.menu.main]]
-identifier = "shortcodes"
-name = "Shortcodes"
-url = "/shortcodes/"
+identifier = "pomocni uredaji"
+name = "Pomoćni Uređaji"
+url = "/pomoćni uređaji/"
 weight = 40
 
 [[languages.en.menu.main]]
