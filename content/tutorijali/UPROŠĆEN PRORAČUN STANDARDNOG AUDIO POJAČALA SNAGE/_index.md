@@ -81,3 +81,23 @@ Da bi T6 radio kao izvor konstantne struje moramo mu bazu držati na konstantnom
 $$
  U_{z} = U_{R2} + UBE_{T6} = 1,5V + 0,6V = 2,1V
 $$
+
+Da bi na svojim krajevima držale konstantan napon, kroz većinu zenerica male snage treba propustiti struju od barem 5mA ili nešto više i ta struja prolazi kroz R4 pa se njegova vrednost računa:
+
+$$
+ R_{4} = \frac{U_{B} - {U_{Z}}} {I_{Z}} = \frac{36 - 2,1} {5} = 6,78k (\approx6,8k)
+$$
+
+Napon na njegovim krajevima će biti 36V-2,1V=33,9V i pri struji od 5mA će se disipirati 0,17W pa je poželjno tu koristiti otpornik od barem 1/2W.
+
+Kolektorska struja T5 prolazi i kroz njegov emiterski otpornik R5 i odabraćemo recimo da na njemu stvara pad napona od 1,2V pa njegovu vrednost računamo iz:
+
+$$
+ R_{5} = \frac{U_{R5}} {IC_{T5}} = \frac{1,2} {10} = 0,12k = 120Ω
+$$
+
+Na krajevima otpornika R3 mora da vlada toliki napon koliki je potreban da izlazni tranzistori upravo počinju da provode. Veličinu tog napona možemo oceniti znajući da je silicijumskim tranzistorima potrebno da baza bude za nekih 0,7V na višem (kod NPN-a) odnosno nižem (kod PNP-a) potencijalu od emitera. Budući da su emiteri praktično spojeni u istu tačku, moraće ukupan napon između njihovih baza biti 2 x 0,7V tj. 1,4V da bi počeli da provode. Pri tome možemo praktično zanemariti padove napona na emiterskim otpornicima R1 jer je pad napona na njima pri mirnoj struji veoma mali (desetak do dvadesetaktak mV) zbog njihovog malog otpora. Dakle, znajući da se na R3 treba da nalazi napon od oko 1,4V a uzimajući da je mirna struja drajverskog para recimo 4mA i sva prolazi kroz R3, možemo izračunati njegovu vrednost kao:
+
+$$
+ R_{3} = \frac{1,4} {4} = 0,35k (\approx330Ω)
+$$
