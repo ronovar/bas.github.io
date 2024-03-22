@@ -6,8 +6,17 @@ draft: false
 tags: ["LOW THD AUDIO GENERATOR"]
 weight: 10
 ---
-
 ## Vrhunski generator sa veoma malim izobličenjima
+<hr>
+{{< load-photoswipe >}}
+{{< gallery caption-effect="fade" >}}
+  {{< figure src="./gallery/LOW THD AUDIO GENERATOR/LOW THD AUDIO GENERATOR - Pločica (HomeMadeAudioProject).jpg" caption="LOW THD AUDIO GENERATOR - Pločica (HomeMadeAudioProject)" >}}
+  {{< figure src="./gallery/LOW THD AUDIO GENERATOR/LOW THD AUDIO GENERATOR - Ugradnja (HomeMadeAudioProject).jpg" caption="LOW THD AUDIO GENERATOR - Ugradnja (HomeMadeAudioProject)" >}}
+  {{< figure src="./gallery/LOW THD AUDIO GENERATOR/LOW THD AUDIO GENERATOR - Prednja Strana (HomeMadeAudioProject).jpg" caption="LOW THD AUDIO GENERATOR - Prednja Strana (HomeMadeAudioProject)" >}}
+  {{< figure src="./gallery/LOW THD AUDIO GENERATOR/LOW THD AUDIO GENERATOR - Zadnja Strana (HomeMadeAudioProject).jpg" caption="LOW THD AUDIO GENERATOR - Zadnja Strana (HomeMadeAudioProject)" >}}
+  {{< figure src="./gallery/LOW THD AUDIO GENERATOR/LOW THD AUDIO GENERATOR - Kućište (HomeMadeAudioProject).jpg" caption="CALOR-Gold - Kućište (maxwell007)" >}}
+{{< /gallery >}}
+<hr>
 
 *Samograditelji* i **konstruktori** kvalitetnih audio uređaja imaju u toku rada potrebe za dobrim izvorom signala promenjljive frekvence i nivoa. Za većinu "običnijih" poslova i situacija, posao će savršeno odraditi Generator Funkcija koji se takođe nalazi ovde na mom sajtu. Međutim, kada se radi baš vrhunski uređaj biće u završnim testovima neophodan takav izvor signala čije je izobličenje manje od očekivanog izobličenja testiranog sklopa. Pomenuti Generator Funkcija u tim slučajevima ne zadovoljava, pa ovde donosim šemu jednog visoko-kvalitetnog audio generatora koji radi u opsegu od 15Hz do 150kHz, proizvodi na izlazu sinusni i četvrtast oblik signala do maksimalnog nivoa od 3V RMS koji je uz to i kontinualno promenjljiv. Ono što je najvažnije i što ga izdvaja od drugih takvih izvora signala su veoma niska izobličenja koja na 1kHz ne prelaze 0,003%, a rastu na 0,018% na 20Hz tj. 0,01% na 100kHz. Da bi se postigle ovakve karakteristike neophodno je sve vrlo pažljivo i kvalitetno uraditi ali i koristiti stvarno najkvalitetnije komponente i držati se striktno specifikacije materijala sa šeme.
 
