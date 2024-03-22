@@ -17,13 +17,13 @@ Ovaj *vrlo* **uprošćen** opis rada i proračun jednog (uslovno rečeno) standa
 Možda to nekome neće izgledati logično, ali po meni je najbolje u proces krenuti od izlaza prema ulazu. Neke stvari ćemo u startu morati da predpostavimo ili postavimo kao unapred zadate, pa ćemo recimo odlučiti da gradimo pojačalo koje radi u klasi AB i treba da postigne 50W RMS na opterećenju od 8 oma. Potrebno je da prvo odredimo vršnu vrednost napona na izlazu odnosno na zvučniku i to računamo kao:
 
 $$
- Uo_peak = \sqrt2 * \sqrt{50*8} = 28,2V
+ Uo_{peak} = \sqrt2 * \sqrt{50*8} = 28,2V
 $$
 
 <p class="text-center">a takođe i vršnu vrednost struje koju dobijamo kao:</p>
 
 $$
- Io_peak = \sqrt2 * \sqrt\frac{50}{8} = 3,5A
+ Io_{peak} = \sqrt2 * \sqrt\frac{50}{8} = 3,5A
 $$
 
 Da bi izračunali potreban napon napajanja moramo još proceniti i dodatne padove napona na R1, T2, T4, T5 i R5. Za R1, T2 i T4 se može računati da im je ukupan propusni napon oko 2V. Pri maksimalnoj negativnoj amplitudi kolektorskog napona može se na T5 i R5 računati sa po 1,5V tj. zajedno ukupno oko 3V. Takođe ne treba zaboraviti da se većina pojačala napaja iz nestabilisanog ispravljača kome će (čak i kada je vrlo izdašno dimenzionisan) napon pri punom opterećenju verovatno padati za barem 2,5V. Zbir svih ovih napona će nam dati potreban napon napajanja negativne polovine ispravljača (kada nema pobude) koji će iznositi:
