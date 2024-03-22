@@ -25,13 +25,13 @@ weight = 10
 [[languages.en.menu.main]]
 identifier = "pojačala"
 name = "Pojačala"
-url = "/amplifiers/"
+url = "/pojačala/"
 weight = 20
 
 [[languages.en.menu.main]]
 identifier = "pretpojačala"
 name = "Pretpojačala"
-url = "/preamplifiers/"
+url = "/pretpojačala/"
 weight = 30
 
 [[languages.en.menu.main]]
