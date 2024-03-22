@@ -19,3 +19,7 @@ Možda to nekome neće izgledati logično, ali po meni je najbolje u proces kren
 $$
  \varUo_peak = \sqrt2 * \sqrt50 * 8 = 28,2V
 $$
+
+$$
+ \varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } }
+$$
