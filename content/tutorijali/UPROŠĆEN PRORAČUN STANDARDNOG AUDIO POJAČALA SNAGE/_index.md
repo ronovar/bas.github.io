@@ -53,7 +53,7 @@ i to je disipacija po jednom tranzistoru. Ne sme se zaboraviti da zbog rada u AB
 Za određivanje parametara pobudnih (drajverskih) tranzistora T3 i T4 moramo poći od predpostavke da je strujno pojačanje izlaznih tranzistora 30 što je sasvim realna pa čak i skromna vrednost kod današnjih izlaznih tranzistora. Podrazumevajući tu vrednost, možemo izračunati maksimalne kolektorske struje drajvera kao:
 
 $$
- I_{DR} = \frac{Io_{peak}} {β_iz} = \frac{3,5} {30} = 0,116A = 116mA
+ I_{Dr} = \frac{Io_{peak}} {β_iz} = \frac{3,5} {30} = 0,116A = 116mA
 $$
 
 pa za sigurnost treba uzeti tranzistore sa barem dva puta većom strujom, dakle recimo 250mA, a još bolje je odabrati i nešto višu vrednost što neće biti problem za moderne drajverske tranzistore. Za maksimalni napon kolektor-emiter treba i za drajvere odabrati isti kao i za izlazne tranzistore, dakle oko 90V. Pošto rade na praktično istom naponu kao i izlazni, njihova će disipacija biti onoliko manja koliko je manja nihova struja od struje izlaznih tranzistora tj. umanjena za strujno pojačanje " β " izlaznih tranzistora. Dakle:
