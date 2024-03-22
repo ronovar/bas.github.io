@@ -14,6 +14,11 @@ weight: 10
   {{< figure src="./gallery/LOW THD AUDIO GENERATOR/LOW THD AUDIO GENERATOR - Ugradnja (HomeMadeAudioProject).jpg" caption="LOW THD AUDIO GENERATOR - Ugradnja (HomeMadeAudioProject)" >}}
   {{< figure src="./gallery/LOW THD AUDIO GENERATOR/LOW THD AUDIO GENERATOR - Prednja Strana (HomeMadeAudioProject).jpg" caption="LOW THD AUDIO GENERATOR - Prednja Strana (HomeMadeAudioProject)" >}}
   {{< figure src="./gallery/LOW THD AUDIO GENERATOR/LOW THD AUDIO GENERATOR - Zadnja Strana (HomeMadeAudioProject).jpg" caption="LOW THD AUDIO GENERATOR - Zadnja Strana (HomeMadeAudioProject)" >}}
+  {{< figure src="./gallery/LOW THD AUDIO GENERATOR/LOW THD AUDIO GENERATOR - Sinus 15Hz (HomeMadeAudioProject).jpg" caption="LOW THD AUDIO GENERATOR - Sinus 15Hz (HomeMadeAudioProject)" >}}
+  {{< figure src="./gallery/LOW THD AUDIO GENERATOR/LOW THD AUDIO GENERATOR - Četvrtka 15Hz (HomeMadeAudioProject).jpg" caption="LOW THD AUDIO GENERATOR - Četvrtka 15Hz (HomeMadeAudioProject)" >}}  
+  {{< figure src="./gallery/LOW THD AUDIO GENERATOR/LOW THD AUDIO GENERATOR - Četvrtka 160Hz (HomeMadeAudioProject).jpg" caption="LOW THD AUDIO GENERATOR - Četvrtka 160Hz (HomeMadeAudioProject)" >}}
+  {{< figure src="./gallery/LOW THD AUDIO GENERATOR/LOW THD AUDIO GENERATOR - Sinus 150kHz (HomeMadeAudioProject).jpg" caption="LOW THD AUDIO GENERATOR - Sinus 150kHz (HomeMadeAudioProject)" >}}
+  {{< figure src="./gallery/LOW THD AUDIO GENERATOR/LOW THD AUDIO GENERATOR - Četvrtka 150kHz (HomeMadeAudioProject).jpg" caption="LOW THD AUDIO GENERATOR - Četvrtka 150kHz (HomeMadeAudioProject)" >}}
 {{< /gallery >}}
 <hr>
 
