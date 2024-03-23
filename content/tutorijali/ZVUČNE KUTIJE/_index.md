@@ -122,3 +122,31 @@ U osnovi, ovaj tip kutija radi po principu sinhronog pokretanja dve membrane koj
 
 Postoji još tipova zvučnih kutija ali ih ja ovde neću obrađivati jer po meni spadaju u takve tipove koji traže mnogo više znanja, veštine i iskustva da bi se dobro uradile. One koji tek ulaze u ove "vode" prijateljski savetujem da se prvih godina zadrže na kompresionim ili bas-refleks kutijama i uz to da dosta čitaju kako bi svoje znanje doveli dotle da mogu da pokušaju da se upuste u gradnje složenijih i zahtevnijih sistema.
 
+### Skretnice
+
+Sa izuzetkom širokopojasnih drajvera, svi ostali drajveri su konstruisani i predviđeni da prenose samo jedan deo audio opsega. Van tog opsega oni uglavnom proizvode dosta izobličen zvuk i uz to vrlo smanjenog intenziteta. U koliko im se dovede značajniji nivo audio signala van njihovog predviđenog optimalnog opsega velike su šanse da ih ozbiljno oštetite pa često čak i momentalno uništite, i to se prvenstveno odnosi na tweetere i jednim delom i na srednjetonske drajvere. Zbog toga se između drajvera i pojačala mora nalaziti frekventna skretnica koja će slikovito rečeno "odvojiti" tj. "filtrirati" i na svaki drajver propustiti onaj deo opsega za koji je on predviđen i u kome se ponaša najbolje i najefikasnije.
+
+Postoji više načina da se to postigne, a najklasičniji i u praksi još uvek daleko najviše korišćen način je takozvana "pasivna zvučnička skretnica". To je elektronski sklop sastavljen od induktiviteta, kondenzatora i otpornika u različitim konfiguracijama. U osnovi to su pasivni filteri propusnici niskih ili visokih frekvenci ili njihova kombinacija da se dobije propusnik određenog opsega frekvenci. U najjednostavnijem obliku, skretnica ima samo dva elementa: jedan kalem-induktivitet i jedan kondenzator. To je takozvana "skretnica prvog reda". Takva skretnica se koristi u zvučnim kutijama sa dva drajvera od kojih obično jedan pokriva opseg od najnižih frekvenci a zahvata i deo srednjih frekvenci, odakle nastavlja drugi koji reprodukuje ostatak audio opsega do najviših frekvenci. Jedan takav jednostavan sistem je dat na donjoj slici:
+
+<p>{{< paige/image alt="2 Way 1st" class="rounded-2" src="./images/2way1st.png" title="2 Way 1st" >}}</p>
+
+Polazim od predpostavke da koliko god da je neko početnik trebalo bi da zna makar osnovne karakteristike elektronskih komponenata. Ako je to tako, onda znate da se uopšteno govoreći, induktivnost i kapacitivnost u kolu naizmenične struje (audio signal koji stiže iz pojačala je naizmenična struja) ponašaju kao veći ili manji otpor prolasku te struje. Taj otpor se ne meri običnim univerzalnim instrumentom već je to takozvani "prividni" otpor tj. reaktansa i može biti induktivna reaktansa (XL) i kapacitivna reaktansa (Xc) i jako su zavisne od frekvence, odnodno menjaju se sa frekvencom. Sa snižavanjem frekvence induktivitet će se ponašati kao sve manji i manji otpor dok će se kondenzator ponašati kao sve veći otpor, i obrnuto. U toku projektovanja zvučne kutije, a znajući karakteristike drajvera koje koristimo, moramo se u jednom momentu odlučiti do koje frekvence ćemo signal propustati na dubokotonski zvučnik a preko te frekvence treba da ga šaljemo visokotonskom zvucčniku. Ta se frekvenca zove prelomna frekvenca skretnice i da bih pokazao kako to sve izgleda na praktičnom primeru uzeću da je prelomna frekvenca 1900Hz tj. 1,9kHz.
+
+<p class="text-center">Prividna otpornost nekog induktiviteta tj. njegova induktivna reaktansa "XL" se računa na sledeći način:</p>
+
+$$
+ X_{L} = 2\Pi * f * L (X_{L} - u omima; f - u hercima; L - u henrijima)
+$$
+
+<p class="text-center">Dok se kapacitivna reaktansa "Xc" racuna kao:</p>
+
+$$
+ X_{C} = \frac{1} {2\Pi * f * C} (X_{C} - u omima; f - u hercima; C - u faradima)
+$$
+
+Kod ovog tipa skretnice, na prelomnoj frekvenci i kalem i kondenzator treba da imaju prividnu otpornost (reaktansu) jednaku impedansi drajvera na koji su vezani. Uzećemo da i woofer i tweeter imaju impedanse po 8 oma pa dakle treba proračunati vrednosti induktiviteta kalema i kapaciteta kondenzatora koje na 1900Hz takođe predstavljaju otpornost od 8 oma. Gornje formule se lako transformisu u pogodan oblik tako da se sa leve strane znaka jednakosti nađu L i C.
+
+$$
+ L = \frac{X_{L}} {2\Pi * f} = 8 / 6,28 * 1900 = 0,00067H = 0,67mH (za mH pomerate zarez 3 mesta u desno)
+ C = \frac{1} {2\Pi * f * X_{C}} = \frac{1} {6,28 x 1900 x 8} = 0,00001F = 10mF (za mF pomerate zarez 6 mesta u desno)
+$$
