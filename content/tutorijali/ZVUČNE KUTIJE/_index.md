@@ -130,7 +130,7 @@ Sa izuzetkom širokopojasnih drajvera, svi ostali drajveri su konstruisani i pre
 
 Postoji više načina da se to postigne, a najklasičniji i u praksi još uvek daleko najviše korišćen način je takozvana "pasivna zvučnička skretnica". To je elektronski sklop sastavljen od induktiviteta, kondenzatora i otpornika u različitim konfiguracijama. U osnovi to su pasivni filteri propusnici niskih ili visokih frekvenci ili njihova kombinacija da se dobije propusnik određenog opsega frekvenci. U najjednostavnijem obliku, skretnica ima samo dva elementa: jedan kalem-induktivitet i jedan kondenzator. To je takozvana "skretnica prvog reda". Takva skretnica se koristi u zvučnim kutijama sa dva drajvera od kojih obično jedan pokriva opseg od najnižih frekvenci a zahvata i deo srednjih frekvenci, odakle nastavlja drugi koji reprodukuje ostatak audio opsega do najviših frekvenci. Jedan takav jednostavan sistem je dat na donjoj slici:
 
-<p>{{< paige/image alt="2 Way 1st" class="rounded-2" src="./images/2way1st.png" title="2 Way 1st" >}}</p>
+<p>{{< paige/image alt="2 Way 2nd" nclass="rounded-2" src="./images/2way1st.png" title="2 Way 2nd" >}}</p>
 
 Polazim od predpostavke da koliko god da je neko početnik trebalo bi da zna makar osnovne karakteristike elektronskih komponenata. Ako je to tako, onda znate da se uopšteno govoreći, induktivnost i kapacitivnost u kolu naizmenične struje (audio signal koji stiže iz pojačala je naizmenična struja) ponašaju kao veći ili manji otpor prolasku te struje. Taj otpor se ne meri običnim univerzalnim instrumentom već je to takozvani "prividni" otpor tj. reaktansa i može biti induktivna reaktansa (XL) i kapacitivna reaktansa (Xc) i jako su zavisne od frekvence, odnodno menjaju se sa frekvencom. Sa snižavanjem frekvence induktivitet će se ponašati kao sve manji i manji otpor dok će se kondenzator ponašati kao sve veći otpor, i obrnuto. U toku projektovanja zvučne kutije, a znajući karakteristike drajvera koje koristimo, moramo se u jednom momentu odlučiti do koje frekvence ćemo signal propustati na dubokotonski zvučnik a preko te frekvence treba da ga šaljemo visokotonskom zvucčniku. Ta se frekvenca zove prelomna frekvenca skretnice i da bih pokazao kako to sve izgleda na praktičnom primeru uzeću da je prelomna frekvenca 1900Hz tj. 1,9kHz.
 
@@ -150,5 +150,23 @@ Kod ovog tipa skretnice, na prelomnoj frekvenci i kalem i kondenzator treba da i
 
 $$
  L = \frac{X_{L}} {2\Pi * f} = 8 / 6,28 * 1900 = 0,00067H = 0,67mH (za mH pomerate zarez 3 mesta u desno)
+$$
+
+$$
  C = \frac{1} {2\Pi * f * X_{C}} = \frac{1} {6,28 x 1900 x 8} = 0,00001F = 10mF (za mF pomerate zarez 6 mesta u desno)
 $$
+
+Kalem je vezan u seriju sa namotajem drajvera i izračunali smo ga tako da na frekvenci od 1900Hz ima otpornost-reaktansu od 8 oma, dakle isto toliko kao i otpornost drajvera. Pošto ta dva elementa možemo uprošćeno posmatrati kao dva seriski vezana otpornika od po 8 oma, oni će ulazni napon koji stiže iz pojačala na priključke + i - podeliti tačno na pola pa će na zvučniku biti samo polovina tog napona. Ako nivo signala izrazimo u decibelima (dB) kako je uobičajeno, reći ćemo da je signal koji stiže na drajver oslabljen za 6dB. Kalem ce zadržati tu svoju osobinu slabljenja kako frekvenca ulaznog signala bude rasla, i za svako udvostručenje frekvence, dakle za svaku "oktavu", će oslabljivati signal za dodatnih 6dB. Zbog toga se za ovaj tip skretnica kaže da im je slabljenje "6dB/oktavi". Na 3800Hz će nivo signala na wooferu biti 12dB niži, na 7600Hz će biti 18dB niži, itd. itd.
+
+Isto tako, samo u obrnutom smeru, će se ponašati i tweeter i njegov kondenzator od 10mF. Na 1900Hz će nivo na tweeteru biti 6dB niži nego ulazni nivo na + i - priključcima, i sa opadanjem frekvence će takođe dodatno slabiti signal koji stiže na tweeter za 6dB/oktavi. Dakle, jednu oktavu niže, na 800Hz će nivo na tweeteru biti 12dB niži, na 400Hz će biti 18dB niži, itd. itd.
+
+Nekada nije dovoljno oslabiti signale koji stižu na drajvere za samo 6dB. To je mnogo manje kritično za woofere jer ih gotovo sigurno nećete ni oštetiti ni uništiti ako im dovedete čak i popriličan signal neke više frekvence koju možda i nisu sposobni da reprodukuju. Ali ako na srednjetonac ili još gore, tweeter, dovedete veći nivo niskofrekventnog signala koji je ispod njihovog optimalnog frekventnog opsega, u najboljem slučaju će te dobiti dosta veća izobličenja, ali je i prilično verovatno da ih možete lako uništiti takvim signalom. Kod korišćenja skretnice sa karakteristikom od 6dB/oktavi, nivo signala je još uvek relativno veliki čak i samo jednu-dve oktave niže a većina tweetera ne mogu bez oštećenja podneti takve nivoe van svog propusnog opsega. Zbog toga je nekada potrebno mnogo "oštrije" filtrirati ulazni signal pa se za tu svrhu koristi drugačiji tip skretnica čija je karakteristika slabljenja po oktavi "strmija" i iznosi 12dB/oktavi i naći će te ih takođe i pod nazivom "skretnice drugog reda". Na žalost, to zahteva još dve komponente, tj. još jedan kalem i kondenzator pa se šema malko komplikuje. U osnovnom obliku, šema i formule za izračunavanje vrednosti komponenata izgledaju ovako:
+
+<p>{{< paige/image alt="2 Way 2nd" class="rounded-2" src="./images/2way2nd.png" title="2 Way 2nd" >}}</p>
+
+<p class="text-center"><b>Dvosistemska skretnica drugog reda<b>(12dB/oktavi)</b></p>
+
+$$
+ L1 = \frac{Z_{W}} {\Pi} * {\sqrt2} * f_{LOW}} * 1000 = .....mH
+$$
+
