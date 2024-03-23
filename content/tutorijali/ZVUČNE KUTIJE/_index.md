@@ -94,7 +94,16 @@ U suštini TL kutije rade na principu "talasovoda" koji okreće fazu zvučnog ta
 
 Izbor drajvera za TL kutije nije baš uvek lak, jer se pokazalo da relativno manji broj drajvera stvarno dobro rade u TL sistemu. Generalno, odgovarajući drajver bi trebalo da ima prilično niske Qes i Qts od oko 0,3 do 0,4 i relativno visok Qms od oko 3 do 6. U cilju držanja gabarita cele konstrukcije u razumnim granicama, najčešće se koriste drajveri veličine od 10" (inča) ili manji. Veličina drajvera će određivati i veličinu početnog dela talasovoda koja je najčešće 1,2 do 2 puta prečnik drajvera. Talasovod se na svom putu ka izlaznom otvoru na drugom kraju polako sužava. Različiti dizajneri navode vrlo različite koeficijente suženja što će te videti iz sledeće tabele.
 
-TABELA
+| AUTOR     | Otvor na početku TL<br>voda | Otvor na kraju TL<br>voda |
+| --------  | --------------------------- | ------------------------- |
+| Atkinson  |             1,4             |            0,6            |
+| Bailey    |             1,35            |            0,6            |
+| Dickanson |           1.25-2.5          |             1             |
+| Radford   |             1,66            |            0,75           |
+| Rogers    |              1,5            |            0,68           |
+| Sanders   |             1,25            |             1             |
+| Seaford   |           1,1-1,5           |             1             |
+| Weems     |            1,5-2            |             1             |
 
 Kojem će te se vi "carstvu privoleti" ostaje na vama odlučite. Sudeći po vrlo raznolikim odnosima sužavanja, čini se da to i nije posebno presudan faktor budući da TL kutije svih ovih autora veoma dobro zvuče prema izveštajima sa testova. Izgleda da su dosta kritičniji faktori: izbor drajvera i način i gustina ispunjavanja talasovoda damping materijalom kao i vrsta samog materijala. Tu takođe postoje značajna razmimoilaženja među autorima, pa eksperimentisanje izgleda ostaje neminovnost za postizanje dobrih rezultata.
 
