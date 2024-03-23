@@ -102,7 +102,7 @@ Imajući u vidu namenu ovog tutorijala iznešenu na samom početku, samo ću pom
 
 ### Refleksna Band-Pass Kutija
 
-<p>{{< paige/image alt="Band Pass" class="rounded-2" src="./images/BandPas.png" title="Band Pass" >}}</p>
+<p>{{< paige/image alt="Band Pass" class="rounded-2" src="./images/BandPass.png" title="Band Pass" >}}</p>
 
 Ovo je prilično specijalizovan tip kutije koji (za razliku od ostalih tipova) omogučava da vi određujete i donju i gornju prelomnu frekvencu sistema.
 
