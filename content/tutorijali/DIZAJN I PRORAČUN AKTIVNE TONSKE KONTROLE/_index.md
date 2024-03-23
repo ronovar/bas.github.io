@@ -147,3 +147,27 @@ $$
 $$
  Uz &ensp;odabrani &ensp;f_{H} &ensp;= &ensp;10kHz &ensp;onda &ensp;računamo:
 $$
+
+$$
+ C_{3} = \frac{1} {2\Pi * R_{3} * f_{H}} = \frac{1} {6,28 * 6,8k * 10kHz} = \frac{1} {427}
+$$
+
+$$
+ C_{3} = 0,0023μF \gg 2,2nF
+$$
+
+$$
+ R_{4} \geq 10 * (R_{3} + R_{1} + 2R_{5}) 
+$$
+
+$$
+ R_{4} \geq 10 * (6,8k + 10k + 2 * 10k)
+$$
+
+$$
+  R_{4} \geq 10 * 36,8k
+$$
+
+$$
+  R_{4} \geq 368k \rArr R_{4} \gg 470k
+$$
