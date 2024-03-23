@@ -127,3 +127,23 @@ $$
 $$
  C_{1} = C_{2} = 0,032μF \gg 33nF
 $$
+
+$$
+ Neka &ensp;je &ensp;R_{5} &ensp;= &ensp;R_{1} &ensp;= &ensp;10k &ensp;(arbitrerna &ensp;vrednost)
+$$
+
+$$
+ A_{VT} = 1 + \frac{R_{1} + 2R_{5}} {R_{3}} = 5,62 &ensp;(15dB)
+$$
+
+$$
+ iz &ensp;toga &ensp;je:
+$$
+
+$$
+ R_{3} = \frac{R_{1} + 2R_{5}} {A_{VT} - 1} = \frac{10k + 2 * 10k} {5,62 - 1} =  \frac{30} {4,62} = 6,49k \gg 6,8k
+$$
+
+$$
+ Uz &ensp;odabrani &ensp;f_{H} &ensp;= &ensp;10kHz &ensp;onda &ensp;računamo:
+$$
