@@ -75,3 +75,47 @@ $$
 $$
  C_{3} = \frac{1} {2\Pi * R_{3} * f_{H}}
 $$
+
+$$
+ R_{5} = \frac{1} {2} * \left(\frac{1} {2\Pi * C_{3} * f_{HB}} - R_{1} - R_{3}\right)
+$$
+
+Tačni odnosi između fL i fLB kao i fH i fHB su nešto kompleksniji nego što se to na prvi pogled čini. Ove frekvence u stvari predstavljaju +-3dB tačke u odnosu na sredinu i krajnje pozicije. Gornji grafikon predstavlja frekventnu karakteristiku prosečne tonske kontrole sa recimo +-20dB maksimalne regulacije, i tu možete lepo videti odnose tih frekvenci. Ovaj grafik je prilično idealizovan i stvarna slika će biti sa nešto zaobljenijim prelomnim tačkama. Takođe, prema tom grafiku se čini da je u središnjem delu karakteristike, sudeći po onom ravnom delu, pojačanje 1 što u stvarnosti neće biti tako već je u tom delu opsega oko +-2dB. To je zbog blizine "polova" i "nula" u prenosnoj karakteristici, i upravo iz istog tog razloga ni nagib krivulja neće biti kao što bi se očekivalo +-6dB po oktavi već nekih +-4dB po oktavi. Znajući da su fL od fLB kao i fH od fHB udaljeni po magnitudi 14dB a nagib karakteristike je 4dB po oktavi mogu se između tih frekvenci izvesti sledeći odnosi:
+
+$$
+ \frac{f_{LB}} {f_{L}} = \frac{f_{H}} {f_{HB}}  \gg 10
+$$
+
+### Praktičan proračun
+
+> U želji da sve ovo bude što jasnije kao i način kako sve to pretočiti u praksu, evo i jednog celokupnog praktičnog proračuna. Pošao sam od nekih zadatih vrednosti prema svojoj želji (arbitrerne vrednosti) a to su:
+- Maksimalno izdizanje i potiskivanje i dubokih i visokih je 15dB
+- fL i fH tačke su na 50Hz odnosno na 10KHz
+
+$$
+ Odaberite &ensp;da &ensp;je &ensp;R_{2} &ensp;= &ensp;47k &ensp;(arbitrerna &ensp;vrednost)
+$$
+
+$$
+ A_{VB} = 1 + \frac{R_{2}} {R_{1}} = 5,62 &ensp;(15dB)
+$$
+
+$$
+ iz &ensp;toga &ensp;je:
+$$
+
+$$
+ R_{1} = \frac{R_{2}} {A_{VB} - 1} = \frac{47k} {5,62 - 1} = \frac{47k} {4,62} = 10,17k \gg 10k
+$$
+
+$$
+ Odaberemo &ensp;da &ensp;je  &ensp; f_{L} = 50Hz
+$$
+
+$$
+ sledi &ensp;da &ensp;je &ensp;f_{LB} = 10 f_{L} = 500Hz = 0,5kHz
+$$
+
+$$
+ a &ensp;onda &ensp;računamo:
+$$
