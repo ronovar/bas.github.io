@@ -78,7 +78,7 @@ $$
 
 <p class="text-center">Evo i dva praktična primera:</p>
 
-PRIMER 1:
+### Primer 1:
 Poznata je potrebna induktivnost od 200mH i omska otpornost kalema od 0.3Ω.
 Pošto je 200µH = 200.000nH= 200x10^3nH dalje računamo:
 
@@ -101,6 +101,50 @@ $$
 $$
 
 $$
+ C_{i} = 0,3 * 35,4 = 10,6
+$$
+
+$$
  B_{i} = \frac{35,4} {3} = 11,8
 $$
+
+$$
+ I = 35,4 - 10,6 = 24,8mm
+$$
+
+$$
+ O = 35,4 + 10,6 = 46mm
+$$
+
+$$
+ N_{i} = 0,61 * (\frac{200000} {1})^{0,4} = 132
+$$
+
+Kada završite motanje, nemojte zaboraviti da PRE NEGO ŠTO ISEČETE ŽICU ponovo premerite spoljašnji prečnik kalema i ponovo preračunate induktivnost po osnovnoj Wilerovoj formuli, ali sada koristeći novo-izmereni prečnik namotanog kalema, i da onda korigujete broj navoja (odmotavanjem ili domotavanjem), pa tek onda isečite žicu!!!
+
+### Primer 2:
+Primer 2 polazi od pretpostavke da već imamo neko telo za kalem i da treba da na njega "smestimo" potrebnu zavojnicu. Recimo da je potrebna induktivnost od 2mH, a telo ima takve dimenzije da će namotan kalem imati unutrašnji prečnik "I" od 12mm, dužinu namotaja "B" od 16mm i debljinu namotaja "C" od 6mm.
+
+$$
+ 2 * 10^6 = \frac{7,87 * N^2 * 18^2} {3 * 18 + 9 * 16 + 10 * 6} => N = 450
+$$
+
+$$
+ 450 * (\frac{W} {0,8})^2 = 16 * 6 => W = 0,369mm
+$$
+
+<p class="text-center">Izaberite najbliži manji standardni presek žice "W" od 0,35mm, i opet preračunajte debljinu namotaja "C"</p>
+
+$$
+ 450 * (\frac{0,35} {0,8})^2 = 16C => C = 5,4mm
+$$
+
+<p class="text-center">Novo dobijena vrednost za debljinu namotaja i srednji prečnik će možda zahtevati ponovnu kalkulaciju induktiviteta i korekciju broja zavoja. Proverite sada i omsku otpornost:
+</p>
+
+$$
+ R = \frac{17,6 * 450} {14250 * 0,35^2} = 4,54Ω
+$$
+
+<p class="text-center">Vidite da li je vrednost prihvatljiva, a ako je prevelika, odaberite drugo telo većeg prečnika i/ili većeg preseka prostora za namotaj (površina koja se dobija kao BxC).</p>
 
