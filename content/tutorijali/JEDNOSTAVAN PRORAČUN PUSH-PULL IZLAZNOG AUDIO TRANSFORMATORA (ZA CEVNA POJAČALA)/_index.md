@@ -16,9 +16,9 @@ Ovaj proračun važi za transformatore koji koriste klasične "E-I" limove od si
 
 > Za proračun je potrebno u startu znati neke parametre i to:
 - <span style="color: red">Paa</span> = izlazna snaga obe cevi (korisna audio snaga a ne anodna disipacija!)
-- <span style="color: red">Ia/span> = anodna struja jedne cevi
-- <span style="color: red">Raa/span> = izlazna impedansa cevi (od anode do anode)
-- <span style="color: red">Rz/span> = impedansa zvučnika
+- <span style="color: red">Ia</span> = anodna struja jedne cevi
+- <span style="color: red">Raa</span> = izlazna impedansa cevi (od anode do anode)
+- <span style="color: red">Rz</span> = impedansa zvučnika
 
 <p class="text-center">Potrebna površina poprečnog preseka jezgra (srednjeg stuba) je:</p>
 
