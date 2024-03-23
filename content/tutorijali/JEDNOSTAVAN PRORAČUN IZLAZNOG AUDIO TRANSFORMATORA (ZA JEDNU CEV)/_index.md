@@ -57,3 +57,42 @@ $$
 $$
  N_{S} = \frac{N_{P}} {PR_{o}}
 $$
+
+<p class="text-center">Debljina žice za primarni namotaj je:</p>
+
+$$
+ d_{p} = \sqrt{\frac{I_{a}} {2}}
+$$
+
+<p class="text-center">A za sekundarni namotaj je:</p>
+
+$$
+ d_{s} = \sqrt{\frac{I_{z}} {2}}
+$$
+
+<p class="text-center">Pri čemu se struja zvučnika računa kao:</p>
+
+$$
+ I_{z} = \sqrt{\frac{P_{a}} {R_{z}}}
+$$
+
+Sva jednosmerna struja izlazne cevi prolazi kroz primar trafoa i svojim prolaskom vrši predmagnetizaciju jezgra pa se u cilju izbegavanja zasićenja, limovi slažu tako da se svi "E" limovi slažu zajedno kao i svi "I" limovi, pa se pri definitivnom sklapanju transformatora između ta dva paketa limova postavlja tanki sloj papira ili prespana cija debljina (u milimetrima) se računa kao:
+
+$$
+ δ = 0,62 * 10^{-6} * I_{a} * N_{p}   &emsp;&emsp;&emsp;   (I_{a} &ensp;- &ensp;u &ensp;miliamperima &ensp;"mA")
+$$
+
+> Značenje određenih veličina korišćenih u proračunu je sledeće:
+- <span style="color: red;">Pa</span> = izlazna snaga cevi (u vatima)
+- <span style="color: red;">Ra</span> = izlazna impedansa cevi (u omima)
+- <span style="color: red;">Ia</span> = anodna struja (u amperima)
+- <span style="color: red;">Ua</span> = naizmenični napon primarnog namotaja
+- <span style="color: red;">Rz</span> = impedansa zvučnika (u omima)
+- <span style="color: red;">Iz</span> = struja zvučnika (u amperima)
+- <span style="color: red;">S</span> = poprečni presek jezgra (u cm2)
+- <span style="color: red;">PRo</span> = prenosni odnos trafoa
+- <span style="color: red;">Np</span> = broj navoja primara
+- <span style="color: red;">Ns</span> = broj navoja sekundara
+- <span style="color: red;">fd</span> = donja granična frekvenca
+- <span style="color: red;">dp</span> = debljina žice primara
+- <span style="color: red;">ds</span> = debljina žice sekundara
