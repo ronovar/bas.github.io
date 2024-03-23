@@ -25,7 +25,7 @@ Moderan *pristup* **dizajnu** zvučnih kutija podrazumeva poznavanje takozvanih 
 - Prosečno kvalitetno audio pojačalo manje snage ( više je nego dovoljno 10W jer će već 1W zadovoljiti veći deo potreba)
 - Audio voltmetar ili neki od kvalitetnijih današnjih digitalnih "univerzalaca"
 - Otpornik snage 2 do 3 W i otpornosti između 5 i 10 oma/1% ali NE žičani već metal-film ili ugljeno-slojni, dakle sa što manjim parazitnim induktivitetom. Može i kombinacija nekoliko paralelno vezanih otpornika da dobijete željenu vrednost i snagu.
-- Download-ujte fajl <a href="./file" download="TS_proracun.xls">TS_proracun.xls</a>. Potrebno je da u PC-u imate instaliran Microsoft - Excel (koji je deo Microsoft-Office paketa) da bi mogli da koristite ovo pomagalo koje će vam automatski proračunati potrebne parametre kada u njega budete ubacivali podatke u procesu merenja.
+- Download-ujte fajl <a href="../images/TS_proracun.xls" download="TS_proracun.xls">TS_proracun.xls</a>. Potrebno je da u PC-u imate instaliran Microsoft - Excel (koji je deo Microsoft-Office paketa) da bi mogli da koristite ovo pomagalo koje će vam automatski proračunati potrebne parametre kada u njega budete ubacivali podatke u procesu merenja.
 
 <p class="text-center">Ovih nekoliko gore navedenih stvari treba povezati kao što je to dato na sledećoj slici:</p>
 
@@ -51,7 +51,7 @@ Ostalo vam je još da odredite "Vas" i da bi to izveli moraćete da napravite ma
 
 Povežite sada zvučnik ponovo kao što je dato na šemi i menjajući frekvencu Signal-generatora pronađite sada novu rezonantnu frekvencu na isti način kao što ste to uradili kada je bio u slobodnom prostoru. Sada će ta frekvenca biti viša nego ona predhodna. Taj podatak je "Rezonansa u kutiji" tj. "Fb" i taj podatak unesite u odgovarajuće polje u proračunu. Program će automatski preračunati podatke i tog momenta ćete imati sve parametre koji su vam potrebni za projektovanje zvučne kutije za taj drajver.
 
-Moj vam je savet da za dalji proračun koristite jedan više nego zadovoljavajući (I UZ TO BESPLATAN) program koji se zove "WinISD" a možete ga skinuti <a href="./images/winisdbeta.exe" download="winisdbeta.exe">ovde</a>.
+Moj vam je savet da za dalji proračun koristite jedan više nego zadovoljavajući (I UZ TO BESPLATAN) program koji se zove "WinISD" a možete ga skinuti <a href="../images/winisdbeta.exe" download="winisdbeta.exe">ovde</a>.
 
 Uzmite u obzir da ono što gotovo svi mi samograditelji tj. DIY-majstori radimo, ipak nije High-End i da zato nema potrebe da tragate i ko zna šta platite za neki super-profi softver. "WinISD" će više nego savršeno odraditi sve ono što je potrebno za jedan DIY dizajn.
 
