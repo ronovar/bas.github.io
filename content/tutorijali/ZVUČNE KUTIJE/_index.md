@@ -2,6 +2,8 @@
 title: "ZVUČNE KUTIJE"
 date: 2024-03-18
 description: "Osnovni pojmovi"
+paige:
+  math: true
 draft: false
 tags: ["ZVUČNE KUTIJE"]
 weight: 10
