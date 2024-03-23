@@ -137,23 +137,23 @@ Polazim od predpostavke da koliko god da je neko početnik trebalo bi da zna mak
 <p class="text-center">Prividna otpornost nekog induktiviteta tj. njegova induktivna reaktansa "XL" se računa na sledeći način:</p>
 
 $$
- X_{L} = 2\Pi * f * L (X_{L} - u omima; f - u hercima; L - u henrijima)
+ X_{L} = 2\Pi * f * L &ensp;(X_{L} &ensp;- &ensp;u &ensp;omima; &ensp;f &ensp;- &ensp;u &ensp;hercima; &ensp;L &ensp;- &ensp;u &ensp;henrijima)
 $$
 
 <p class="text-center">Dok se kapacitivna reaktansa "Xc" racuna kao:</p>
 
 $$
- X_{C} = \frac{1} {2\Pi * f * C} (X_{C} - u omima; f - u hercima; C - u faradima)
+ X_{C} = \frac{1} {2\Pi * f * C} &ensp;(X_{C} &ensp;- &ensp;u &ensp;omima; &ensp;f &ensp;- &ensp;u &ensp;hercima; &ensp;C &ensp;- &ensp;u &ensp;faradima)
 $$
 
 Kod ovog tipa skretnice, na prelomnoj frekvenci i kalem i kondenzator treba da imaju prividnu otpornost (reaktansu) jednaku impedansi drajvera na koji su vezani. Uzećemo da i woofer i tweeter imaju impedanse po 8 oma pa dakle treba proračunati vrednosti induktiviteta kalema i kapaciteta kondenzatora koje na 1900Hz takođe predstavljaju otpornost od 8 oma. Gornje formule se lako transformisu u pogodan oblik tako da se sa leve strane znaka jednakosti nađu L i C.
 
 $$
- L = \frac{X_{L}} {2\Pi * f} = 8 / 6,28 * 1900 = 0,00067H = 0,67mH (za mH pomerate zarez 3 mesta u desno)
+ L = \frac{X_{L}} {2\Pi * f} = 8 / 6,28 * 1900 = 0,00067H = 0,67mH &ensp;(za &ensp;mH &ensp;pomerate &ensp;zarez &ensp;3 &ensp;mesta &ensp;u &ensp;desno)
 $$
 
 $$
- C = \frac{1} {2\Pi * f * X_{C}} = \frac{1} {6,28 x 1900 x 8} = 0,00001F = 10mF (za mF pomerate zarez 6 mesta u desno)
+ C = \frac{1} {2\Pi * f * X_{C}} = \frac{1} {6,28 x 1900 x 8} = 0,00001F = 10mF &ensp;(za &ensp;mF &ensp;pomerate &ensp;zarez &ensp;6 &ensp;mesta &ensp;u &ensp;desno)
 $$
 
 Kalem je vezan u seriju sa namotajem drajvera i izračunali smo ga tako da na frekvenci od 1900Hz ima otpornost-reaktansu od 8 oma, dakle isto toliko kao i otpornost drajvera. Pošto ta dva elementa možemo uprošćeno posmatrati kao dva seriski vezana otpornika od po 8 oma, oni će ulazni napon koji stiže iz pojačala na priključke + i - podeliti tačno na pola pa će na zvučniku biti samo polovina tog napona. Ako nivo signala izrazimo u decibelima (dB) kako je uobičajeno, reći ćemo da je signal koji stiže na drajver oslabljen za 6dB. Kalem ce zadržati tu svoju osobinu slabljenja kako frekvenca ulaznog signala bude rasla, i za svako udvostručenje frekvence, dakle za svaku "oktavu", će oslabljivati signal za dodatnih 6dB. Zbog toga se za ovaj tip skretnica kaže da im je slabljenje "6dB/oktavi". Na 3800Hz će nivo signala na wooferu biti 12dB niži, na 7600Hz će biti 18dB niži, itd. itd.
@@ -164,9 +164,44 @@ Nekada nije dovoljno oslabiti signale koji stižu na drajvere za samo 6dB. To je
 
 <p>{{< paige/image alt="2 Way 2nd" class="rounded-2" src="./images/2way2nd.png" title="2 Way 2nd" >}}</p>
 
-<p class="text-center"><b>Dvosistemska skretnica drugog reda<b>(12dB/oktavi)</b></p>
+<p class="text-center"><b>Dvosistemska skretnica drugog reda<br>(12dB/oktavi)</b></p>
 
 $$
- L1 = \frac{Z_{W}} {\Pi} * {\sqrt2} * f_{LOW}} * 1000 = .....mH
+ L1 = \frac{Z_{W}} {\Pi * \sqrt2 * f_{LOW}} * 1000 = .....mH
 $$
 
+$$
+ C1 = \frac{1} {\Pi * \sqrt2 * f_{LOW} * Z_{W}} * 1,000.000 = .....μF
+$$
+
+$$
+ L2 = \frac{Z_{T}} {\Pi * 2\sqrt2 * f_{HIGH}} * 1000 = .....mH
+$$
+
+$$
+ C2 = \frac{1} {\Pi * 2\sqrt2 * f_{HIGH} * Z_{T}} * 1,000.000 = .....μF
+$$
+
+$$
+ Z_{W}    &ensp; ..... &ensp; impedansa &ensp; woofera &ensp; (u &ensp;omima)
+$$
+
+$$
+ Z_{T}    &ensp; ..... &ensp; impedansa &ensp; tweetera &ensp; (u &ensp;omima)
+$$
+
+$$
+ f_{LOW}  &ensp; ..... &ensp; granična &ensp; frekvenca &ensp; LOW-PASS &ensp; filtera &ensp; (u &ensp;hercima)
+$$
+
+$$
+ f_{HIGH} &ensp; ..... &ensp; granična &ensp; frekvenca &ensp; HIGH-PASS &ensp; filtera &ensp; (u &ensp;hercima)
+$$
+
+Svakako, postoje i skretnice višeg reda koje još "oštrije" ograničavaju opseg koji propuštaju, kao i skretnice za više drajvera (trosistemske, cetvorosistemske...) ali i jedne i druge po mom mišljenju izlaze iz okvira tutorijala ovog nivoa, pa ih neću ovde ni obrađivati. Njihovo savladavanje ostavljam svakome od vas kada budete savladali ove prve korake jer vam tada, uz malo literature i Interneta, ja više i neću trebati. Nemojte svemu ovome prilaziti olako jer je konstruisanje i izrada dobre trosistemske kutije sa skretnicom višeg reda veoma veliki "zalogaj" i za vrlo iskusne i znanjem potkovane graditelje. Ne zaboravite i da sve skretnice parnog reda, počev od drugog reda pa naviše, unose fazne pomake i kašnjenje signala, pa treba dosta znanja da se to konstrukcijom kutije i rasporedom drajvera ispravi ili ublaži.
+
+Kod nekih skretnica će te na tweeterima a ponekad i na srednjetoncima videti dodatne otpornike (obično malo veće snage) koji služe da oslabe nivo signala na ovim drajverima jer su i tweeteri i srednjetonci najčešće dosta osetljiviji i efikasniji od woofera. U koliko vam je woofer recimo sa SPL=89dB a tweeter sa SPL=94dB, moraćete da između izlaza za tweeter sa skretnice i samog tweetera dodate ovakav oslabljivač tj. atenuator da bi ceo sistem skladno i ujednačeno zvučao inače će visoki biti prenaglašeni. Takođe će te ponekad naći dodatne sklopove u vidu serijski vezanih otpornika, kondenzatora i induktiviteta (mada nekada nisu korišćena sva tri elementa odjednom) i to su dodatci za razne kompenzacije i "poravnavanje" propusne krive zbog nesavršenosti drajvera ili skretnica. Time se pokušava da ceo sistem (skretnica i drajveri) za pojačalo predstavljaju što ravnomernije opterečenje preko celog audio opsega.
+
+Pri izradi skretnica treba posebno voditi računa o kvalitetu komponenata koje se koriste. Kada su u pitanju kalemovi, za svakodnevnu upotrebu (u samogradnji) se najčešće koristi klasična lakirana bakarna žica za motanje transformatora, i trebalo bi da se koristi najdeblja moguća žica (normalno, u razumnim granicama!) jer će kvalitet kalema dosta od toga zavisiti. Treba težiti kad god je to moguće, da omska otpornost gotovog kalema (merena običnim OM-metrom) ne bude veća od 25% otpornosti namotaja drajvera, a najbolje bi bilo da pokušate da pravilnim izborom debljine žice, tu vrednost držite u granicama do 10%. Takođe je poželjno da kalemovi za zvučničke skretnice budu takozvani "vazdušni" tj. bez ikakvog jezgra. Svakako, to se može izvesti do neke granice jer će za visoke vrednosti induktiviteta kalem biti ogromnih dimenzija i težine ako se po svaku cenu radi kao vazdušni. U tim slučajevima se koriste bilo gvoždena jezgra (kao za mrežne transformatore) ili feritna jezgra. Izbor kondenzatora je takođe važan, i uvek je bolje koristiti blok kondenzatore nego bilo koju vrstu elektrolitskih pa makar oni bili i posebno rađeni za zvučničke skretnice. Za velike vrednosti kapaciteta će ipak često biti veoma teško da se nađu odgovarajući blokovi, pa se do nekih (opet kažem razumnih!) granica koriste paralelne kombinacije više blok kondenzatora. Kada baš ne može drugačije, koristite takozvane "bipolarne" elektrolite koji su namenski pravljeni baš za zvucničke skretnice.
+
+I još nešto veoma važno kod dizajniranja skretnica! Prilikom proračuna skretnice NE MOŽETE koristiti podatak o impedansi drajvera onako kako je on obično dat u proizvođačkoj specifikaciji. To je neka prosečna ili nominalna impedansa tog drajvera, ali to ne znači da će on imati tu impedansu na frekvenci koju hoćete da koristite kao prelomnu frekvencu skretnice. Uzmite na primer, bilo koji woofer na svetu!!! kome je nominalna impedansa 8 oma, i garantujem vam da na onoj prelomnoj frekvenci od 1900Hz koju smo koristili u primeru, ni jedan sigurno neće imati impedansu od 8 oma! Za pravilan proračun skretnice MORATE koristiti stvarnu impedansu tog drajvera BAŠ NA TOJ prelomnoj frekvenci, a to će te morati da izmerite jer ona na toj frekvenci neće biti 8 oma. Kako da to uradite, naći će te u TUTORIJALU o određivanju Thiele/Small parametara drajvera. Za drajvere renomiranih proizvođača će te obično dobiti i grafikon impedanse u zavisnosti od frekvence pa nećete morati da merite već potražite vrednost koja vas zanima na grafiku. U koliko ipak sve ovo zanemarite i oslonite se na nominalnu impedansu, proračun će vam biti netačan pa dakle i vrednosti komponenata u skretnici, pa u tom slučaju nemojte ni očekivati da vam to sve zajedno dobro zvuči na kraju!!!
