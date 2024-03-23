@@ -148,3 +148,4 @@ $$
 
 <p class="text-center">Vidite da li je vrednost prihvatljiva, a ako je prevelika, odaberite drugo telo većeg prečnika i/ili većeg preseka prostora za namotaj (površina koja se dobija kao BxC).</p>
 
+<p style="color: red;" class="text-center">Ako ste manje iskusni u gradnji audio uređaja, preporučujem da pogledate neka uputstva u TUTORIJALIMA.</p>
