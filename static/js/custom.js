@@ -13,7 +13,7 @@ $(document).ready(function(){
         }
 
         var file = $(this).attr("file");
-        var link = $('<a href="https://' + href.concat("/attachments/", file) + '" />');
+        var link = $('<a href="' + href.concat("/attachments/", file) + '" />');
 
         link.attr('target', '_blank');
         
