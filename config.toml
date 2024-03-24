@@ -12,6 +12,7 @@ copystart = "1955"
 copyend = "2016"
 name = "OME Audio"
 custom_css = ["css/custom.css"]
+custom_js = ["js/custom.js"]
 
 [languages.en]
 title = "Paige"
