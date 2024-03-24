@@ -1,4 +1,4 @@
-$('ul.file-download li').click(function(e) {
+$('ul.file-download li .download').click(function(e) {
     e.stopPropagation();
     var href = window.location.host + '/bythos.github.io/attachments/' + $(this).text().split(' (PDF)')[0] + '.pdf';
     var link = $('<a href="http://' + href + '" />');
