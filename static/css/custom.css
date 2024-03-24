@@ -131,3 +131,7 @@ ul.file-download li .download:hover {
   -webkit-filter: invert(100%);
   filter: invert(100%);
 }
+
+ul.file-download li i.bi.bi-file-earmark-pdf-fill {
+    font-size: 3em;
+}
