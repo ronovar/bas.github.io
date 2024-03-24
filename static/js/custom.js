@@ -9,6 +9,6 @@ $(document).ready(function(){
 
         link.attr('target', '_blank');
         console.log(href);
-        console.log(window.location.origin);
+        console.log(window.location.href);
     });
 });
