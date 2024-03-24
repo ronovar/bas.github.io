@@ -9,7 +9,7 @@
   {{ if (fileExists (printf "static/attachments/%s - PCB.pdf" .Page.Title)) -}}
     <li>
       <div class="download android">
-        <i class="fa fa fa-android fa-3x"></i>
+        <i class="bi bi-file-earmark-pdf-fill"></i>
         <span class="df">{{ .Page.Title }} - PCB (PDF)</span>
         <span class="dfn">{{ .Page.Title }}</span>
       </div>
