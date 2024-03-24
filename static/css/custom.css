@@ -22,7 +22,8 @@ p#paige-description {
 }
 
 p, div#paige-content ul, p.fst-italic.mb-0.paige-summary.text-center, .container-fluid p:not(p.display-7.fw-bold.h2.text-center) {
-  text-align: justify !important;
+  /* text-align: justify !important; */
+  text-align: justify;
 }
 
 div#paige-content h2, div#paige-content h3 {
