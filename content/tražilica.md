@@ -5,6 +5,6 @@ paige:
   feed:
     hide_page: true
   search:
-    hide_page: false
+    hide_page: true
 title: "Tražilica"
 ---
