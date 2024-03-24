@@ -70,6 +70,8 @@ oko 50mA<br>(po izlaznom paru)<br>***BIAS***
 {{< /paige/quote >}}
 <hr>
 
+{{< file-download title="download" file="LEGEND - STAGE MASTER">}}
+
 ## LEGEND - Stage Master MK2 (prototip)
 
 <hr>
@@ -102,6 +104,8 @@ Za postizanje još veće snage, a za šta su bili često zainteresovani mlađi d
 oko 25mA<br>(po izlaznom paru)<br>***BIAS***
 {{< /paige/quote >}}
 <hr>
+
+{{< file-download title="download" file="LEGEND - STAGE MASTER MK2">}}
 
 ## LEGEND - Quasor
 
