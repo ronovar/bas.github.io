@@ -7,7 +7,7 @@ sort_by: Name
 resources:
   - src: alexander-london-mJaD10XeD7w-unsplash.jpg
     title: Brown tabby cat on white stairs by Alexander London
-  - src: amber-kipp-75715CVEJhI-unsplash.jpg
+  - src: a.jpg
     title: Selective focus photography of orange and white cat on brown table by Amber Kipp
   - src: manja-vitolic-gKXKBY-C-Dk-unsplash.jpg
     title: "Gipsy the Cat was sitting on a bookshelf one afternoon and just stared right at me, kinda saying: “Will you take a picture already?”"
