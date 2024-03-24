@@ -11,7 +11,7 @@
   {{- end }}
   {{ if (fileExists (printf "static/attachments/%s - ŠEMA.gif" .Params.file)) -}}
     <li>
-      <div class="download schematic" file="{{ .Params.file }} - ŠEMA.pdf">
+      <div class="download schematic" file="{{ .Params.file }} - ŠEMA.gif">
         <i class="bi bi-image-fill"></i>
         <span class="df">ŠEMA (GIF)</span>
         <span class="dfn">{{ .Params.file }}</span>
