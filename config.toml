@@ -67,7 +67,7 @@ weight = 80
 [[languages.en.menu.main]]
 identifier = "tagovi"
 name = "Tagovi"
-url = "/tagovi/"
+url = "/tags/"
 weight = 90
 
 [[languages.en.menu.main]]
