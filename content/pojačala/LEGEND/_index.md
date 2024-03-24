@@ -117,4 +117,6 @@ oko 25mA<br>(po izlaznom paru)<br>***BIAS***
 
 Za one kojima treba još više snage, urađene su dodatne modifikacije i stvorena ova 1000W-tna verzija koju sam nazvao QUASOR. Ona je predviđena za rad sa opterećenjima od 4 oma jer je sa naponima napajanja do 100V po grani a bez BRIDGE spoja nemoguće tu snagu postići na 8 oma. Većina standardno nabavljivih elektrolita većeg kapaciteta i razumne cene je rađena za nominalni napon do 100V, pa je napajanje trebalo drzati nešto ispod te granice. Slično razmišljanje važi i za izlazne MOSFET-ove jer je ono što je kod nas nabavljivo uglavnom za oko 200V ili 250V tako da je 95V od prilike neki maksimum koji bi se u praksi mogao koristiti a da sve zajedno još ostane u granicama jednostavnog, pristupačnog i izvodljivog. Svakako da postoje rešenja sa višestrukim naponima napajanja za velike snage, ali ona po mom mišljenju nisu za prosečnog samograditelja kod nas, znajući naše prosečne finansijske mogućnosti, nivo opremljenosti potrebnim instrumentima i prosećan nivo znanja i iskustva samograditelja.
 
+{{< file-download title="download" file="LEGEND - QUASOR">}}
+
 <p style="color: red;" class="text-center">Ako ste manje iskusni u gradnji audio uređaja, preporučujem da pogledate neka uputstva u TUTORIJALIMA.</p>
