@@ -1,5 +1,5 @@
 ---
-description: "Browse by tag."
+description: "Pretraži po tagu."
 layout: "paige/cloud"
-title: "Tags"
+title: "Tagovi"
 ---
