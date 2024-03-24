@@ -13,10 +13,10 @@ $(document).ready(function(){
         }
 
         var link = $('<a href="http://' + href + '" />');
-        var file = $(this).text().split(' (PDF)')[0].replace('-', '').split(' ').join('').toLowerCase();
-        var download = $(this).find('span');
+        var file = $(this).attr("file");
 
         link.attr('target', '_blank');
         console.log(href);
+        console.log(file);
     });
 });
