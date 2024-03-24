@@ -1,30 +1,29 @@
-<!-- {{ if .IsNamedParams }} -->
-{{ if eq .Params.file "" }}
+{{ if .IsNamedParams }}
 <ul class="file-download">
-  {{ if (fileExists (printf "static/attachments/%s - ŠEMA.pdf" .Page.Title)) -}}
+  {{ if (fileExists (printf "static/attachments/%s - ŠEMA.pdf" .Params.file)) -}}
     <li>
       <div class="download schematic">
         <i class="bi bi-file-earmark-pdf-fill"></i>
         <span class="df">ŠEMA (PDF)</span>
-        <span class="dfn">{{ .Page.Title }}</span>
+        <span class="dfn">{{ .Params.file }}</span>
       </div>
     </li>
   {{- end }}
-  {{ if (fileExists (printf "static/attachments/%s - RASPORED.gif" .Page.Title)) -}}
+  {{ if (fileExists (printf "static/attachments/%s - RASPORED.gif" .Params.file)) -}}
     <li>
       <div class="download layout">
         <i class="bi bi-image-fill"></i>
         <span class="df">RASPORED (GIF)</span>
-        <span class="dfn">{{ .Page.Title }}</span>
+        <span class="dfn">{{ .Params.file }}</span>
       </div>
     </li>
   {{- end }}
-  {{ if (fileExists (printf "static/attachments/%s - PLOČICA.pdf" .Page.Title)) -}}
+  {{ if (fileExists (printf "static/attachments/%s - PLOČICA.pdf" .Params.file)) -}}
     <li>
       <div class="download pcb">
         <i class="bi bi-file-earmark-pdf-fill"></i>
         <span class="df">PLOČICA (PDF)</span>
-        <span class="dfn">{{ .Page.Title }}</span>
+        <span class="dfn">{{ .Params.file }}</span>
       </div>
     </li>
   {{- end }}
