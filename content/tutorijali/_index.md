@@ -1,4 +1,4 @@
 ---
-description: "Uputsva i Opisi Audio Uređaja"
+description: "Uputstva i Opisi Audio Uređaja"
 title: "Tutorijali"
 ---
