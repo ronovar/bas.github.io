@@ -1,7 +1,7 @@
 baseURL = "https://ronovar.github.io/bas.github.io/"
 copyright = "Dr. Borivoje Jagodić"
 enablerobotstxt = true
-languagecode = "en-us"
+languagecode = "sr"
 paginate = 50
 theme = ["paige"]
 timezone = "America/Los_Angeles"
