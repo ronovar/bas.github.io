@@ -92,7 +92,7 @@ startlevel = 2
 path = "../themes/paige"
 
 [[module.imports]]
-path = "hugo-theme-gallery"
+path = "../themes/hugo-theme-gallery"
 
 [outputs]
 home = ["atom", "html", "json", "rss"]
