@@ -9,8 +9,6 @@ $(document).ready(function(){
 
         link.attr('target', '_blank');
         console.log(href);
-        console.log(link);
-        console.log(file);
-        console.log(download);
+        console.log(window.location.origin);
     });
 });
