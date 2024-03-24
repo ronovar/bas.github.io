@@ -1,4 +1,6 @@
-{{ if .IsNamedParams }}
+<!-- {{ if .IsNamedParams }} -->
+{{ $var := "" }}
+{{ if (.Get 0) }}
 <ul class="file-download">
   {{ if (fileExists (printf "static/attachments/%s - ŠEMA.pdf" .Page.Title)) -}}
     <li>
