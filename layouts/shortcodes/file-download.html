@@ -1,28 +1,28 @@
 {{ if .IsNamedParams }}
 <ul class="file-download">
-  {{ if (fileExists (printf "static/attachments/%s - SCHEMATIC.pdf" .Page.Title)) -}}
+  {{ if (fileExists (printf "static/attachments/%s - ŠEMA.pdf" .Page.Title)) -}}
     <li>
       <div class="download schematic">
         <i class="bi bi-file-earmark-pdf-fill"></i>
-        <span class="df">SCHEMATIC (PDF)</span>
+        <span class="df">ŠEMA (PDF)</span>
         <span class="dfn">{{ .Page.Title }}</span>
       </div>
     </li>
   {{- end }}
-  {{ if (fileExists (printf "static/attachments/%s - LAYOUT.gif" .Page.Title)) -}}
+  {{ if (fileExists (printf "static/attachments/%s - RASPORED.gif" .Page.Title)) -}}
     <li>
       <div class="download layout">
         <i class="bi bi-image-fill"></i>
-        <span class="df">LAYOUT (GIF)</span>
+        <span class="df">RASPORED (GIF)</span>
         <span class="dfn">{{ .Page.Title }}</span>
       </div>
     </li>
   {{- end }}
-  {{ if (fileExists (printf "static/attachments/%s - PCB.pdf" .Page.Title)) -}}
+  {{ if (fileExists (printf "static/attachments/%s - PLOČICA.pdf" .Page.Title)) -}}
     <li>
       <div class="download pcb">
         <i class="bi bi-file-earmark-pdf-fill"></i>
-        <span class="df">PCB (PDF)</span>
+        <span class="df">PLOČICA (PDF)</span>
         <span class="dfn">{{ .Page.Title }}</span>
       </div>
     </li>
