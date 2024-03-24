@@ -25,7 +25,7 @@ Drugi funkcionalni primjerak (ustvari prvi napravljeni) je kod mene, a u konačn
 ### Specifikacije
 <hr>
 {{< paige/quote >}}
-70W - 80W RMS/8Ω<br>(pri 80% izlazne snage)<br>***Prosečna izlazna snaga***
+150W RMS/8Ω<br>(pri 80% izlazne snage)<br>***Prosečna izlazna snaga***
 {{< /paige/quote >}}
 
 {{< paige/quote >}}
