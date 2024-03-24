@@ -70,12 +70,6 @@ name = "Tagovi"
 url = "/tags/"
 weight = 90
 
-[[languages.en.menu.main]]
-identifier = "galerija"
-name = "Galerija"
-url = "/galerija/"
-weight = 100
-
 [markup.goldmark.renderer]
 unsafe = true
 
