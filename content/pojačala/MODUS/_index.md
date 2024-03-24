@@ -49,7 +49,7 @@ Predpojačalo koje sam najčešće koristio uz Modus ćete naći u odeljku *"Pre
 {{< /paige/quote >}}
 <hr>
 
-{{< file-download title="download">}}
+{{< file-download title="download" file="MODUS">}}
 
 ## Techno
 
@@ -92,6 +92,6 @@ Vremenom se pokazala potreba za jačom verzijom MODUS-M-a. Tako je nastala ova v
 {{< /paige/quote >}}
 <hr>
 
-{{< file-download title="download">}}
+{{< file-download title="download" file="TECHNO">}}
 
 <p style="color: red;" class="text-center">Ako ste manje iskusni u gradnji audio uređaja, preporučujem da pogledate neka uputstva u TUTORIJALIMA.</p>
