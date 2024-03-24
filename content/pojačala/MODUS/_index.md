@@ -92,4 +92,6 @@ Vremenom se pokazala potreba za jačom verzijom MODUS-M-a. Tako je nastala ova v
 {{< /paige/quote >}}
 <hr>
 
+{{< file-download title="download">}}
+
 <p style="color: red;" class="text-center">Ako ste manje iskusni u gradnji audio uređaja, preporučujem da pogledate neka uputstva u TUTORIJALIMA.</p>
