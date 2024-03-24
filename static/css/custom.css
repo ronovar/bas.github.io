@@ -66,6 +66,7 @@ blockquote.blockquote {
     max-width: fit-content;
     text-align: center;
     font-size: medium;
+    padding-right: 0px;
 }
 
 blockquote.blockquote strong {
