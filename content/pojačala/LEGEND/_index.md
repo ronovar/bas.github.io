@@ -41,6 +41,8 @@ oko 65mA<br>(po izlaznom paru)<br>***BIAS***
 {{< /paige/quote >}}
 <hr>
 
+{{< file-download title="download" file="LEGEND">}}
+
 ## LEGEND - Stage Master
 
 Vremenom se pokazala potreba za jačom verzijom LEGEND-a koja bi poslužila za manja ozvučenja za svirke i kućne žurke. Tako je nastala ova verzija nazvana Stage Master koja se u osnovi ne razlikuje mnogo od prvobitne. Ipak, da bi se dobilo na snazi i pouzdanosti bilo je neophodno dodati pobudni stepen jer je izlaz dobio jos dva para MOSFET-ova, pa su ukupne potrebe za pobudom a i neki drugi povećani parametri zbog paralelne veze tolikog broja FET-ova bili preko mogućnosti VAS stepena osnovne verzije.
