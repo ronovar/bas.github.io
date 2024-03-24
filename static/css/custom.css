@@ -98,7 +98,7 @@ ul.file-download li {
 ul.file-download li .download {
   width: 200px;
   height: 75px;
-  background: black;
+  background: var(--bs-nav-pills-link-active-bg);
   float: left;
   border-radius: 5px;
   position: relative;
