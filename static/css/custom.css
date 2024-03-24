@@ -103,7 +103,7 @@ ul.file-download li .download {
   border: 1px solid #fff;
 }
 
-ul.file-download li .download > .fa {
+ul.file-download li .download > .bi {
   color: #fff;
   position: absolute;
   top: 50%;
