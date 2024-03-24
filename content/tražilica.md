@@ -1,10 +1,10 @@
 ---
-description: "Search the site."
+description: "Pretraži ovaj site"
 layout: "paige/search"
 paige:
   feed:
     hide_page: true
   search:
-    hide_page: true
-title: "Search"
+    hide_page: false
+title: "Tražilica"
 ---
