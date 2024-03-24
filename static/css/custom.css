@@ -52,7 +52,7 @@ figure {
     text-align: center !important;
 }
 
-#paige-metadata img {
+#paige-metadata img, .mb-3 img {
     display: block;
     margin-left: auto;
     margin-right: auto;
