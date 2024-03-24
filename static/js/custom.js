@@ -13,10 +13,10 @@ $(document).ready(function(){
         }
 
         var file = $(this).attr("file");
-        var link = $('<a href="http://' + href.concat("/attachments/", file) + '" />');
+        var link = $('<a href="http://' + href + '" />');
 
         link.attr('target', '_blank');
-        console.log(file);
-        console.log(link);
+        
+        window.open(link.attr('href'));
     });
 });
