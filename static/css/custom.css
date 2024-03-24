@@ -21,7 +21,7 @@ p#paige-description {
   text-align: center !important;
 }
 
-p, div#paige-content ul, p.fst-italic.mb-0.paige-summary.text-center, .container-fluid p:not(p.display-7.fw-bold.h2.text-center) {
+p, div#paige-content ul:not(.file-download), p.fst-italic.mb-0.paige-summary.text-center, .container-fluid p:not(p.display-7.fw-bold.h2.text-center) {
   text-align: justify !important;
 }
 
