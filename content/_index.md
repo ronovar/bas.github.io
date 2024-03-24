@@ -21,7 +21,7 @@ title: ".: Borina Amaterska Svaštara :."
 
 <p style="color: #ff0000" class="display-7 fw-bold h2 text-center">Molim da pročitate pre nego što krenete na ostale stranice!!!</p>
 
-<p style="color: #ff0000" class="display-7 fw-bold h2 text-center">Ovaj novi sajt je posvećen Bori, kojeg više nažalost nema više sa nama, a održavanje sajta rade forumaši u znak sećanja na Boru.</p>
+<p style="color: #ff0000" class="display-7 fw-bold h2 text-center" id="home-comment">Ovaj novi sajt je posvećen Bori, kojeg više nažalost nema više sa nama, a održavanje sajta rade forumaši u znak sećanja na Boru.</p>
 
 <div class="container-fluid">
     <div class="justify-content-center row">
