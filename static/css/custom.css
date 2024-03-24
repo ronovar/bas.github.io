@@ -86,6 +86,10 @@ p#home-comment {
   font-size: 20px;
 }
 
+ul.file-download {
+  text-align: justify !important;
+}
+
 ul.file-download li {
   display: inline-block;
   margin: 10px;
