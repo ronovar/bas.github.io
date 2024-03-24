@@ -3,8 +3,7 @@ copyright = "Dr. Borivoje Jagodić"
 enablerobotstxt = true
 languagecode = "sr"
 paginate = 50
-# theme = ["paige", "hugo-theme-gallery"]
-theme = ["hugo-theme-gallery"]
+theme = ["paige", "hugo-theme-gallery"]
 timezone = "America/Los_Angeles"
 titlecasestyle = "Go"
 
