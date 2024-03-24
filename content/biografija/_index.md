@@ -1,7 +1,7 @@
 ---
 title: "Dr. Borivoje Jagodić"
 date: 2024-03-18
-description: "Biografija"
+description: "(1955-2016)"
 draft: false
 tags: ["Dr. Borivoje Jagodić"]
 weight: 10
