@@ -10,7 +10,7 @@
 {{ $readingtime := $page.ReadingTime }}
 {{ $series := $page.Params.series }}
 {{ $tags := $page.Params.tags | default slice | uniq }}
-{{ $title := $page.Title }}
+{{ $title := $page.Title | markdownify }}
 {{ $href := site.BaseURL }}
 
 {{ if and ($page.Param "paige.git.commit_url") $page.GitInfo }}
