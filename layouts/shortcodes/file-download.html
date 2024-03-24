@@ -1,10 +1,22 @@
 {{ if .IsNamedParams }}
 <ul class="file-download">
   {{ if (fileExists (printf "static/attachments/%s - SCHEMATIC.pdf" .Page.Title)) -}}
-    <li>{{ .Page.Title }} - Schematic (PDF)<span>0</span></li>
+    <li>
+      <div class="download android">
+        <i class="bi bi-file-earmark-pdf-fill"></i>
+        <span class="df">{{ .Page.Title }} - SCHEMATIC (PDF)</span>
+        <span class="dfn">{{ .Page.Title }}</span>
+      </div>
+    </li>
   {{- end }}
   {{ if (fileExists (printf "static/attachments/%s - LAYOUT.gif" .Page.Title)) -}}
-    <li>{{ .Page.Title }} - Layout (GIF)<span>0</span></li>
+    <li>
+      <div class="download android">
+        <i class="bi bi-file-earmark-pdf-fill"></i>
+        <span class="df">{{ .Page.Title }} - Layout (GIF)</span>
+        <span class="dfn">{{ .Page.Title }}</span>
+      </div>
+    </li>
   {{- end }}
   {{ if (fileExists (printf "static/attachments/%s - PCB.pdf" .Page.Title)) -}}
     <li>
