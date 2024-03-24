@@ -1,6 +1,6 @@
 ---
 title: "Dr. Borivoje Jagodić"
-date: 2024-03-18
+date: 2016-01-01
 description: "(1955-2016)"
 draft: false
 tags: ["Dr. Borivoje Jagodić"]
