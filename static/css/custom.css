@@ -86,16 +86,6 @@ p#home-comment {
   font-size: 20px;
 }
 
-ul.file-download {
-  width: 100%;
-  text-align: center;
-  margin: 0;
-  padding: 0;
-  position: absolute;
-  top: 50%;
-  transform: translateY(-50%);
-}
-
 ul.file-download li {
   display: inline-block;
   margin: 10px;
