@@ -14,6 +14,9 @@ name = "OME Audio"
 custom_css = ["css/custom.css"]
 custom_js = ["js/jquery-3.7.1.min.js", "js/custom.js"]
 
+[params.meta]
+favicon = false
+
 [languages.en]
 title = "Paige"
 weight = 10
