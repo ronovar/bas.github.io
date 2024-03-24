@@ -132,8 +132,8 @@ ul.file-download li .download > .bi {
 }
 
 ul.file-download li .download:hover {
-  -webkit-filter: invert(100%);
-  filter: invert(100%);
+  -webkit-filter: invert(50%);
+  filter: invert(50%);
 }
 
 ul.file-download li i.bi.bi-file-earmark-pdf-fill, ul.file-download li i.bi.bi-image-fill {
