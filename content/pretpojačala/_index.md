@@ -1,4 +1,4 @@
 ---
-description: "Hi-Fi Prepojačala"
-title: "Prepojačala"
+description: "Hi-Fi Pretpojačala"
+title: "Pretpojačala"
 ---
