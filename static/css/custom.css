@@ -81,3 +81,7 @@ blockquote.blockquote strong {
 div#paige-content :last-child > hr {
     margin-top: 0px;
 }
+
+p#home-comment {
+  font-size: 20px;
+}
