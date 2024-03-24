@@ -26,7 +26,7 @@
     {{ end }}
 
     <p class="mb-0 text-center" id="paige-credit">
-        <a class="link-secondary text-decoration-none" href="{{ $href }}" {{ with $target }} target="{{ . }}" {{ end }}>OME Audio &copy; {{ site.Params.copystart }}-{{ dateFormat "2006" now }}</a>
+        <a class="link-secondary text-decoration-none" href="{{ $href }}" {{ with $target }} target="{{ . }}" {{ end }}>OME Audio &copy; {{ site.Params.copystart }}-{{ site.Params.copyend }}</a>
     </p>
 
     {{ if templates.Exists "partials/paige/footer-last.html" }}
