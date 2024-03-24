@@ -37,6 +37,6 @@ title: ".: Borina Amaterska Svaštara :."
     </div>
 </div>
 
-<div class="column-gap-3 d-flex display-6 justify-content-center mb-3">
+<!--<div class="column-gap-3 d-flex display-6 justify-content-center mb-3">
     <a title="E-Mail" href="mailto:kia_ora@ptt.yu">{{< paige/icon class="bi bi-envelope-at-fill" >}}</a>
-</div>
+</div>-->
