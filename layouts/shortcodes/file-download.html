@@ -9,6 +9,15 @@
       </div>
     </li>
   {{- end }}
+  {{ if (fileExists (printf "static/attachments/%s - ŠEMA.gif" .Params.file)) -}}
+    <li>
+      <div class="download schematic" file="{{ .Params.file }} - ŠEMA.pdf">
+        <i class="bi bi-image-fill"></i>
+        <span class="df">ŠEMA (GIF)</span>
+        <span class="dfn">{{ .Params.file }}</span>
+      </div>
+    </li>
+  {{- end }}
   {{ if (fileExists (printf "static/attachments/%s - RASPORED.gif" .Params.file)) -}}
     <li>
       <div class="download layout" file="{{ .Params.file }} - RASPORED.gif">
