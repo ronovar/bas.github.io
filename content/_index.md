@@ -12,12 +12,16 @@ paige:
     #paige-title {
         font-size: 5rem;
     }
+  enableEmoji: true
+   
 title: ".: Borina Amaterska Svaštara :."
 ---
 
 <p>{{% paige/image alt="Landscape" breakpoints=true class="object-center rounded-4" fetchpriority="high" loading="eager" src="images/paige-home.png" %}}</p>
 
 <p style="color: #ff0000" class="display-7 fw-bold h2 text-center">Molim da pročitate pre nego što krenete na ostale stranice!!!</p>
+
+Ovaj novi sajt je posvećen Bori, kojeg više nema sa nama <code>:crying_face:</code>
 
 <div class="container-fluid">
     <div class="justify-content-center row">
