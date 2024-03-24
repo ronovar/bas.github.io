@@ -16,3 +16,5 @@ weight: 10
 <hr>
 
 <p class="text-center">Skup u Kragujevcu 2014</p>
+
+{{< paige/youtube description="Bora na skupu u Kragujevcu - 2014" video="xs5crY4qPhw" >}}
