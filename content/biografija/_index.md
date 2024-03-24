@@ -11,6 +11,6 @@ weight: 10
 <hr>
 {{< load-photoswipe >}}
 {{< gallery caption-effect="fade" >}}
-  {{< figure src="./gallery/biografija/Bora na skupu u Kragujevcu 2014 (nik).jpg" caption="Bora na skupu u Kragujevcu 2014 (nik)" >}}
+  {{< figure src="./gallery/biografija/Bora na skupu u Kragujevcu - 2014 (nik).jpg" caption="Bora na skupu u Kragujevcu 2014 (nik)" >}}
 {{< /gallery >}}
 <hr>
