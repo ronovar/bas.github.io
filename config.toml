@@ -12,65 +12,65 @@ copystart = "2016"
 name = "OME Audio"
 custom_css = ["css/custom.css"]
 
-[languages.sr]
+[languages.en]
 title = "Paige"
 weight = 10
 
-[[languages.sr.menu.main]]
+[[languages.en.menu.main]]
 identifier = "home"
 name = "Home"
 url = "/"
 weight = 10
 
-[[languages.sr.menu.main]]
+[[languages.en.menu.main]]
 identifier = "pojačala"
 name = "Pojačala"
 url = "/pojačala/"
 weight = 20
 
-[[languages.sr.menu.main]]
+[[languages.en.menu.main]]
 identifier = "pretpojačala"
 name = "Pretpojačala"
 url = "/pretpojačala/"
 weight = 30
 
-[[languages.sr.menu.main]]
+[[languages.en.menu.main]]
 identifier = "pomoćni uređaji"
 name = "Pomoćni Uređaji"
 url = "/pomoćni uređaji/"
 weight = 40
 
-[[languages.sr.menu.main]]
+[[languages.en.menu.main]]
 identifier = "test oprema"
 name = "Test Oprema"
 url = "/test oprema/"
 weight = 50
 
-[[languages.sr.menu.main]]
+[[languages.en.menu.main]]
 identifier = "zvučnici"
 name = "Zvučnici"
 url = "/zvučnici/"
 weight = 60
 
-[[languages.sr.menu.main]]
+[[languages.en.menu.main]]
 identifier = "tutorijali"
 name = "Tutorijali"
 url = "/tutorijali/"
 weight = 70
 
-[[languages.sr.menu.main]]
+[[languages.en.menu.main]]
 identifier = "biografija"
 name = "Biografija"
 url = "/biografija/"
 weight = 80
 
-[[languages.sr.menu.main]]
+[[languages.en.menu.main]]
 identifier = "tagovi"
 name = "Tagovi"
 url = "/tagovi/"
 weight = 90
 
-[[languages.sr.menu.main]]
+[[languages.en.menu.main]]
 identifier = "tražilica"
 name = "Tražilica"
 url = "/tražilica/"
