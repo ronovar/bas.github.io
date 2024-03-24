@@ -1,4 +1,4 @@
 ---
-description: "Audio uređaji za audio primenu"
+description: "Audio Uređaji Za Audio Primenu"
 title: "Pomoćni Uređaji"
 ---
