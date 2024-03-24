@@ -8,7 +8,8 @@ timezone = "America/Los_Angeles"
 titlecasestyle = "Go"
 
 [params]
-copystart = "2016"
+copystart = "1955"
+copyend = "2016"
 name = "OME Audio"
 custom_css = ["css/custom.css"]
 
