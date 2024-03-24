@@ -2,7 +2,7 @@
 <ul class="file-download">
   {{ if (fileExists (printf "static/attachments/%s - ŠEMA.pdf" .Params.file)) -}}
     <li>
-      <div class="download schematic">
+      <div class="download schematic" file="{{ .Params.file }} - ŠEMA.pdf">
         <i class="bi bi-file-earmark-pdf-fill"></i>
         <span class="df">ŠEMA (PDF)</span>
         <span class="dfn">{{ .Params.file }}</span>
@@ -11,7 +11,7 @@
   {{- end }}
   {{ if (fileExists (printf "static/attachments/%s - RASPORED.gif" .Params.file)) -}}
     <li>
-      <div class="download layout">
+      <div class="download layout" file="{{ .Params.file }} - RASPORED.gif">
         <i class="bi bi-image-fill"></i>
         <span class="df">RASPORED (GIF)</span>
         <span class="dfn">{{ .Params.file }}</span>
@@ -20,7 +20,7 @@
   {{- end }}
   {{ if (fileExists (printf "static/attachments/%s - PLOČICA.pdf" .Params.file)) -}}
     <li>
-      <div class="download pcb">
+      <div class="download pcb" file="{{ .Params.file }} - PLOČICA.pdf">
         <i class="bi bi-file-earmark-pdf-fill"></i>
         <span class="df">PLOČICA (PDF)</span>
         <span class="dfn">{{ .Params.file }}</span>
