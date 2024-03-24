@@ -7,6 +7,9 @@ theme = ["paige"]
 timezone = "America/Los_Angeles"
 titlecasestyle = "Go"
 
+[paige.menu]
+style = "pills" # Must be "links", "pills", "tabs", or "underline"
+
 [params]
 copystart = "2016"
 name = "OME Audio"
