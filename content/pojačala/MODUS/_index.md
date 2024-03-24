@@ -49,6 +49,8 @@ Predpojačalo koje sam najčešće koristio uz Modus ćete naći u odeljku *"Pre
 {{< /paige/quote >}}
 <hr>
 
+{{< file-download title="download">}}
+
 ## Techno
 
 <hr>
