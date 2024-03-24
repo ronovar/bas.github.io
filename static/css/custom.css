@@ -106,7 +106,7 @@ ul.file-download li .download {
 ul.file-download li .download > .bi {
   color: #fff;
   position: absolute;
-  top: 50%;
+  top: 46%;
   left: 15px;
   transform: translateY(-50%);
 }
