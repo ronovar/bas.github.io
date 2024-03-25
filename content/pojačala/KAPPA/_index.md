@@ -48,8 +48,12 @@ Pojačalo je potpuno neosetljivo na reaktivna opterečenja ili "nezgodne" zvučn
 {{< /paige/quote >}}
 <hr>
 
+{{< file-download title="download" file="KAPPA">}}
+
 ## KAPPA-2
 
 Kappa-2 je druga verzija vrhunske Kappe koja ima dodatna poboljšanja, te su fajlovi za izradu dati ispod.
+
+{{< file-download title="download" file="KAPPA-2">}}
 
 <p style="color: red;" class="text-center">Ako ste manje iskusni u gradnji audio uređaja, preporučujem da pogledate neka uputstva u TUTORIJALIMA.</p>
