@@ -155,6 +155,10 @@ table {
   width: 50%;
   margin-left: auto;
   margin-right: auto;
+  border: 1px solid #ddd;
+  border-collapse: separate;
+  border-radius: 6px;
+  border-spacing: 0px;
 }
 
 table td, table th {
