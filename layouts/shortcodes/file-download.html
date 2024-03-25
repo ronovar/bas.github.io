@@ -27,6 +27,15 @@
       </div>
     </li>
   {{- end }}
+   {{ if (fileExists (printf "static/attachments/%s - RASPORED.pdf" .Params.file)) -}}
+    <li>
+      <div class="download layout" file="{{ .Params.file }} - RASPORED.pdf">
+        <i class="bi bi-image-fill"></i>
+        <span class="df">RASPORED (PDF)</span>
+        <span class="dfn">{{ .Params.file }}</span>
+      </div>
+    </li>
+  {{- end }}
   {{ if (fileExists (printf "static/attachments/%s - PLOČICA.pdf" .Params.file)) -}}
     <li>
       <div class="download pcb" file="{{ .Params.file }} - PLOČICA.pdf">
