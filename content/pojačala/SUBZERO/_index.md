@@ -48,4 +48,6 @@ Nema ničeg posebnog što se tiče ovog pojačala, a što bi ovde trebalo napome
 {{< /paige/quote >}}
 <hr>
 
+{{< file-download title="download" file="SUBZERO">}}
+
 <p style="color: red;" class="text-center">Ako ste manje iskusni u gradnji audio uređaja, preporučujem da pogledate neka uputstva u TUTORIJALIMA.</p>
