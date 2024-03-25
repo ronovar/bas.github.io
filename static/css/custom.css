@@ -124,6 +124,7 @@ ul.file-download li .download > .bi {
 .df {
   top: 20px;
   font-size: .68em;
+  color: lightcoral;
 }
 
 .dfn {
@@ -131,6 +132,7 @@ ul.file-download li .download > .bi {
   font-size: 0.84em;
   line-height: 1.01;
   text-align: left;
+  color: lightskyblue;
 }
 
 ul.file-download li .download:hover {
@@ -140,4 +142,5 @@ ul.file-download li .download:hover {
 
 ul.file-download li i.bi.bi-file-earmark-pdf-fill, ul.file-download li i.bi.bi-image-fill {
     font-size: 3em;
+    color: powderblue;
 }
