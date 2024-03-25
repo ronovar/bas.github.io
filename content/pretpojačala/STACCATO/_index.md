@@ -33,4 +33,6 @@ Ovo je jedno vrlo jednostavno ali i vrlo kvalitetno predpojačalo za većinu pri
 {{< /paige/quote >}}
 <hr>
 
+{{< file-download title="download" file="STACCATO">}}
+
 <p style="color: red;" class="text-center">Ako ste manje iskusni u gradnji audio uređaja, preporučujem da pogledate neka uputstva u TUTORIJALIMA.</p>
