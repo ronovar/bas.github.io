@@ -49,6 +49,6 @@ Pre izvesnog vremena je do mene došla i jedna nova ideja u vrlo lepoj analizi �
 - Ukoliko se ne želi REMOTE SENSE, umesto R3 i R13 stavljaju se kratkospajači.
 - Zobela(10ohma+100nF) nema na pločici i mora se staviti na kleme pojačala.
 <hr>
-- {{< file-download title="download" file="STUDIO - III (viktor1986)">}}
+{{< file-download title="download" file="STUDIO - III (viktor1986)">}}
 
 <p style="color: red;" class="text-center">Ako ste manje iskusni u gradnji audio uređaja, preporučujem da pogledate neka uputstva u TUTORIJALIMA.</p>
