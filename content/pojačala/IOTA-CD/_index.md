@@ -53,5 +53,7 @@ Zbog nedostatka ozbiljne merne opreme, jedino je snaga za sada poznata, ali će 
 {{< /paige/quote >}}
 <hr>
 
+{{< file-download title="download" file="IOTA-CD">}}
+
 <p style="color: red;" class="text-center">Ako ste manje iskusni u gradnji audio uređaja, preporučujem da pogledate neka uputstva u TUTORIJALIMA.</p>
 
