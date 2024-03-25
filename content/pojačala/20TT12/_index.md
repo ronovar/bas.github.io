@@ -48,4 +48,6 @@ Postavljaj komponente iduci od ulaza i zaustavi se kad stignes do VAS kaskode tj
 {{< /paige/quote >}}
 <hr>
 
+{{< file-download title="download" file="20TT12">}}
+
 <p style="color: red;" class="text-center">Ako ste manje iskusni u gradnji audio uređaja, preporučujem da pogledate neka uputstva u TUTORIJALIMA.</p>
