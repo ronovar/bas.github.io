@@ -31,7 +31,7 @@ KOD KORIŠĆENJA TOLIKOG BROJA IZLAZNIH TRANZISTORA STVARNO JE NEOPHODNO DA SVI 
 ### Specifikacije
 <hr>
 {{< paige/quote >}}
-250 - 600W RMS/4Ω<br>(zavisi od broja izl. tranzistora i napajanja)<br>***Prosečna izlazna snaga***
+250 - 600W RMS/4Ω<br>(zavisi od izl. tranzistora i napajanja)<br>***Prosečna izlazna snaga***
 {{< /paige/quote >}}
 
 {{< paige/quote >}}
