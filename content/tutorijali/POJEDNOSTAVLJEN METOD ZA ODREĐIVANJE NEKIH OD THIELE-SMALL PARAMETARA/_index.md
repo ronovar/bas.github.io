@@ -51,7 +51,7 @@ Ostalo vam je još da odredite "Vas" i da bi to izveli moraćete da napravite ma
 
 Povežite sada zvučnik ponovo kao što je dato na šemi i menjajući frekvencu Signal-generatora pronađite sada novu rezonantnu frekvencu na isti način kao što ste to uradili kada je bio u slobodnom prostoru. Sada će ta frekvenca biti viša nego ona predhodna. Taj podatak je "Rezonansa u kutiji" tj. "Fb" i taj podatak unesite u odgovarajuće polje u proračunu. Program će automatski preračunati podatke i tog momenta ćete imati sve parametre koji su vam potrebni za projektovanje zvučne kutije za taj drajver.
 
-Moj vam je savet da za dalji proračun koristite jedan više nego zadovoljavajući (I UZ TO BESPLATAN) program koji se zove "WinISD" a možete ga skinuti <a href="../images/winisdbeta.exe" download="winisdbeta.exe">ovde</a>.
+Moj vam je savet da za dalji proračun koristite jedan više nego zadovoljavajući (I UZ TO BESPLATAN) program koji se zove "WinISD" a možete ga skinuti <a href="../../images/winisdbeta.exe" download="winisdbeta.exe">ovde</a>.
 
 Uzmite u obzir da ono što gotovo svi mi samograditelji tj. DIY-majstori radimo, ipak nije High-End i da zato nema potrebe da tragate i ko zna šta platite za neki super-profi softver. "WinISD" će više nego savršeno odraditi sve ono što je potrebno za jedan DIY dizajn.
 
