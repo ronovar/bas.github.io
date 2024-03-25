@@ -55,4 +55,6 @@ KOD KORIŠĆENJA TOLIKOG BROJA IZLAZNIH TRANZISTORA STVARNO JE NEOPHODNO DA SVI 
 {{< /paige/quote >}}
 <hr>
 
+{{< file-download title="download" file="BLASTER">}}
+
 <p style="color: red;" class="text-center">Ako ste manje iskusni u gradnji audio uređaja, preporučujem da pogledate neka uputstva u TUTORIJALIMA.</p>
