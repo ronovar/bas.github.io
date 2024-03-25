@@ -36,6 +36,6 @@ BYPASS mode...-96dB<br>TONE mode...-88dB<br>***ODNOS SIGNAL/ŠUM***
 {{< /paige/quote >}}
 <hr>
 
-{{< file-download title="download" file="STANDARD">}}
+{{< file-download title="download" file="STANDARD PRE">}}
 
 <p style="color: red;" class="text-center">Ako ste manje iskusni u gradnji audio uređaja, preporučujem da pogledate neka uputstva u TUTORIJALIMA.</p>
