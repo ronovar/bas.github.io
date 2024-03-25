@@ -100,3 +100,5 @@ Ako ste došli do ove tačke i sve se ponaša normalno i u skladu sa opisom koji
 Prvi primerak-prototip ovog dizajna napravio je Gdin Miodrag Lutovac iz Berana (CG) i to izuzetno uredno i lepo što i nije čudno znajući njegovo iskustvo i veštinu. Uredjaj je najnormalnije proradio već na prvom uključenju. Tako će se ponašati i svaki drugi sklopljen primerak ako su korišćene ispravne i originalne komponente i ako tokom gradnje nije napravljena nekakva greška u postavljanju komponenata ili lemljenju ili povezivanju.
 
 {{< file-download title="download" file="HF-2006">}}
+
+{{< file-download title="download" file="HF-2006 PREKLOPNIK">}}
