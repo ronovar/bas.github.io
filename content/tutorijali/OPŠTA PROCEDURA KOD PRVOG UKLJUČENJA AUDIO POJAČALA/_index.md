@@ -8,7 +8,7 @@ weight: 10
 ---
 ## OPŠTA PROCEDURA KOD PRVOG UKLJUČENJA AUDIO POJAČALA
 
-Ovo *uopšteno* praktično **uputstvo** namenjeno je uglavnom mlađim (po iskustvu) samograditeljima koji još nisu stekli dovoljno iskustva budući da im je to jedan od prvih ili možda baš prvi ozbiljniji projekat. Ako je tako, smatram da im neće biti na odmet da pročitaju i "Opšta Uputstva Za Gradnju Pojačala".
+Ovo *uopšteno* praktično **uputstvo** namenjeno je uglavnom mlađim (po iskustvu) samograditeljima koji još nisu stekli dovoljno iskustva budući da im je to jedan od prvih ili možda baš prvi ozbiljniji projekat. Ako je tako, smatram da im neće biti na odmet da pročitaju i <a href="../../tutorijali/opšta-uputstva-za-gradnju-pojačala/">"Opšta Uputstva Za Gradnju Pojačala"</a>.
 
 Većina današnjih dizajna izlaznih stepena srednje i veće snage su gotovo po pravilu urađena sa diferencijalnim parom na ulazu, komplementarnim parom snažnih tranzistora ili FET-ova na izlazu i simetričnim tj. "split" napajanjem. Zato će se ovo uputstvo u najvećoj meri i odnositi baš na takav tip izlaznog stepena.
 
