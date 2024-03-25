@@ -16,7 +16,7 @@ weight: 10
   {{< figure src="./gallery/CROSER/CROSER - Sinus 1kHz (micro).jpg" caption="CROSER - Sinus 1kHz (micro)" >}}
   {{< figure src="./gallery/CROSER/CROSER - Pila 1.04kHz (micro).jpg" caption="CROSER - Pila 1.04kHz (micro)" >}}
   {{< figure src="./gallery/CROSER/CROSER - Sinus 25.8kHz (micro).jpg" caption="Sinus 25.8kHz (micro)" >}}
-  {{< figure src="./gallery/CROSER/CROSER - Pila 25.7kHz (micro).jpg" caption="CROSER - Pila 25.7kHz (micro).jpg" >}}
+  {{< figure src="./gallery/CROSER/CROSER - Pila 25.8kHz (micro).jpg" caption="CROSER - Pila 25.8kHz (micro).jpg" >}}
   {{< figure src="./gallery/CROSER/CROSER - Sinus 53.3kHz (micro).jpg" caption="CROSER - Sinus 53.3kHz (micro)" >}}
   {{< figure src="./gallery/CROSER/CROSER - Pila 54.9kHz (micro).jpg" caption="CROSER - Pila 54.9kHz (micro).jpg" >}}
   {{< figure src="./gallery/CROSER/CROSER - Sinus 108kHz (micro).jpg" caption="CROSER - Sinus 108kHz (micro)" >}}
@@ -62,6 +62,8 @@ Za one druge koje ocenu na sluh zanima i tehnička strana, evo nekoliko snimaka 
 <0.01%<br>(12Hz-92KHz i u opsegu do 70% izlazne snage)<br>***THD***
 {{< /paige/quote >}}
 <hr>
+
+{{< file-download title="download" file="CROSER">}}
 
 <p style="color: red;" class="text-center">Detaljnija merenja ostalih parametara nisu izvršena zbog nedostatka adekvatnih instrumenata!</p>
 
