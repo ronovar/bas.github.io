@@ -54,4 +54,6 @@ BAS...10dB na 50Hz<br>TREBLE...10dB na 10KHz<br>***Tonska kontrola***
 {{< /paige/quote >}}
 <hr>
 
+{{< file-download title="download" file="VIVACE">}}
+
 <p style="color: red;" class="text-center">Ako ste manje iskusni u gradnji audio uređaja, preporučujem da pogledate neka uputstva u TUTORIJALIMA.</p>
