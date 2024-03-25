@@ -32,4 +32,6 @@ Ovo je jedno visoko kvalitetno pojacalo dizajnirano da da audiophilni zvuk za na
 {{< /paige/quote >}}
 <hr>
 
+{{< file-download title="download" file="CALOR-HT">}}
+
 <p style="color: red;" class="text-center">Ako ste manje iskusni u gradnji audio uređaja, preporučujem da pogledate neka uputstva u TUTORIJALIMA.</p>
