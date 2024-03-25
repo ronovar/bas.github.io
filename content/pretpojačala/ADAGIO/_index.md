@@ -66,4 +66,10 @@ BYPASS mode...-96dB<br>TONE mode...-91dB<br>***ODNOS SIGNAL/ŠUM***
 {{< /paige/quote >}}
 <hr>
 
+{{< file-download title="download" file="ADAGIO">}}
+
+{{< file-download title="download" file="ADAGIO PSU">}}
+
+{{< file-download title="download" file="ADAGIO SELEKTOR">}}
+
 <p style="color: red;" class="text-center">Ako ste manje iskusni u gradnji audio uređaja, preporučujem da pogledate neka uputstva u TUTORIJALIMA.</p>
