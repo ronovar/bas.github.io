@@ -24,5 +24,10 @@ Ovo je jedno *vrlo jednostavno* ali i više nego dovoljno **kvalitetno** predpoj
 {{< paige/quote >}}
 5.53x<br>14.85dB<br>***Naponsko pojačanje***
 {{< /paige/quote >}}
+<hr>
+
+{{< file-download title="download" file="CLEPSIDRA">}}
+
+{{< file-download title="download" file="CLEPSIDRA (viktor1986)">}}
 
 <p style="color: red;" class="text-center">Ako ste manje iskusni u gradnji audio uređaja, preporučujem da pogledate neka uputstva u TUTORIJALIMA.</p>
