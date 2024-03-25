@@ -17,11 +17,15 @@ Ovo je jedno visoko kvalitetno pojacalo dizajnirano da da audiophilni zvuk za na
 {{< /paige/quote >}}
 
 {{< paige/quote >}}
-*********<br>(pri 85% snage)<br>***Frekventni opseg snage***
+0,2Hz - 2,5MHz<br>(pri 85% snage)<br>***Frekventni opseg snage***
 {{< /paige/quote >}}
 
 {{< paige/quote >}}
-*********<br>(20Hz-20kHz/80%snage)<br>***THD***
+<0,008%<br>(20Hz-20kHz/80%snage)<br>***THD***
+{{< /paige/quote >}}
+
+{{< paige/quote >}}
+75V/μS<br>(pri 80% izlazne snage)<br>***Slew rate***
 {{< /paige/quote >}}
 <hr>
 
