@@ -1,12 +1,12 @@
 ---
 title: "TALISMAN-AG"
 date: 2024-03-18
-description: "High-End thermaltrak pojačalo"
+description: "High-End ThermalTrak pojačalo (u fazi prototipa)"
 draft: false
 tags: ["TALISMAN-AG"]
 weight: 10
 ---
-## High-End thermaltrak pojačalo
+## High-End ThermalTrak pojačalo (u fazi prototipa)
 
 <hr>
 {{< load-photoswipe >}}
