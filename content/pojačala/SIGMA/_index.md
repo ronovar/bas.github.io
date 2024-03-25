@@ -56,4 +56,6 @@ Podešavanje je veoma jednostavno i praktično se svodi na proveru simetrije tj.
 {{< /paige/quote >}}
 <hr>
 
+{{< file-download title="download" file="SIGMA">}}
+
 <p style="color: red;" class="text-center">Ako ste manje iskusni u gradnji audio uređaja, preporučujem da pogledate neka uputstva u TUTORIJALIMA.</p>
