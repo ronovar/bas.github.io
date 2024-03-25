@@ -44,5 +44,8 @@ SKLOP ZA NAPAJANJE nije deo ovog  KIT-a i moraćete ga sami napraviti. Kvalitet 
 {{< paige/image alt="FlatBT-Series PSU" title="FlatBT-Series PSU" src="./images/FlatBT-Series PSU.jpg" >}}
 {{< paige/image alt="FlatBT-Parallel PSU" title="FlatBT-Parallel PSU" src="./images/FlatBT-Parallel PSU.jpg" >}}
 {{< /paige/gallery >}}
+<hr>
+
+{{< file-download title="download" file="FlatBT">}}
 
 <p style="color: red;" class="text-center">Ako ste manje iskusni u gradnji audio uređaja, preporučujem da pogledate neka uputstva u TUTORIJALIMA.</p>
