@@ -51,4 +51,8 @@ O preciznijem uticaju na neke tehničke karakteristike koje pominju u brošuri, 
 
 {{< file-download title="download" file="TALISMAN-AG">}}
 
+{{< file-download title="download" file="TALISMAN-AG PSU">}}
+
+{{< file-download title="download" file="TALISMAN-AG AC">}}
+
 <p style="color: red;" class="text-center">Ako ste manje iskusni u gradnji audio uređaja, preporučujem da pogledate neka uputstva u TUTORIJALIMA.</p>
