@@ -48,4 +48,6 @@ SKLOP ZA NAPAJANJE nije deo ovog  KIT-a i moraćete ga sami napraviti. Kvalitet 
 
 {{< file-download title="download" file="FlatBT">}}
 
+{{< file-download title="download" file="FlatBT (viktor1986)">}}
+
 <p style="color: red;" class="text-center">Ako ste manje iskusni u gradnji audio uređaja, preporučujem da pogledate neka uputstva u TUTORIJALIMA.</p>
