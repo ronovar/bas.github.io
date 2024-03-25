@@ -46,6 +46,8 @@ oko 70 - 80W/8Ω<br>(74W na mom prototipu)<br>***Prosečna izlazna snaga***
 {{< /paige/quote >}}
 <hr>
 
+{{< file-download title="download" file="DOGC-MK3">}}
+
 ## DOGC-H
 
 <hr>
@@ -57,6 +59,8 @@ oko 70 - 80W/8Ω<br>(74W na mom prototipu)<br>***Prosečna izlazna snaga***
 <hr>
 
 Veliki broj ljudi je do sada uradio DOGC-MK3 i jedan broj njih je, iako veoma zadovoljan, ipak poželeo da DOGC ima više snage i da može sa lakoćom da radi i na nižim impedansama od 8 oma. To sam im sada ispunio o dizajnirao modifikaciju koja to omogućava i nazvao je DOGC-H. Ono dodatno "H" bi značilo High Power. Da bi se dimenzije pločice zadržale u razumnim granicama, kao izlazni tranzistori su predviđeni ONsemi u TO264 kučištu jer bi sa Sanken tranzistorima širina pločice bila prevelika. Uneseno je još nekoliko izmena neophodnih zbog paralelnog vezivanja dodatnog para tranzistora. Dva spoljna otpornika za napajanje sklopa sa LF411 koji su kod MK3 bili 3k3/2W , u ovoj verziji treba da su 3k9/2W zbog višeg napona napajanja.
+
+{{< file-download title="download" file="DOGC-H">}}
 
 <p style="color: red;" class="text-center">Ako ste manje iskusni u gradnji audio uređaja, preporučujem da pogledate neka uputstva u TUTORIJALIMA.</p>
 
