@@ -44,4 +44,6 @@ Ovo je jedno visoko kvalitetno pojačalo dizajnirano za vrhunski audiofilni zvuk
 {{< /paige/quote >}}
 <hr>
 
+{{< file-download title="download" file="BYTHOS">}}
+
 <p style="color: red;" class="text-center">Ako ste manje iskusni u gradnji audio uređaja, preporučujem da pogledate neka uputstva u TUTORIJALIMA.</p>
