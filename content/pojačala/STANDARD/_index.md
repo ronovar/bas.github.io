@@ -54,3 +54,5 @@ Za one koje to zanima, u toku razvoja ovog pojačala, postojala je i jedna prili
 &#62;80<br>(pri 80% izlazne snage)<br>***Damping faktor***
 {{< /paige/quote >}}
 <hr>
+
+{{< file-download title="download" file="STANDARD">}}
