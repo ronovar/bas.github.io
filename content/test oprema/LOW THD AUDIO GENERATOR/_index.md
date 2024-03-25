@@ -29,5 +29,8 @@ Kao i veliki broj sličnih uređaja, i ovaj radi na principu Wien-ovog mosta. U 
 Podešavanje uređaja je vrlo jednostavno i svodi se na podešavanje mirne struje izlaznog stepena na vrednost od 5mA trimer-potenciometrom "BIAS" od 2k. Merite pad napona na oba izlazna otpornika od 22 oma (dakle između emitera izlaznih tranzistora) i taj napon treba da je 220mV. Izlazni nivo se podešava tako što se potenciometar 1k "IZLAZNI NIVO" postavi na maksimum, preklopnik izlaznog atenuatora se postavi na polozaj 3V i tada se trimer-potenciometrom 2k "PODEŠAVANJE IZLAZNOG NIVOA" podesi da na izlazu bude tačno 3V RMS na frekvenci od 1kHz.
 
 Na izlazu za "četvrtku" se dobija savršeno čist i pravilan i veoma "brz" četvrtasti signal koji ima Slew-Rate bolji od 300V/μS odnosno vreme porasta i pada vertikalnih ivica je manje od 20nS. Ovime se mogu testirati i najbrža audio pojačala jer je jako malo njih sa Slew-Rate boljim od 300V/μS.
+<hr>
+
+{{< file-download title="download" file="LOW THD AUDIO GENERATOR">}}
 
 <p style="color: red;" class="text-center">Ako ste manje iskusni u gradnji audio uređaja, preporučujem da pogledate neka uputstva u TUTORIJALIMA.</p>
