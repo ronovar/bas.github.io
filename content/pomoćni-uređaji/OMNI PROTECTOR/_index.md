@@ -45,6 +45,8 @@ Ako vaše pojačalo ima ugrađen OMNI-protektor, uvek ga prvo isključite ako ho
 
 {{< file-download title="download" file="OMNI PROTECTOR">}}
 
+{{< file-download title="download" file="OMNI PROTECTOR V2">}}
+
 <p style="color: red;" class="text-center">NIKADA nemojte priključivati ili otkačinjati zvučnike ili kablove dok pojačalo radi !!!!!!!!!!!!!!!!!!!!!</p>
 
 <p style="color: red;" class="text-center">Ako ste manje iskusni u gradnji audio uređaja, preporučujem da pogledate neka uputstva u TUTORIJALIMA.</p>
