@@ -3,7 +3,7 @@ title: "DOGC-MK3"
 date: 2024-03-18
 description: "Current dumping audio pojačalo"
 draft: false
-tags: ["DOGC-MK3"]
+tags: ["DOGC-MK3", "DOGC-H"]
 weight: 10
 ---
 ## Current dumping audio pojačalo
