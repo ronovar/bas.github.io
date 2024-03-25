@@ -44,4 +44,10 @@ BYPASS mode...-105dB<br>TONE mode...-100dB (zavisi od položaja kontrola)<br>***
 {{< /paige/quote >}}
 <hr>
 
+{{< file-download title="download" file="ALLEGRO">}}
+
+{{< file-download title="download" file="ALLEGRO PSU">}}
+
+{{< file-download title="download" file="ALLEGRO PREKLOPNIK">}}
+
 <p style="color: red;" class="text-center">Ako ste manje iskusni u gradnji audio uređaja, preporučujem da pogledate neka uputstva u TUTORIJALIMA.</p>
