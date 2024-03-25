@@ -13,7 +13,7 @@ Ako imate *potrebe* za **snažnijim** izlaznim stepenom, kao recimo, za srednje 
 ### Specifikacije
 <hr>
 {{< paige/quote >}}
-250-500W RMS/4-8Ω<br>(zavisi od vrste i broja izl. fetova i napajanja)<br>***Prosečna izlazna snaga***
+250-500W RMS/4-8Ω<br>(zavisi od broja izl. fetova i napajanja)<br>***Prosečna izlazna snaga***
 {{< /paige/quote >}}
 
 {{< paige/quote >}}
