@@ -43,5 +43,7 @@ Lambda zvuči vrhunski i ako joj date dobar i dovoljan hladnjak kao i kvalitetan
 {{< /paige/quote >}}
 <hr>
 
+{{< file-download title="download" file="LAMBDA">}}
+
 <p style="color: red;" class="text-center">Detaljnija merenja ostalih parametara nisu izvršena zbog nedostatka adekvatnih instrumenata!</p>
 <p style="color: red;" class="text-center">Ako ste manje iskusni u gradnji audio uređaja, preporučujem da pogledate neka uputstva u TUTORIJALIMA.</p>
