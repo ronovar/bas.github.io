@@ -20,5 +20,8 @@ Tako je nastao ovaj pretvarač koji u osnovi radi u prekidačkom režimu koji je
 - 6 kondenzatora od po 10uF između sredine primara trafoa i mase se montiraju i leme sa iste strane pločice kao i ostali elementi samo što za njih ne treba bušiti rupice već se direktno leme između dva vrlo široka paralelna bakarna voda.
 - Pazite na kablove i veze koje vode velike ulazne struje, jer se pri velikim snagama pojačala, iz akumulatora tada "vuče" i 60 Ampera!!!
 - Bimetalni termo-prekidač se montira na hladnjak na kome su prekidački FET-ovi.
+<hr>
+
+{{< file-download title="download" file="DC-DC SMPS">}}
 
 <p style="color: red;" class="text-center">Ako ste manje iskusni u gradnji audio uređaja, preporučujem da pogledate neka uputstva u TUTORIJALIMA.</p>
