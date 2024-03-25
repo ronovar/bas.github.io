@@ -158,8 +158,6 @@ table td, table th {
   padding: 8px;
 }
 
-table tr:hover {background-color: #B5DF9F;}
-
 table th {
   padding-top: 12px;
   padding-bottom: 12px;
