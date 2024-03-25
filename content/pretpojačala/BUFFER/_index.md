@@ -32,4 +32,8 @@ Ovo je jedno vrlo jednostavno ali i vrlo kvalitetno predpojačalo za većinu pri
 {{< /paige/quote >}}
 <hr>
 
+{{< file-download title="download" file="BUFFER">}}
+
+{{< file-download title="download" file="BUFFER (viktor1986)">}}
+
 <p style="color: red;" class="text-center">Ako ste manje iskusni u gradnji audio uređaja, preporučujem da pogledate neka uputstva u TUTORIJALIMA.</p>
