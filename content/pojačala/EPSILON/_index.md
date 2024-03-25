@@ -40,7 +40,7 @@ oko 100 - 120W/8Ω<br>(pri 80% izlazne snage)<br>***Prosečna izlazna snaga***
 {{< /paige/quote >}}
 <hr>
 
-{{< file-download title="download" file="EPSILON">}}
+{{< file-download title="download" file="EPSILON (viktor1986)">}}
 
 > Detaljnija merenja ostalih parametara nisu izvršena zbog nedostatka adekvatnih instrumenata!
 
