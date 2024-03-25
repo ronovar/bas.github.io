@@ -23,5 +23,9 @@ Budući da su tokom razvoja ove kutije od pasivnih "prerasle" u aktivne, razvije
 Skretnica je jedno standardno dobro poznato rešenje sa kombinacijama Linkwitz-Riley čelija, s tim da sam kao prelomne frekvence odabrao 280Hz i 4260Hz. Ovo je zbog toga što smatram da po svaku cenu treba uvek nastojati da se izbegne "rezanje" u opsegu od oko 350Hz do oko 3,6KHz. Ovo je još važnije za pasivne skretnice nego za aktivne pa vam savetujem da me poslušate. U ostalom to mi je i praksa više puta pokazala a objašnjenje bi zahtevalo mnogo više vremena i prostora nego što sam trenutno voljan da uložim.
 
 Šeme skretnice i izlaznih stepena čete naći na dnu stranice u Adobe-ovom PDF formatu. Postoje i razrade pločica za oba modula koje ovde nisu date, ali je moguće da bih ponekom mogao i da ih ustupim. Šema ispravljača za napajanje oba modula nije data jer smatram da svako ko je dovoljno samouveren i sposoban da krene u ovu gradnju, treba da je više nego sposoban da sam uradi tako jednostavan sklop. Sam trafo treba da je torusni i sa 2x22V AC na sekundaru.
+<hr>
+
+{{< file-download title="download" file="TOCATTA-II AKTIVNA SKRETNICA">}}
+{{< file-download title="download" file="TOCATTA-II IZLAZNI STEPEN">}}
 
 <p style="color: red;" class="text-center">Ako ste manje iskusni u gradnji audio uređaja, preporučujem da pogledate neka uputstva u TUTORIJALIMA.</p>
