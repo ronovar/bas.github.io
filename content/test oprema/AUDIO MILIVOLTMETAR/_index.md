@@ -32,5 +32,8 @@ Kalibracija instrumenta je takođe prilično jednostavna i jedino što vam treba
 - Frekventni opseg - 5Hz-100KHz (+-0,5dB)
 - Rezidualni šum manji od ~200uV pri otvorenom (ali oklopljenom) ulazu
 - Potrošnja struje oko 5-6mA iz svake baterije
+<br>
+
+{{< file-download title="download" file="AUDIO MILIVOLTMETAR">}}
 
 <p style="color: red;" class="text-center">Ako ste manje iskusni u gradnji audio uređaja, preporučujem da pogledate neka uputstva u TUTORIJALIMA.</p>
