@@ -34,7 +34,7 @@ Za ceo ovaj projekat nisam razrađivao nikakvu pločicu jer to nije bilo prakti�
 
 <p style="color="red">*** OBRATITE PAŽNJU ***</p> da su na šemi redni tranzistori u stabilizatorima označeni kao MJE340 i MJE350 a na pločici su MJE15030 i MJE15031. Šema će isto raditi i sa jednim i sa drugim parom ali je pločica rađena za ovaj drugi par i ne možete umesto njih u isti položaj staviti MJE340/350 jer se raspored nožica razlikuje, odnosno, kod ta dva tipa tranzistora Baza i Emiter su zamenili mesta pa se 340/350 moraju postaviti okrenuti-rotirani za 180 stepeni!!! To znači da im metalna površina sa zadnje strane treba da "gleda" na one Zenerice od 10V dok 15030/15031 treba postaviti baš onako kako je to na rasporedu predstavljeno. Raspored je inače dat kao da je gledano sa strane komponenata.
 
-{{< file-download title="download" file="UNIVERSAL PSU">}}
+{{< file-download title="download" file="UNIVERZALNI PSU">}}
 
 ### Dodatak
 
