@@ -33,3 +33,8 @@ Verujem da ce svima ipak najinteresantnije biti da vide seme celog sistema. Ove 
 Ostao sam vam svima duzan jos fajlove za plocice. Evo ih kao PDF u razmeri 1:1.
 
 Nebojsa i ja se za sada nismo odlucivali da ponudimo i uradjene plocice jer su ove dizajnirane da pasuju meni u mojoj kutiji i za moje pojacalo a to ne mora da pasuje kod drugih a mozda se nekome i ne budu svidjale. U tim slucajevima ce se graditelji morati sami da snadju i dizajniraju sopstvene plocice na kojima moze i ne mora biti bas sve sto i na mojim. Sam PIC ostaje isti i funkcionisace ispravno ako su i te plocice dizajnirane ispravno! ?Postoji i blaga primedba da je PIC-UNIT plocica dvostrana sto nije bas zgodno za samograditelje, ali se ti vodovi koji su sa gornje strane mogu izvesti lepo i zicama i kratkospojnicima ako vam to ne smeta, ili redizajnirati plocicu da nema potrebe za dvostranom stampom. Sve te varijante su ostavljene svakome na volju da resi prema svojim zeljama, mogucnostima i potrebama.
+<hr>
+
+{{< file-download title="download" file="PIC-OMNI Protector">}}
+
+<p style="color: red;" class="text-center">Ako ste manje iskusni u gradnji audio uređaja, preporučujem da pogledate neka uputstva u TUTORIJALIMA.</p>
