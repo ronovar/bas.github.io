@@ -16,4 +16,8 @@ Stvarno je veoma bitno da se držite vrednosti elemenata sa šeme i da koristite
 
 Ako želite samo filter za Sub a da postojeća dva kanala ostavite kako već jesu, rešenje je na šemi 2 koja je u stvari samo srednji subwoofer filter iz seme 1.
 
+<hr>
+
+{{< file-download title="download" file="PRE-SUBZERO">}}
+
 <p style="color: red;" class="text-center">Ako ste manje iskusni u gradnji audio uređaja, preporučujem da pogledate neka uputstva u TUTORIJALIMA.</p>
