@@ -129,6 +129,8 @@ ul.file-download li .download > .bi {
 .dfn {
   top: 33px;
   font-size: 0.84em;
+  line-height: 1.01;
+  text-align: left;
 }
 
 ul.file-download li .download:hover {
