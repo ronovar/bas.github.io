@@ -40,6 +40,8 @@ oko 100 - 120W/8Ω<br>(pri 80% izlazne snage)<br>***Prosečna izlazna snaga***
 {{< /paige/quote >}}
 <hr>
 
+{{< file-download title="download" file="EPSILON">}}
+
 > Detaljnija merenja ostalih parametara nisu izvršena zbog nedostatka adekvatnih instrumenata!
 
 <p style="color: red;" class="text-center">Ako ste manje iskusni u gradnji audio uređaja, preporučujem da pogledate neka uputstva u TUTORIJALIMA.</p>
