@@ -35,6 +35,8 @@ Normalno, moguća su i druga, još egzotičnija rešenja, a verovatno i neka jo�
 
 Iz razloga jednostavnosti, šema je podeljena na dva dela: šema filterskog člana (na pločici ima četiri takva indentična filtera) i šema BAS i Treble tonske kontrole. Na tim šemama NISU ucrtani blok kondenzatori za blokadu (dekuplovanje) napajanja a koje će te naći na pločici. SVI takvi kondenzatori su 100nF i svi su MKH ili MKM tipa (NE DISK KERAMICKI !!!!!!!!!!) i treba ih ugraditi iako ih na šemi nema. Takođe zbog jednostavnosti, na šemi vezivanja su prikazani samo potenciometri za tonsku kontrolu i JEDAN filter, a ostali filteri se vezuju indentično. Gledajte da vam rastojanje od pločice do potenciometara na prednjoj ploči bude što manje! Što se tiče napajanja, ono je standardnog tipa +-15V stabilizovano, pa nije data ni šema ni pločica za to.
 
+{{< file-download title="download" file="PARAMETARSKI EKVILAJZER">}}
+
 <p style="color: red;" class="text-center">JOŠ JEDNOM NAPOMINJEM DA JE OVO PLOČICA ZA JEDAN KANAL, A ZA STEREO VAM TREBA DVE TAKVE PLOCICE !!!!</p>
 
 <p style="color: red;" class="text-center">Ako ste manje iskusni u gradnji audio uređaja, preporučujem da pogledate neka uputstva u TUTORIJALIMA.</p>
