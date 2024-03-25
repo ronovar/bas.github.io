@@ -44,4 +44,6 @@ weight: 10
 {{< /paige/quote >}}
 <hr>
 
+{{< file-download title="download" file="GAMMA-400">}}
+
 <p style="color: red;" class="text-center">Ako ste manje iskusni u gradnji audio uređaja, preporučujem da pogledate neka uputstva u TUTORIJALIMA.</p>
