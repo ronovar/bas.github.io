@@ -105,6 +105,7 @@ Izbor drajvera za TL kutije nije baš uvek lak, jer se pokazalo da relativno man
 | Seaford   |           1,1-1,5           |             1             |
 | Weems     |            1,5-2            |             1             |
 
+<br>
 Kojem će te se vi "carstvu privoleti" ostaje na vama odlučite. Sudeći po vrlo raznolikim odnosima sužavanja, čini se da to i nije posebno presudan faktor budući da TL kutije svih ovih autora veoma dobro zvuče prema izveštajima sa testova. Izgleda da su dosta kritičniji faktori: izbor drajvera i način i gustina ispunjavanja talasovoda damping materijalom kao i vrsta samog materijala. Tu takođe postoje značajna razmimoilaženja među autorima, pa eksperimentisanje izgleda ostaje neminovnost za postizanje dobrih rezultata.
 
 Imajući u vidu namenu ovog tutorijala iznešenu na samom početku, samo ću pomenuti i vrlo sažeto opisati način funkcionisanja još nekih tipova zvučnih kutija.
