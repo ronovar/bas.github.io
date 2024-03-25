@@ -58,4 +58,6 @@ Ovu novu verziju StudioSE do danas (08April2008) još niko nije praktično sklop
 
 {{< file-download title="download" file="STUDIO-SE">}}
 
+{{< file-download title="download" file="EMIT-RES">}}
+
 <p style="color: red;" class="text-center">Ako ste manje iskusni u gradnji audio uređaja, preporučujem da pogledate neka uputstva u TUTORIJALIMA.</p>
