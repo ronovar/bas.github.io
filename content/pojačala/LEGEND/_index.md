@@ -70,7 +70,7 @@ oko 50mA<br>(po izlaznom paru)<br>***BIAS***
 {{< /paige/quote >}}
 <hr>
 
-{{< file-download title="download" style="inline-size: 100px; overflow-wrap: break-word;" file="LEGEND - STAGE MASTER">}}
+{{< file-download title="download" file="LEGEND - STAGE MASTER">}}
 
 ## LEGEND - Stage Master MK2 (prototip)
 
