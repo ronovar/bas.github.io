@@ -165,3 +165,7 @@ table th {
   background-color: #04AA6D;
   color: white;
 }
+
+table tr td:nth-child(2) {
+  text-align: center;  
+}
