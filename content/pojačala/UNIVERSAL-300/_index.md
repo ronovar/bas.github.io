@@ -13,7 +13,7 @@ Ovo je jedan klasičan izlazni stepen prilično univerzalne namene i dosta dobri
 ### Specifikacije
 <hr>
 {{< paige/quote >}}
-50 - 350W RMS/4-8Ω<br>(zavisi od vrste i broja izl. fetova, kao i psu)<br>***Prosečna izlazna snaga***
+50 - 350W RMS/4-8Ω<br>(zavisi od broja izl. fetova, kao i psu)<br>***Prosečna izlazna snaga***
 {{< /paige/quote >}}
 
 {{< paige/quote >}}
@@ -36,5 +36,7 @@ Ovo je jedan klasičan izlazni stepen prilično univerzalne namene i dosta dobri
 &#62;230<br>(pri 80% izlazne snage)<br>***Damping faktor***
 {{< /paige/quote >}}
 <hr>
+
+{{< file-download title="download" file="UNIVERSAL-300">}}
 
 <p style="color: red;" class="text-center">Ako ste manje iskusni u gradnji audio uređaja, preporučujem da pogledate neka uputstva u TUTORIJALIMA.</p>
