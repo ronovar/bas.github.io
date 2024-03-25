@@ -49,4 +49,6 @@ O preciznijem uticaju na neke tehničke karakteristike koje pominju u brošuri, 
 {{< /paige/quote >}}
 <hr>
 
+{{< file-download title="download" file="TALISMAN-AG">}}
+
 <p style="color: red;" class="text-center">Ako ste manje iskusni u gradnji audio uređaja, preporučujem da pogledate neka uputstva u TUTORIJALIMA.</p>
