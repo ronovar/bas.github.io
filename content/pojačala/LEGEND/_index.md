@@ -3,7 +3,7 @@ title: "LEGEND"
 date: 2024-03-20
 description: "Power amplifier audio pojačalo"
 draft: false
-tags: ["LEGEND"]
+tags: ["LEGEND", "LEGEND - STAGE MASTER", "LEGEND - STAGE MASTER MK2", "LEGEND - QUASOR"]
 weight: 10
 ---
 ## Power amplifier audio pojačalo
