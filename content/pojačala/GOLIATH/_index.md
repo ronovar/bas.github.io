@@ -37,4 +37,6 @@ Ako imate *potrebe* za **snažnijim** izlaznim stepenom, kao recimo, za srednje 
 {{< /paige/quote >}}
 <hr>
 
+{{< file-download title="download" file="GOLIATH">}}
+
 <p style="color: red;" class="text-center">Ako ste manje iskusni u gradnji audio uređaja, preporučujem da pogledate neka uputstva u TUTORIJALIMA.</p>
