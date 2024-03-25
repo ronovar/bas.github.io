@@ -124,3 +124,7 @@ do 2,5°<br>u granicama 20Hz-20kHz<br>***Fazni pomak***
 &#62;750<br>(pri 80% izlazne snage)<br>***Damping faktor***
 {{< /paige/quote >}}
 <hr>
+
+{{< file-download title="download" file="CALOR-Gold">}}
+
+<p style="color: red;" class="text-center">Ako ste manje iskusni u gradnji audio uređaja, preporučujem da pogledate neka uputstva u TUTORIJALIMA.</p>
