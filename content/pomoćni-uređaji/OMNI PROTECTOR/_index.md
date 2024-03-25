@@ -41,6 +41,9 @@ Jedino što bi možda moglo da malo komplikuje stvari je potreba da se na ploči
 Ulaz označen kao "accessory input" je pomoćni kontrolni ulaz na koji se može dovesti bilo kakva dodatna spoljna kontrola od nekakvih sezora ili nečeg drugog. Jednostavno rečeno, bilo šta spolja priključeno što taj ulaz kratkospoji na masu će aktivirati OMNI zaštitu i releji neće uključiti zvučnike.
 
 Ako vaše pojačalo ima ugrađen OMNI-protektor, uvek ga prvo isključite ako hoćete da bilo šta menjate u sistemu zvučnika i zvučničkih kablova.
+<hr>
+
+{{< file-download title="download" file="OMNI PROTECTOR">}}
 
 <p style="color: red;" class="text-center">NIKADA nemojte priključivati ili otkačinjati zvučnike ili kablove dok pojačalo radi !!!!!!!!!!!!!!!!!!!!!</p>
 
